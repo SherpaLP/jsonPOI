@@ -68,11 +68,24 @@
 		    "info": "53  rue J. Jaurès 3200 Vichy "
 	    },
             { 
-		    "name": "Pompes Funèbres Cerilly Ambulance",
-		    "lat": 46.617773,
-		    "lng": 2.819754,
-		    "info": "57  avenue Jean Jaurès 3350 Cérilly "
-	    },
-
-] 
+		    "name": "Dazy Funéraire",
+  		    "lat": 46.659784,
+  		    "lng": 2.694016,
+  		    "info": "6 place de l'Eglise 3360 Saint-Bonnet-Tronçais"
+    }
+  ],
+  "category2": [
+    {
+      "name": "Chambre Funéraire",
+      "lat": 46.586135,
+      "lng": 3.058281,
+      "info": "1 Rue Achille Allier 03160 Bourbon-l'Archambault"
+    },
+    {
+      "name": "Chambre Funéraire",
+      "lat": 46.138214,
+      "lng": 3.436755,
+      "info": "105 Avenue Gilbert Roux 03300 Cusset"
+    }
+  ]
 }
