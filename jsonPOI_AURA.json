@@ -1,7 +1,7 @@
 { 
 "category1": [ 
 
-   { name: "Ainay Funéraire", lat: 46.711471, lng: 2.694486, info: "18  Av. V. Hugo 3360 Ainay-le-Château "},
+            { name: "Ainay Funéraire", lat: 46.711471, lng: 2.694486, info: "18  Av. V. Hugo 3360 Ainay-le-Château "},
             { name: "Dazy Funéraire", lat: 46.659784, lng: 2.694016, info: "6  place de l'Eglise 3360 Saint-Bonnet-Tronçais "},
             { name: "La Maison des Obsèques - Ets Boussel", lat: 46.350701, lng: 3.793534, info: "2 Rue du Dr Bertheol 3130 Le Donjon "},
             { name: "La Maison des Obsèques - Pompes Funèbres Boussel", lat: 46.247977, lng: 3.634277, info: "37 Rue Président Roosevelt 3120 Lapalisse "},
@@ -51,7 +51,7 @@
             { name: "Pompes Funèbres Vigouroux", lat: 46.213007, lng: 3.439011, info: "Z. I. Le Coquet 3260 Saint-Germain-des-Fossés "},
             { name: "Pompes Funèbres Viturat - ROC'ECLERC", lat: 46.465107, lng: 3.431869, info: "4 et 5  place de la Mairie 3340 Neuilly-le-Réal "},
             { name: "Roc-Eclerc Pompes Funèbres Faucheron", lat: 46.138214, lng: 3.436755, info: "105  Avenue Gilbert Roux 3300 Cusset "},
-			{ name: "9feetunder.com", lat: 45.923088, lng: 4.939406, info: "842 Route de Neuville 01390 Saint-André-de-Corcy "},
+	    { name: "9feetunder.com", lat: 45.923088, lng: 4.939406, info: "842 Route de Neuville 01390 Saint-André-de-Corcy "},
             { name: "Espace Funéraire Carrara", lat: 46.385648, lng: 4.914572, info: "23 impasse en Chossagne 01190 Ozan "},
             { name: "Espace Funéraire Marbrerie CARRARA", lat: 46.28805, lng: 4.910486, info: "21 Rue des Essarts 01380 Saint-André-de-Bâgé "},
             { name: "Espace Funéraire Michel Gardechaux", lat: 46.431813, lng: 4.937462, info: "30 Rue Maréchal de Lattre De Tassigny 01190 Pont-de-Vaux "},
