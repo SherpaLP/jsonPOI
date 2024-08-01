@@ -1,7 +1,12 @@
 { 
 "category1": [ 
 
-            { name: "Ainay Funéraire", lat: 46.711471, lng: 2.694486, info: "18  Av. V. Hugo 3360 Ainay-le-Château "},
+             {
+      "name": "Ainay Funéraire",
+      "lat": 46.711471,
+      "lng": 2.694486,
+      "info": "18 Av. V. Hugo 3360 Ainay-le-Château"
+    },
             { name: "Dazy Funéraire", lat: 46.659784, lng: 2.694016, info: "6  place de l'Eglise 3360 Saint-Bonnet-Tronçais "},
             { name: "La Maison des Obsèques - Ets Boussel", lat: 46.350701, lng: 3.793534, info: "2 Rue du Dr Bertheol 3130 Le Donjon "},
             { name: "La Maison des Obsèques - Pompes Funèbres Boussel", lat: 46.247977, lng: 3.634277, info: "37 Rue Président Roosevelt 3120 Lapalisse "},
