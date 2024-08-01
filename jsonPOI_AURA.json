@@ -1,77 +1,76 @@
-{ 
-"category1": [ 
-
-        	{
-			"name": "La Maison des Obsèques - Ets Boussel",
-			"lat": 46.350701,
-			"lng": 3.793534,
-			"info": "2 Rue du Dr Bertheol 3130 Le Donjon "
-		},
-            { 
-		    "name": "La Maison des Obsèques - Pompes Funèbres Boussel",
-		    "lat": 46.247977,
-		    "lng": 3.634277,
-		    "info": "37 Rue Président Roosevelt 3120 Lapalisse "
-	    },
-            { 
-		    "name": "La Maison des Obsèques - Pompes Funèbres Boussel",
-		    "lat": 46.1367,
-		    "lng": 3.423321,
-		    "info": "4 Rue des Bartins 3200 Vichy "
-	    },
-            { 
-		    "name": "La Maison des Obsèques - Pompes Funèbres Boussel",
-		    "lat": 46.299416,
-		    "lng": 3.297478,
-		    "info": "10 Rue Louis Tellier 3500 Saint-Pourçain-sur-Sioule"
-	    },
-            { 
-		    "name": "La Maison des Obsèques-Pompes Funèbres Boussel",
-		    "lat": 46.295849,
-		    "lng": 3.422162,
-		    "info": "ZA de la Feuillouse 3150 Varennes-sur-Allier "
-	    },
-            { 
-		    "name": "Pompes Funèbres Auger",
-		    "lat": 46.728381,
-		    "lng": 2.941386,
-		    "info": "33 Rue du Dr Vinatier 3320 Lurcy-Lévis "
-	    },
-            { 
-		    "name": "Pompes Funèbres Barret Chabuel",
-		    "lat": 46.408895,
-		    "lng": 3.053559,
-		    "info": "31  route nationale 945 3240 Le Montet "
-	    },
-            { 
-		    "name": "Pompes Funèbres Beuze",
-		    "lat": 46.349373,
-		    "lng": 2.593892,
-		    "info": "178 avenue de la République 3100 Montluçon "
-	    },
-            { 
-		    "name": "Pompes Funèbres Bourbonnaises",
-		    "lat": 46.108985,
-		    "lng": 3.20116,
-		    "info": "16  cours des Clos Durs 3800 Gannat "
-	    },
-            { 
-		    "name": "Pompes Funèbres Boussel",
-		    "lat": 46.124935,
-		    "lng": 3.434927,
-		    "info": "1  Bd. Denière 3200 Vichy "
-	    },
-            { 
-		    "name": "Pompes Funèbres Boussel",
-		    "lat": 46.130303,
-		    "lng": 3.423532,
-		    "info": "53  rue J. Jaurès 3200 Vichy "
-	    },
-            { 
-		    "name": "Dazy Funéraire",
-  		    "lat": 46.659784,
-  		    "lng": 2.694016,
-  		    "info": "6 place de l'Eglise 3360 Saint-Bonnet-Tronçais"
+{
+  "category1": [
+    {
+      "name": "La Maison des Obsèques - Ets Boussel",
+      "lat": 46.350701,
+      "lng": 3.793534,
+      "info": "2 Rue du Dr Bertheol 3130 Le Donjon "
+    },
+    {
+      "name": "La Maison des Obsèques - Pompes Funèbres Boussel",
+      "lat": 46.247977,
+      "lng": 3.634277,
+      "info": "37 Rue Président Roosevelt 3120 Lapalisse "
+    },
+    {
+      "name": "La Maison des Obsèques - Pompes Funèbres Boussel",
+      "lat": 46.1367,
+      "lng": 3.423321,
+      "info": "4 Rue des Bartins 3200 Vichy "
+    },
+    {
+      "name": "La Maison des Obsèques - Pompes Funèbres Boussel",
+      "lat": 46.299416,
+      "lng": 3.297478,
+      "info": "10 Rue Louis Tellier 3500 Saint-Pourçain-sur-Sioule"
+    },
+    {
+      "name": "La Maison des Obsèques-Pompes Funèbres Boussel",
+      "lat": 46.295849,
+      "lng": 3.422162,
+      "info": "ZA de la Feuillouse 3150 Varennes-sur-Allier "
+    },
+    {
+      "name": "Pompes Funèbres Auger",
+      "lat": 46.728381,
+      "lng": 2.941386,
+      "info": "33 Rue du Dr Vinatier 3320 Lurcy-Lévis "
+    },
+    {
+      "name": "Pompes Funèbres Barret Chabuel",
+      "lat": 46.408895,
+      "lng": 3.053559,
+      "info": "31  route nationale 945 3240 Le Montet "
+    },
+    {
+      "name": "Pompes Funèbres Beuze",
+      "lat": 46.349373,
+      "lng": 2.593892,
+      "info": "178 avenue de la République 3100 Montluçon "
+    },
+    {
+      "name": "Pompes Funèbres Bourbonnaises",
+      "lat": 46.108985,
+      "lng": 3.20116,
+      "info": "16  cours des Clos Durs 3800 Gannat "
+    },
+    {
+      "name": "Pompes Funèbres Boussel",
+      "lat": 46.124935,
+      "lng": 3.434927,
+      "info": "1  Bd. Denière 3200 Vichy "
+    },
+    {
+      "name": "Pompes Funèbres Boussel",
+      "lat": 46.130303,
+      "lng": 3.423532,
+      "info": "53  rue J. Jaurès 3200 Vichy "
+    },
+    {
+      "name": "Dazy Funéraire",
+      "lat": 46.659784,
+      "lng": 2.694016,
+      "info": "6 place de l'Eglise 3360 Saint-Bonnet-Tronçais"
     }
   ],
   "category2": [
