@@ -40,7 +40,7 @@
             "name": "Service funéraire international (SFI)",
             "lat": 45.190125,
             "lng": 5.718976,
-            "info": "10 Rue Etienne Forest  38000 Grenoble 38000 Grenoble"
+            "info": "10 Rue Etienne Forest  38000 Grenoble"
         },
         {
             "name": "Pompes Funèbres et Marbrerie du Sud-Est",
@@ -536,8 +536,8 @@
         },
         {
             "name": "Pompes Funèbres et Marbrerie Vallon",
-            "lat": 44.020347,
-            "lng": 2.407132,
+            "lat": 44.87331554466748, 
+            "lng": 4.882847652241498,
             "info": "Avenue de la Résistance 26800 Portes-lès-Valence"
         },
         {
@@ -1559,12 +1559,6 @@
             "lat": 45.956468,
             "lng": 3.471503,
             "info": "46 rue Emile Zola 63290 Puy-Guillaume"
-        },
-        {
-            "name": "Pompes Funèbres Intercommunales",
-            "lat": 43.691648,
-            "lng": 3.583817,
-            "info": "Zone Artisanale de Pré Million 38600 La Terrasse"
         },
         {
             "name": "Pompes Funèbres Les Torrents",
