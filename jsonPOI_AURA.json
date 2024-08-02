@@ -1,1973 +1,4104 @@
 {
     "category1": [
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.188942,
-            "lng": 5.694216,
-            "info": "1  rue Jean Bocq 38600 Fontaine"
-        },
-        {
-            "name": "Pompes Funèbres Pascal Leclerc",
-            "lat": 44.914149,
-            "lng": 4.908136,
-            "info": "51  avenue du Docteur Santy 26000 Valence"
-        },
-        {
-            "name": "Pompes Funèbres Nyonsaises Navarre",
-            "lat": 44.360859,
-            "lng": 5.136933,
-            "info": "2  place de la République 26110 Nyons"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie BRUN",
-            "lat": 45.018292,
-            "lng": 5.294735,
-            "info": "155  Chemin du Balcon 26190 Saint-Jean-en-Royans"
-        },
-        {
-            "name": "Pompes funèbres POLLET",
-            "lat": 45.176835,
-            "lng": 4.818237,
-            "info": "4  rue de Picpus 26240 Saint-Vallier"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Vallon",
-            "lat": 44.733684,
-            "lng": 5.012723,
-            "info": "194  avenue Henri Grand B.P. 219 26401 Crest"
-        },
-        {
-            "name": "Service funéraire international (SFI)",
-            "lat": 45.190125,
-            "lng": 5.718976,
-            "info": "10 Rue Etienne Forest  38000 Grenoble"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie du Sud-Est",
-            "lat": 45.084195,
-            "lng": 5.763842,
-            "info": "219  rue Ambroise Croizat ZI de Cornage 38220 Vizille"
-        },
-        {
-            "name": "Pompes Funèbres Aoste",
-            "lat": 45.587512,
-            "lng": 5.60665,
-            "info": "4 place du Musée 38490 Aoste"
-        },
-        {
-            "name": "Pompes Funèbres Colombier Frères",
-            "lat": 45.628749,
-            "lng": 5.06386,
-            "info": "12 place Paul Doumer 38540 Heyrieux"
-        },
-        {
-            "name": "Pompes Funèbres Condemine",
-            "lat": 45.044847,
-            "lng": 3.890941,
-            "info": "30  boulevard de la République 43000 Le Puy-en-Velay"
-        },
-        {
-            "name": "Pompes Funèbres Celle",
-            "lat": 45.213349,
-            "lng": 4.346094,
-            "info": "4  route du Fraisse 43220 Dunières"
-        },
-        {
-            "name": "Pompes Funèbres Cornillon",
-            "lat": 45.241518,
-            "lng": 4.23442,
-            "info": "6  avenue Lafayette 43600 Sainte-Sigolène"
-        },
-        {
-            "name": "Pompes Funèbres BOUVIER - Le Choix funéraire",
-            "lat": 45.87071,
-            "lng": 5.94357,
-            "info": "4  rue Joseph Béard 74150 Rumilly"
-        },
-        {
-            "name": "Pompes Funèbres P. Laurent",
-            "lat": 46.072837,
-            "lng": 6.390959,
-            "info": "3372  avenue du Mont-Blanc Toisinges 74800 Saint-Pierre-en-Faucigny"
-        },
-        {
-            "name": "Aloma funéraire",
-            "lat": 45.176052,
-            "lng": 4.816079,
-            "info": "19 avenue Désiré Valette 26240 Saint-Vallier"
-        },
-        {
-            "name": "Centre Funéraire Rivière",
-            "lat": 45.597526,
-            "lng": 5.243167,
-            "info": "30 avenue Alexandre Fleming 38300 Bourgoin-Jallieu"
-        },
-        {
-            "name": "La Plume Funéraire - Pompes funèbres musulmanes Ã  Valence",
-            "lat": 44.938296,
-            "lng": 4.900717,
-            "info": "44 Av. de Verdun 26000 Valence"
-        },
-        {
-            "name": "Pompes Funèbres Alain Besset",
-            "lat": 45.373994,
-            "lng": 4.794266,
-            "info": "14-16 rue du Stade 38550 Le Péage-de-Roussillon"
-        },
-        {
-            "name": "Pompes Funèbres AMANA",
-            "lat": 44.930773,
-            "lng": 4.924681,
-            "info": "8 rue d'Asti 26000 Valence"
-        },
-        {
-            "name": "Pompes Funèbres Baldini Leclaire",
-            "lat": 45.535806,
-            "lng": 5.670122,
-            "info": "14 Rue Professeur Trillat 38480 Le Pont-de-Beauvoisin"
-        },
-        {
-            "name": "Pompes Funèbres Blachon Valon",
-            "lat": 45.306172,
-            "lng": 4.109355,
-            "info": "3 Rue du Onze Novembre 43210 Bas-en-Basset"
-        },
-        {
-            "name": "Pompes Funèbres Bouvier - Le Choix Funéraire",
-            "lat": 45.544948,
-            "lng": 5.987261,
-            "info": "1827 Avenue de Chambéry 73190 Challes-les-Eaux"
-        },
-        {
-            "name": "Pompes Funèbres Cassagne",
-            "lat": 44.910442,
-            "lng": 2.421348,
-            "info": "137 Avenue de Conthe 15000 Aurillac"
-        },
-        {
-            "name": "Pompes Funèbres Cheynoux",
-            "lat": 45.413128,
-            "lng": 3.330845,
-            "info": "30 Rue du Dr Charles Souligoux 63570 Brassac-les-Mines"
-        },
-        {
-            "name": "Pompes Funèbres Combrailles",
-            "lat": 46.029463,
-            "lng": 2.818501,
-            "info": "Rue du Castel 63390 Saint-Gervais-d'Auvergne"
-        },
-        {
-            "name": "Pompes Funèbres Dabrigeon",
-            "lat": 45.745243,
-            "lng": 3.208039,
-            "info": "2 rue Georges Buffon 63800 Cournon-d'Auvergne"
-        },
-        {
-            "name": "Pompes Funèbres de France",
-            "lat": 45.914414,
-            "lng": 6.134643,
-            "info": "133 Av. de Genève 74000 Annecy"
-        },
-        {
-            "name": "Pompes Funèbres de L'Agglomération Viennoise",
-            "lat": 45.522025,
-            "lng": 4.919999,
-            "info": "9016 avenue George et Louis Frère jean 38780 Pont-Évèque"
-        },
-        {
-            "name": "Pompes Funèbres des Baronnies",
-            "lat": 44.277597,
-            "lng": 5.277025,
-            "info": "Zone Artisanale La Palun 26170 Buis-les-Baronnies"
-        },
-        {
-            "name": "Pompes Funèbres Dombes de Villa",
-            "lat": 45.815249,
-            "lng": 5.400588,
-            "info": "6 rue du 1er Août 38390 Montalieu-Vercieu"
-        },
-        {
-            "name": "Pompes Funèbres Dumoulin - Le Choix Funéraire",
-            "lat": 45.040463,
-            "lng": 5.037044,
-            "info": "rue Calixte Lafosse 26100 Romans-sur-Isère"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Les Granits d'Auvergne",
-            "lat": 45.798557,
-            "lng": 3.258885,
-            "info": "99 avenue Docteur Besserve 63430 Pont-du-Château"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Soleilhac",
-            "lat": 45.412906,
-            "lng": 3.328344,
-            "info": "5 Rue du Souvenir 63570 Brassac-les-Mines"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Vallon",
-            "lat": 44.901563,
-            "lng": 5.00735,
-            "info": "5/7 rue Gauthier Lucet 26120 Chabeuil"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.835141,
-            "lng": 3.096381,
-            "info": "1 Impasse de Sibony 63118 Cébazat"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.779347,
-            "lng": 3.064835,
-            "info": "16 rue des Farges 63400 Chamalières"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.761692,
-            "lng": 3.096143,
-            "info": "29 boulevard Loucheur 63000 Clermont-Ferrand"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.564097,
-            "lng": 5.910043,
-            "info": "585 Faubourg Maché 73000 Chambery"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.507925,
-            "lng": 6.055915,
-            "info": "Place Albert Serraz 73800 Montmélian"
-        },
-        {
-            "name": "Pompes Funèbres Gros",
-            "lat": 45.916192,
-            "lng": 6.705209,
-            "info": "1 place du 11 novembre 74190 Passy"
-        },
-        {
-            "name": "Pompes Funèbres Koehler Gérard",
-            "lat": 46.107217,
-            "lng": 2.692896,
-            "info": "15 Grand Rue 63330 Pionsat"
-        },
-        {
-            "name": "Pompes Funèbres Ludivine - Philae Services Funéraire",
-            "lat": 45.569796,
-            "lng": 5.934012,
-            "info": "315 Av. de Turin 73000 Chambery"
-        },
-        {
-            "name": "Pompes Funèbres Marbrerie Ardrome Funéraire",
-            "lat": 44.940659,
-            "lng": 4.910982,
-            "info": "38 Boulevard Gustave André 26000 Valence"
-        },
-        {
-            "name": "Pompes Funèbres Marbrerie Gandy",
-            "lat": 45.84917,
-            "lng": 5.95225,
-            "info": "80 rue René Cassin 74150 Rumilly"
-        },
-        {
-            "name": "Pompes Funèbres Mauriennaises",
-            "lat": 45.27426,
-            "lng": 6.347981,
-            "info": "46 Avenue du Mont Cenis 73300 Saint-Jean-de-Maurienne"
-        },
-        {
-            "name": "Pompes Funèbres Moneyron",
-            "lat": 45.104226,
-            "lng": 3.493898,
-            "info": "Avenue du Cimetière 43300 Langeac"
-        },
-        {
-            "name": "Pompes Funebres Musulmanes Rahma Auvergne",
-            "lat": 45.787478,
-            "lng": 3.093462,
-            "info": "18 rue Barbier Daubrée 63000 Clermont-Ferrand"
-        },
-        {
-            "name": "Pompes Funèbres PECH",
-            "lat": 45.751811,
-            "lng": 6.297911,
-            "info": "260 Route de Thônes 74210 Faverges"
-        },
-        {
-            "name": "Pompes Funèbres Publiques",
-            "lat": 45.564141,
-            "lng": 5.910819,
-            "info": "519 Faubourg Mâché 73000 Chambery"
-        },
-        {
-            "name": "Pompes Funèbres Roblot",
-            "lat": 45.066727,
-            "lng": 4.866578,
-            "info": "Parking de la République 26600 Tain-l'Hermitage"
-        },
-        {
-            "name": "Pompes Funèbres ROC-ECLERC",
-            "lat": 45.524462,
-            "lng": 4.871896,
-            "info": "3 Place Saint-Maurice 38200 Vienne"
-        },
-        {
-            "name": "Pompes Funèbres Sahut - SIOULE et VOLCANS",
-            "lat": 45.964291,
-            "lng": 2.929712,
-            "info": "22 rue des Combrailles 63410 Manzat"
-        },
-        {
-            "name": "Pompes Funèbres SERONDE - Le Choix Funéraire",
-            "lat": 45.34242,
-            "lng": 2.761854,
-            "info": "6 D62 - Route d'Egliseneuve 15190 Condat"
-        },
-        {
-            "name": "Pompes Funèbres Tixier-Chavaroux",
-            "lat": 45.91977,
-            "lng": 3.084994,
-            "info": "ZA 7 Chem. de la Croix des Robert 63140 Châtel-Guyon"
-        },
-        {
-            "name": "Pompes Funèbres Delage",
-            "lat": 45.351242,
-            "lng": 2.447489,
-            "info": "rue Artisanat  8 Z.A. N 15210 Ydes"
-        },
-        {
-            "name": "Pompes Funèbres Roblot",
-            "lat": 44.933247,
-            "lng": 4.891572,
-            "info": "14  rue Dauphine 26000 Valence"
-        },
-        {
-            "name": "Pompes Funèbres Mourier",
-            "lat": 44.902936,
-            "lng": 5.009552,
-            "info": "1 Rue Victor Payonne  26120 Chabeuil"
-        },
-        {
-            "name": "Pompes Funèbres de Provence",
-            "lat": 44.571598,
-            "lng": 4.784538,
-            "info": "119 Route de Sauzet  qu la Chapellerie 26200 Montelimar"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie AROLE - PFG",
-            "lat": 44.774086,
-            "lng": 4.84583,
-            "info": "35  avenue Léon Aubin 26250 Livron-sur-Drôme"
-        },
-        {
-            "name": "Pompes Funèbres ROC ECLERC",
-            "lat": 44.957946,
-            "lng": 4.885118,
-            "info": "370 rue des Chabanneries  Z.A.C. Les Chabanneries 26500 Bourg-lès-Valence"
-        },
-        {
-            "name": "Pompes Funèbres Bayet",
-            "lat": 45.564455,
-            "lng": 5.446985,
-            "info": "33  rue dela République 38110 La Tour-du-Pin"
-        },
-        {
-            "name": "Pompes Funèbres Brun",
-            "lat": 45.075666,
-            "lng": 5.553172,
-            "info": "570  Avenue du Général de Gaulle 38250 Villard-de-Lans"
-        },
-        {
-            "name": "Pompes Funèbres Baldini Leclaire",
-            "lat": 45.527219,
-            "lng": 5.593238,
-            "info": "45  route de Pré Noir 38490 Charancieu"
-        },
-        {
-            "name": "Pompes Funèbres Vargas",
-            "lat": 45.630189,
-            "lng": 5.063934,
-            "info": "45  avenue du Général Leclerc 38540 Heyrieux"
-        },
-        {
-            "name": "Pompes Funèbres G. Coniasse",
-            "lat": 45.048032,
-            "lng": 3.890901,
-            "info": "14  rue de Craponne 43000 Le Puy-en-Velay"
-        },
-        {
-            "name": "Pompes Funèbres GARNIER",
-            "lat": 45.21535,
-            "lng": 4.344048,
-            "info": "20  rue du 11 Novembre 43220 Dunières"
-        },
-        {
-            "name": "Pompes Funèbres Bouchet",
-            "lat": 45.051998,
-            "lng": 3.897011,
-            "info": "28  avenue des Champs-Elysées 43770 Chadrac"
-        },
-        {
-            "name": "Pompes Funèbres Pech",
-            "lat": 45.844448,
-            "lng": 6.145902,
-            "info": "PAC les Grands Vignobles  route d'Albertville 74320 Sévrier"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 46.135441,
-            "lng": 6.26892,
-            "info": "351  Grande rue 74930 Reignier-Ésery"
-        },
-        {
-            "name": "Asphodèle Funéraire - Pompes funèbres et Marbrerie",
-            "lat": 44.771066,
-            "lng": 4.84172,
-            "info": "24 Av. Joseph Combier 26250 Livron-sur-Drôme"
-        },
-        {
-            "name": "Cimetière Communal",
-            "lat": 44.946145,
-            "lng": 3.989763,
-            "info": "6 Avenue du Puy 43150 Le Monastier-sur-Gazeille"
-        },
-        {
-            "name": "Mézenc Funéraires",
-            "lat": 44.944464,
-            "lng": 3.987881,
-            "info": "Route de Chadron 43150 Le Monastier-sur-Gazeille"
-        },
-        {
-            "name": "Pompes Funèbres Alain Besset",
-            "lat": 45.334646,
-            "lng": 5.056684,
-            "info": "19 avenue Jean Jaurès 38270 Beaurepaire"
-        },
-        {
-            "name": "Pompes Funèbres Ani",
-            "lat": 45.750631,
-            "lng": 5.172215,
-            "info": "3 Rue de la République 38230 Pont-de-Chéruy"
-        },
-        {
-            "name": "Pompes Funèbres Bastien",
-            "lat": 45.036562,
-            "lng": 5.046761,
-            "info": "65bis Grand'Rue Jean Jaurès 26300 Bourg-de-Péage"
-        },
-        {
-            "name": "Pompes Funèbres Blachon Valon",
-            "lat": 45.286424,
-            "lng": 4.159136,
-            "info": "ZA Les Moletons 43120 Monistrol-sur-Loire"
-        },
-        {
-            "name": "Pompes Funèbres BOUVIER - Le Choix funéraire",
-            "lat": 45.695475,
-            "lng": 5.908981,
-            "info": "27 Avenue du Grand Port 73100 Aix-les-Bains"
-        },
-        {
-            "name": "Pompes Funèbres CELLE",
-            "lat": 45.15003,
-            "lng": 4.134156,
-            "info": "Z.A. de Chatimbarbe - avenue du 8 mai 43200 Yssingeaux"
-        },
-        {
-            "name": "Pompes Funèbres Cheynoux",
-            "lat": 45.73337,
-            "lng": 3.337312,
-            "info": "ZAC de l'Angaud - Route de Clermont 63160 Billom"
-        },
-        {
-            "name": "Pompes Funèbres Constant",
-            "lat": 44.377817,
-            "lng": 4.695777,
-            "info": "90 Grande Rue 26700 Pierrelatte"
-        },
-        {
-            "name": "Pompes Funèbres Dabrigeon",
-            "lat": 45.826645,
-            "lng": 3.370719,
-            "info": "58 rue Georges Clémenceau 63190 Lezoux"
-        },
-        {
-            "name": "Pompes Funèbres de France",
-            "lat": 44.919293,
-            "lng": 4.885501,
-            "info": "232 Avenue Victor Hugo 26000 Valence"
-        },
-        {
-            "name": "Pompes Funèbres de l'Agglomération Viennoise - Le Choix Funéraire",
-            "lat": 45.525953,
-            "lng": 4.878221,
-            "info": "1 et 3 rue Victor HUGO 38200 Vienne"
-        },
-        {
-            "name": "Pompes Funèbres des Bords de Loire",
-            "lat": 45.308785,
-            "lng": 4.109181,
-            "info": "18 avenue de Saint Julien 43210 Bas-en-Basset"
-        },
-        {
-            "name": "Pompes Funèbres Dômes Funéraires",
-            "lat": 45.778688,
-            "lng": 3.062092,
-            "info": "11 Av. Valéry Giscard d'Estaing 63400 Chamalières"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Debordes",
-            "lat": 45.916544,
-            "lng": 6.116079,
-            "info": "25-27 bd du Fier 74000 Annecy"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Maitrias - PFG",
-            "lat": 45.554625,
-            "lng": 3.741569,
-            "info": "Allée du Cimetière 63600 Ambert"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Tardif - PFG",
-            "lat": 45.588277,
-            "lng": 3.129665,
-            "info": "7 Place de la Halle 63320 Champeix"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Vallon",
-            "lat": 44.87331554466748, 
-            "lng": 4.882847652241498,
-            "info": "Avenue de la Résistance 26800 Portes-lès-Valence"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.760923,
-            "lng": 3.536838,
-            "info": "1 rue de Vianoux 63120 Courpière"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.896143,
-            "lng": 3.106665,
-            "info": "17 Allée des Tilleuls 63200 Riom"
-        },
-        {
-            "name": "Pompes funèbres Générales",
-            "lat": 45.597451,
-            "lng": 5.243678,
-            "info": "29 rue du Médipôle 38300 Bourgoin-Jallieu"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.575672,
-            "lng": 5.914726,
-            "info": "615 Quai des Allobroges 73000 Chambery"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 46.400379,
-            "lng": 6.583467,
-            "info": "Place de l'église 74500 Évian-les-Bains"
-        },
-        {
-            "name": "Pompes Funèbres GROS",
-            "lat": 45.937658,
-            "lng": 6.630865,
-            "info": "118 avenue de Genève 74700 Sallanches"
-        },
-        {
-            "name": "Pompes Funèbres LAVERGNAT",
-            "lat": 46.132876,
-            "lng": 6.271789,
-            "info": "427 grande rue 74930 Reignier-Ésery"
-        },
-        {
-            "name": "Pompes Funèbres Macheboeuf",
-            "lat": 46.023227,
-            "lng": 3.203187,
-            "info": "211 Grande Rue 63260 Aigueperse"
-        },
-        {
-            "name": "Pompes Funèbres Marbrerie Ausset Lafage",
-            "lat": 44.994589,
-            "lng": 2.423688,
-            "info": "Route de Montplaisir 15250 Jussac"
-        },
-        {
-            "name": "Pompes Funèbres Marbrerie Gandy",
-            "lat": 45.952582,
-            "lng": 5.840157,
-            "info": "rue Montauban 74910 Seyssel"
-        },
-        {
-            "name": "Pompes Funèbres Mauriennaises",
-            "lat": 45.216156,
-            "lng": 6.475333,
-            "info": "8 Rue Saint-Laurent 73140 Saint-Michel-de-Maurienne"
-        },
-        {
-            "name": "Pompes Funèbres Mouche",
-            "lat": 45.538807,
-            "lng": 6.223995,
-            "info": "477 Route des Berres 73390 Chamoux-sur-Gelon"
-        },
-        {
-            "name": "Pompes funèbres Nillia",
-            "lat": 45.110084,
-            "lng": 2.871646,
-            "info": "1 avenue de l'Ermitage 15300 Murat"
-        },
-        {
-            "name": "Pompes Funèbres Pech",
-            "lat": 45.758776,
-            "lng": 6.412996,
-            "info": "277 rue du centenaire 73400 Ugine"
-        },
-        {
-            "name": "Pompes Funèbres Publiques",
-            "lat": 45.574061,
-            "lng": 5.906629,
-            "info": "86 square Louis Sève 73000 Chambery"
-        },
-        {
-            "name": "Pompes Funèbres Roc'Eclerc",
-            "lat": 44.941362,
-            "lng": 4.913386,
-            "info": "216 rue Barnave 26000 Valence"
-        },
-        {
-            "name": "Pompes Funèbres Roc-Eclerc",
-            "lat": 45.892689,
-            "lng": 6.114323,
-            "info": "5 av. de Zanaroli 74600 Seynod"
-        },
-        {
-            "name": "Pompes Funèbres Saint Genix",
-            "lat": 45.600297,
-            "lng": 5.631566,
-            "info": "53 Rue du Couvent 73240 Saint-Genix-sur-Guiers"
-        },
-        {
-            "name": "Pompes Funèbres SERONDE - Le Choix Funéraire",
-            "lat": 45.497801,
-            "lng": 2.6351,
-            "info": "Route de St-Donat 63810 Bagnols"
-        },
-        {
-            "name": "Pompes Funèbres Vallon",
-            "lat": 44.755873,
-            "lng": 4.812433,
-            "info": "169 chemin des Ventis 26270 Loriol-sur-Drôme"
-        },
-        {
-            "name": "Pompes Funèbres Mallet",
-            "lat": 45.134696,
-            "lng": 2.223357,
-            "info": "17 Avenue des Estourocs Za  15700 Pleaux"
-        },
-        {
-            "name": "Pompes Funèbres Bastien",
-            "lat": 45.045452,
-            "lng": 5.04962,
-            "info": "11  Place Ernest Gailly 26100 Romans-sur-Isère"
-        },
-        {
-            "name": "Pompes Funèbres Del Papa",
-            "lat": 44.347834,
-            "lng": 4.767056,
-            "info": "18  rue Notre Dame 26130 Saint-Paul-Trois-Châteaux"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 44.549189,
-            "lng": 4.746998,
-            "info": "72  Avenue Jean Jaurès 26200 Montelimar"
-        },
-        {
-            "name": "Pompes Funèbres Robert Guimbaud",
-            "lat": 45.12522,
-            "lng": 4.982772,
-            "info": "17  Avenue Gambetta 26260 Saint-Donat-sur-l'Herbasse"
-        },
-        {
-            "name": "Pompes Funèbres Patricia Barthez",
-            "lat": 44.286318,
-            "lng": 4.937545,
-            "info": "600  avenue des Alpes 26790 Tulette"
-        },
-        {
-            "name": "Pompes Funèbres Boudrier",
-            "lat": 45.567056,
-            "lng": 5.443027,
-            "info": "16 rue Jean ferrand 38110 La Tour-du-Pin"
-        },
-        {
-            "name": "Pompes Funèbres Boudrier",
-            "lat": 45.591592,
-            "lng": 5.266817,
-            "info": "31  rueLavoisier 38300 Bourgoin-Jallieu"
-        },
-        {
-            "name": "JC Marbrerie/ Pompes funèbres AINAN Funéraire",
-            "lat": 45.534505,
-            "lng": 5.586332,
-            "info": "46 Bis  Rue Gambetta 38490 Les Abrets"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie du Sud-Est",
-            "lat": 45.346781,
-            "lng": 5.979743,
-            "info": "36 avenue desTirignons 38570 Goncelin"
-        },
-        {
-            "name": "Pompes Funèbres Velay Funéraire",
-            "lat": 45.045101,
-            "lng": 3.894602,
-            "info": "43  rue de la Gazelle 43000 Le Puy-en-Velay"
-        },
-        {
-            "name": "Pompes Funèbres Allègre Funéraires",
-            "lat": 45.203134,
-            "lng": 3.71298,
-            "info": "15  rue porte de Ravel 43270 Allègre"
-        },
-        {
-            "name": "Pompes funèbres ALIX-LIOGIER",
-            "lat": 45.130137,
-            "lng": 3.988761,
-            "info": "8  route des Granges 43800 Rosières"
-        },
-        {
-            "name": "Pompes Funèbres Marbrerie Gandy",
-            "lat": 45.929364,
-            "lng": 6.08269,
-            "info": "Gillon  653 Rte de Bellegarde 74330 Épagny"
-        },
-        {
-            "name": "Pompes Funèbres Roc'Eclerc",
-            "lat": 45.842119,
-            "lng": 3.115151,
-            "info": "7  Route De Chateaugay 63118 Cébazat"
-        },
-        {
-            "name": "ATERNAM",
-            "lat": 45.772509,
-            "lng": 6.026683,
-            "info": "323 CHEMIN DE MEURAT 74540 Cusy"
-        },
-        {
-            "name": "GANDY Pompes Funèbres et Marbrerie",
-            "lat": 46.127688,
-            "lng": 6.030099,
-            "info": "303 route des entrepreneurs 74580 Viry"
-        },
-        {
-            "name": "PF Bonnevilloises - Fleurs Perce-neige - PFG",
-            "lat": 46.078456,
-            "lng": 6.407284,
-            "info": "46/48 Rue du Décret 74130 Bonneville"
-        },
-        {
-            "name": "Pompes Funèbres Alix Liogier",
-            "lat": 45.151353,
-            "lng": 3.920176,
-            "info": "ZA La reculade 43800 Saint-Vincent"
-        },
-        {
-            "name": "Pompes Funèbres Astor Dolmazon",
-            "lat": 45.035594,
-            "lng": 4.053666,
-            "info": "Zone Artisanale 43260 Saint-Julien-Chapteuil"
-        },
-        {
-            "name": "Pompes Funèbres Baudrion",
-            "lat": 45.468442,
-            "lng": 5.992296,
-            "info": "259 rue de Longifan 38530 Chapareillan"
-        },
-        {
-            "name": "Pompes funèbres BOITEUX",
-            "lat": 45.90496,
-            "lng": 3.298619,
-            "info": "Espace Cial Bords de Morge 63350 Saint-Laure"
-        },
-        {
-            "name": "Pompes Funèbres Boyer André",
-            "lat": 45.035238,
-            "lng": 3.084165,
-            "info": "6 Avenue de Besserette 15100 Saint-Flour"
-        },
-        {
-            "name": "Pompes Funèbres Chablaisiennes",
-            "lat": 46.363452,
-            "lng": 6.480604,
-            "info": "2 rue Charles Buet 74200 Thonon-les-Bains"
-        },
-        {
-            "name": "Pompes Funèbres CHOMETTE",
-            "lat": 45.841936,
-            "lng": 2.75927,
-            "info": "Le Bourge 63230 La Goutelle"
-        },
-        {
-            "name": "Pompes Funèbres Constant et Fils",
-            "lat": 14.503409,
-            "lng": -61.020605,
-            "info": "2075 Quartier des Peyrauds - RN7 sud 26290 Donzère"
-        },
-        {
-            "name": "Pompes Funèbres Dabrigeon",
-            "lat": 45.841467,
-            "lng": 3.510807,
-            "info": "72 avenue Général de Gaulle 63300 Thiers"
-        },
-        {
-            "name": "Pompes funèbres de La Balme de Sillingy",
-            "lat": 45.975227,
-            "lng": 6.030321,
-            "info": "13 Chemin des vignes 74330 La Balme-de-sillingy"
-        },
-        {
-            "name": "Pompes Funèbres de l'Aubrac",
-            "lat": 44.82705,
-            "lng": 2.986517,
-            "info": "Parc d'Activités Economiques du Rouchar 15110 Chaudes-Aigues"
-        },
-        {
-            "name": "Pompes Funèbres Des Compagnons",
-            "lat": 44.521145,
-            "lng": 5.05686,
-            "info": "147 Route de Montélimar 26220 Dieulefit"
-        },
-        {
-            "name": "Pompes funèbres du Dauphiné",
-            "lat": 45.157345,
-            "lng": 5.330187,
-            "info": "23 Rue Condorce 38160 Grenoble"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie DUCRETTET - PFG",
-            "lat": 46.103593,
-            "lng": 6.590771,
-            "info": "Av. des Thézières 74440 Taninges"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Pilot Bourdon - Dignité Funéraire",
-            "lat": 45.366257,
-            "lng": 5.581128,
-            "info": "2 Rue de Termerieu 38500 Voiron"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Tardif - PFG",
-            "lat": 45.542191,
-            "lng": 3.247947,
-            "info": "8 bd de la Sous-Préfecture 63500 Issoire"
-        },
-        {
-            "name": "Pompes Funèbres FL - Marbrerie",
-            "lat": 45.900061,
-            "lng": 5.93484,
-            "info": "1204 Route de Genève 74150 Vallières"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.723698,
-            "lng": 3.340867,
-            "info": "11 Place Alfred Thomas 63160 Billom"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.22565,
-            "lng": 5.686427,
-            "info": "19 Route de Grenoble 38120 Saint-Égrève"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 44.929725,
-            "lng": 2.445593,
-            "info": "3 Rue Hôtel de ville 15000 Aurillac"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.048454,
-            "lng": 3.891862,
-            "info": "7 Rue d'Alençon 43000 Le Puy-en-Velay"
-        },
-        {
-            "name": "Pompes funèbres Gerphagnon",
-            "lat": 45.358386,
-            "lng": 3.957653,
-            "info": "Rue de l'Étang 43500 Saint-Pal-de-Chalencon"
-        },
-        {
-            "name": "Pompes Funebres Hebrard",
-            "lat": 45.026069,
-            "lng": 3.062976,
-            "info": "13 Rue du Millepertuis 15100 Saint-Flour"
-        },
-        {
-            "name": "Pompes Funèbres LAVERGNAT - Le Choix Funéraire",
-            "lat": 46.184771,
-            "lng": 6.236581,
-            "info": "56 route de Bonneville 74100 Annemasse"
-        },
-        {
-            "name": "Pompes Funèbres Manchon",
-            "lat": 45.388921,
-            "lng": 5.271215,
-            "info": "76 avenue Maréchal Joffre 38260 La Côte-Saint-André"
-        },
-        {
-            "name": "Pompes Funèbres Marbrerie des Bords de Loire",
-            "lat": 45.30558,
-            "lng": 4.111399,
-            "info": "13 bd de la sabliere 43210 Bas-en-Basset"
-        },
-        {
-            "name": "Pompes Funèbres Marc Habouzit",
-            "lat": 44.970152,
-            "lng": 4.0509,
-            "info": "14 route du Puy 43150 Laussonne"
-        },
-        {
-            "name": "Pompes Funèbres Mazal",
-            "lat": 45.766124,
-            "lng": 2.665759,
-            "info": "La Cabane 63470 Prondines"
-        },
-        {
-            "name": "Pompes Funèbres Musulman",
-            "lat": 44.893385,
-            "lng": 4.890376,
-            "info": "105 rue des Mourettes 26000 Valence"
-        },
-        {
-            "name": "Pompes funèbres Nillia",
-            "lat": 45.252708,
-            "lng": 3.197698,
-            "info": "16 Av. du Général de Gaulle 15500 Massiac"
-        },
-        {
-            "name": "Pompes Funèbres Pech Floret",
-            "lat": 45.663009,
-            "lng": 6.360048,
-            "info": "295 Chemin du Chiriac 73200 Albertville"
-        },
-        {
-            "name": "Pompes Funèbres Robert",
-            "lat": 45.306913,
-            "lng": 4.109806,
-            "info": "13 Rue du Commerce 43210 Bas-en-Basset"
-        },
-        {
-            "name": "Pompes Funèbres Roc'Eclerc",
-            "lat": 45.755595,
-            "lng": 3.096706,
-            "info": "330 avenue du Parc 63110 Beaumont"
-        },
-        {
-            "name": "Pompes Funèbres Roc-Eclerc",
-            "lat": 45.045102,
-            "lng": 5.065691,
-            "info": "6 Avenue Du Maquis 26100 Romans-sur-Isère"
-        },
-        {
-            "name": "Pompes Funèbres SALAVERT",
-            "lat": 44.926348,
-            "lng": 2.440037,
-            "info": "36 Avenue de la République 15000 Aurillac"
-        },
-        {
-            "name": "Pompes Funèbres Soleilhac",
-            "lat": 45.310425,
-            "lng": 3.375296,
-            "info": "91 Avenue d'Auvergne 43100 Brioude"
-        },
-        {
-            "name": "Pompes Funèbres Vercherin",
-            "lat": 45.458162,
-            "lng": 5.629059,
-            "info": "470 rte de Saint-Sulpice - Le Boyet 38620 Saint-Geoire-en-Valdaine"
-        },
-        {
-            "name": "Pompes Funèbres Dumoulin",
-            "lat": 44.93425,
-            "lng": 4.905301,
-            "info": "121  avenue de Romans 26000 Valence"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.040403,
-            "lng": 5.037127,
-            "info": "1  rue Calixte Lafosse 26100 Romans-sur-Isère"
-        },
-        {
-            "name": "Pompes funèbres POLLET",
-            "lat": 45.28761,
-            "lng": 4.825404,
-            "info": "1  impasse Lucien Chautant 26140 Saint-Rambert-d'Albon"
-        },
-        {
-            "name": "Pompes Funèbres Marbrerie Ghisleri",
-            "lat": 44.571598,
-            "lng": 4.784538,
-            "info": "113  Route de Sauzet« La Chapellerie» 26200 Montelimar"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Chazel Martin - PFG",
-            "lat": 44.752321,
-            "lng": 4.820783,
-            "info": "87  avenue de la République 26270 Loriol-sur-Drôme"
-        },
-        {
-            "name": "Pompes funèbres des Alpes - Le Choix Funéraire",
-            "lat": 45.192793,
-            "lng": 5.739339,
-            "info": "6 Avenue de St-Roch 38000 Grenoble"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Carmona",
-            "lat": 45.151894,
-            "lng": 5.320883,
-            "info": "8  rue Aymard Durivail 38160 Saint-Marcellin"
-        },
-        {
-            "name": "Pompes Funèbres Boudrier",
-            "lat": 45.637455,
-            "lng": 5.142599,
-            "info": "695  rue de la République 38390 La Verpillière"
-        },
-        {
-            "name": "Centre Funéraire Municipal",
-            "lat": 45.36513,
-            "lng": 5.587737,
-            "info": "11  rue Ernest lmbert 38500 Voiron"
-        },
-        {
-            "name": "Pompes Funèbres Mercier",
-            "lat": 45.634513,
-            "lng": 5.560877,
-            "info": "20  Rue Perriollat 38630 Les Avenières"
-        },
-        {
-            "name": "Pompes Funèbres Bonnet",
-            "lat": 45.294456,
-            "lng": 3.380973,
-            "info": "5  place de Paris 43100 Brioude"
-        },
-        {
-            "name": "Pompes Funèbres Mirmand Albert et Fils",
-            "lat": 45.197753,
-            "lng": 3.707905,
-            "info": "1 rue traversière des Potelleries 43270 Allègre"
-        },
-        {
-            "name": "Pompes funèbres Dômes Funéraires",
-            "lat": 45.850228,
-            "lng": 3.08455,
-            "info": " Rte de Malauzat 63119 Châteaugay"
-        },
-        {
-            "name": "Pompes Funèbres Anneciennes G.GOLLIET",
-            "lat": 45.93722,
-            "lng": 6.12246,
-            "info": "321  route d'Annecy 74370 Pringy"
-        },
-        {
-            "name": "Alain Sahut Funéraire",
-            "lat": 45.727719,
-            "lng": 3.189771,
-            "info": "49 avenue de la Libération 63800 Cournon-d'Auvergne"
-        },
-        {
-            "name": "Baudrion Pompes Funèbres",
-            "lat": 45.50033,
-            "lng": 6.060145,
-            "info": "27 B Rue Docteur Veyrat 73800 Montmélian"
-        },
-        {
-            "name": "GANDY Pompes Funèbres Marbrerie",
-            "lat": 46.060028,
-            "lng": 6.576965,
-            "info": "14 Av. de la Libération 74300 Cluses"
-        },
-        {
-            "name": "Philae Clermont Ferrand Peyry Services Funéraires",
-            "lat": 45.790387,
-            "lng": 3.118238,
-            "info": "17 Bd Ambroise Brugière 63000 Clermont-Ferrand"
-        },
-        {
-            "name": "Pompes funèbres Alliance des 3 Vallées",
-            "lat": 45.959107,
-            "lng": 5.835013,
-            "info": "3 Grande Rue 74910 Seyssel"
-        },
-        {
-            "name": "Pompes Funèbres Astor JoÃ«l",
-            "lat": 45.059946,
-            "lng": 4.302432,
-            "info": "3 Rte du Mazet 43400 Le Chambon-sur-Lignon"
-        },
-        {
-            "name": "Pompes Funèbres Bay",
-            "lat": 44.892929,
-            "lng": 3.853919,
-            "info": "4 Les Quairais 43490 Costaros"
-        },
-        {
-            "name": "Pompes Funèbres Bonnet",
-            "lat": 45.089593,
-            "lng": 5.124847,
-            "info": "40 Chemin de la Garenne 26750 Châtillon-Saint-Jean"
-        },
-        {
-            "name": "Pompes Funèbres Brun",
-            "lat": 45.158612,
-            "lng": 5.339061,
-            "info": "3 Rue Ampère 38160 Saint-Sauveur"
-        },
-        {
-            "name": "Pompes Funèbres Chambon",
-            "lat": 45.055862,
-            "lng": 4.303374,
-            "info": "Magnac 43400 Le Chambon-sur-Lignon"
-        },
-        {
-            "name": "Pompes Funèbres Clerand",
-            "lat": 44.360624,
-            "lng": 5.130901,
-            "info": "ZAC du Grand Tilleul 26110 Nyons"
-        },
-        {
-            "name": "Pompes Funèbres Coudert",
-            "lat": 45.765402,
-            "lng": 3.539456,
-            "info": "34 Route de Clermont 63120 Courpière"
-        },
-        {
-            "name": "Pompes Funèbres Dabrigeon",
-            "lat": 45.771114,
-            "lng": 3.127643,
-            "info": "74 rue Pierre Estienne 63000 Clermont-Ferrand"
-        },
-        {
-            "name": "Pompes funèbres de la Balme de Sillingy",
-            "lat": 45.951483,
-            "lng": 6.042999,
-            "info": "3018 route de Bellegarde 74330 Sillingy"
-        },
-        {
-            "name": "Pompes Funèbres De Savoy",
-            "lat": 45.616991,
-            "lng": 6.768152,
-            "info": "173 Rue Jean Moulin 73700 Bourg-Saint-Maurice"
-        },
-        {
-            "name": "Pompes funèbres Djennah",
-            "lat": 45.165865,
-            "lng": 5.728954,
-            "info": "13 Avenue Marie Reynoard 38100 Grenoble"
-        },
-        {
-            "name": "Pompes funèbres du Dauphiné",
-            "lat": 45.051971,
-            "lng": 5.047825,
-            "info": "34 Avenue Jean Moulin 26100 Romans-sur-Isère"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Faure",
-            "lat": 45.192375,
-            "lng": 6.653559,
-            "info": "12 Rue de la Concorde 73500 Fourneaux"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie POMMAT",
-            "lat": 45.658261,
-            "lng": 6.375076,
-            "info": "705 Chemin de la Cassine 73200 Albertville"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie TARDIF - PFG",
-            "lat": 45.511764,
-            "lng": 2.938654,
-            "info": "9 bis route des Lacs 63610 Besse-et-Saint-Anastaise"
-        },
-        {
-            "name": "Pompes Funèbres Florian Leclerc Funérama",
-            "lat": 45.192254,
-            "lng": 5.739302,
-            "info": "4 avenue Saint Roch 38000 Grenoble"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 46.066393,
-            "lng": 6.58007,
-            "info": "12 avenue des alpes 74300 Cluses"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.795029,
-            "lng": 3.229486,
-            "info": "2 Rue Alice Ferrières 63430 Pont-du-Château"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.923454,
-            "lng": 6.685785,
-            "info": "39 place de la mairie 74190 Passy"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.617179,
-            "lng": 6.768516,
-            "info": "76 Route de Montrigon 73700 Bourg-Saint-Maurice"
-        },
-        {
-            "name": "Pompes funèbres Geyssant",
-            "lat": 45.302779,
-            "lng": 4.274676,
-            "info": "13 Rue nationale 43140 Saint-Didier-en-Velay"
-        },
-        {
-            "name": "Pompes Funèbres Intercommunales",
-            "lat": 45.195949,
-            "lng": 5.747849,
-            "info": "Avenue du Grand Sablon 38700 La Tronche"
-        },
-        {
-            "name": "Pompes Funèbres Les Anges Du Lac",
-            "lat": 45.776346,
-            "lng": 6.23466,
-            "info": "646 Route du Couardet 74210 Doussard"
-        },
-        {
-            "name": "Pompes Funèbres Manchon",
-            "lat": 45.15735274181041,
-            "lng": 5.340389284798405,
-            "info": "ZI la Maladière 38160 Saint-Sauveur"
-        },
-        {
-            "name": "Pompes Funèbres Marbrerie DUCRON",
-            "lat": 46.019455,
-            "lng": 3.201302,
-            "info": "36 Grande Rue 63260 Aigueperse"
-        },
-        {
-            "name": "Pompes funèbres Martinez - Philae Services Funéraires",
-            "lat": 45.182491,
-            "lng": 5.792221,
-            "info": "13 pl de la république 38610 Gières"
-        },
-        {
-            "name": "Pompes Funèbres MEINDER PIOT - Le Choix Funéraire",
-            "lat": 45.917154,
-            "lng": 6.105054,
-            "info": "41 avenue du Pont de Tasset MEYTHET 74960 Meythet"
-        },
-        {
-            "name": "Pompes Funèbres Musulmanes des Savoie",
-            "lat": 46.196213,
-            "lng": 6.237502,
-            "info": "2 Rue Adolphe Magnin 74100 Annemasse"
-        },
-        {
-            "name": "Pompes Funèbres Pan Lopez",
-            "lat": 45.21875,
-            "lng": 2.332793,
-            "info": "2 Rue de la République 15200 Mauriac"
-        },
-        {
-            "name": "Pompes Funèbres Pena",
-            "lat": 45.386863,
-            "lng": 5.734783,
-            "info": "12 Place Aristide Briand 38380 Saint-Laurent-du-Pont"
-        },
-        {
-            "name": "Pompes Funèbres Robert",
-            "lat": 45.292825,
-            "lng": 4.171248,
-            "info": "15 Rue du Général de Chabron 43120 Monistrol-sur-Loire"
-        },
-        {
-            "name": "Pompes Funèbres Roc'Eclerc",
-            "lat": 45.546605,
-            "lng": 3.244703,
-            "info": "5 boulevard Pasteur 63500 Issoire"
-        },
-        {
-            "name": "Pompes Funèbres Rochoises - Fleurs Perce-neige - PFG",
-            "lat": 46.066361,
-            "lng": 6.308943,
-            "info": "9 rue du Président carnot 74800 La Roche-sur-Foron"
-        },
-        {
-            "name": "Pompes Funèbres SERONDE",
-            "lat": 45.543215,
-            "lng": 3.24692,
-            "info": "22 Bd de la Manlière 63500 Issoire"
-        },
-        {
-            "name": "Pompes Funèbres Soleilhac - Echaubard Croizet Eliane",
-            "lat": 45.208305,
-            "lng": 3.513195,
-            "info": "8 Rue Notre Dame 43230 Paulhaguet"
-        },
-        {
-            "name": "Pompes Funèbres Vincent BEAUDONNET",
-            "lat": 46.167431,
-            "lng": 2.84605,
-            "info": "Rue du Puits du Manoir 63700 Saint-Éloy-les-Mines"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Vallon",
-            "lat": 44.941444,
-            "lng": 4.914024,
-            "info": "224  rue Barnave 26000 Valence"
-        },
-        {
-            "name": "Pompes Funèbres Roblot",
-            "lat": 45.046631,
-            "lng": 5.049945,
-            "info": "14  rue Pierre Sémard 26100 Romans-sur-Isère"
-        },
-        {
-            "name": "Pompes funèbres Roc Eclerc",
-            "lat": 45.286172,
-            "lng": 4.82457,
-            "info": "14 A Route D'anneyron  Lieu Dit Fouillouse Nord 26140 Saint-Rambert-d'Albon"
-        },
-        {
-            "name": "Pompes Funèbres Roblot",
-            "lat": 44.564903,
-            "lng": 4.754729,
-            "info": "9  avenue Saint-Lazare 26200 Montelimar"
-        },
-        {
-            "name": "Pompes Funèbres Peageoises",
-            "lat": 45.036562,
-            "lng": 5.046761,
-            "info": "64-66  Grande rue Jean Jaurès 26300 Bourg-de-Péage"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Billon",
-            "lat": 45.197492,
-            "lng": 5.73734,
-            "info": "29 avenue Maréchal Randon 38000 Grenoble"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.525504,
-            "lng": 4.875315,
-            "info": "3  place François Mitterrand 38200 Vienne"
-        },
-        {
-            "name": "Pompes Funèbres Réquiston Boudrier",
-            "lat": 45.723048,
-            "lng": 5.253172,
-            "info": "16  faubourg des Moulins 38460 Crémieu"
-        },
-        {
-            "name": "Pompes Funèbres Boudrier",
-            "lat": 45.669962,
-            "lng": 5.470278,
-            "info": "184  route de Vezeronce 38510 Morestel"
-        },
-        {
-            "name": "Pompes Funèbres Alain Besset",
-            "lat": 45.526836,
-            "lng": 4.923926,
-            "info": "Rue Denis Capron  Le Plan Des Airs 38780 Pont-Évèque"
-        },
-        {
-            "name": "Pompes Funèbres Celle",
-            "lat": 45.204059,
-            "lng": 4.039467,
-            "info": "1  rue Neuve 43130 Retournac"
-        },
-        {
-            "name": "Pompes Funèbres Grousson",
-            "lat": 45.187186,
-            "lng": 4.312786,
-            "info": "24  Avenue du 19 Mars 1962 43290 Montfaucon-en-Velay"
-        },
-        {
-            "name": "Pompes funèbres et Marbrerie POMMAT",
-            "lat": 45.675768,
-            "lng": 6.391126,
-            "info": "8  rue Pargoud 73200 Albertville"
-        },
-        {
-            "name": "Pompes Funebres - Marbrerie Funeralp",
-            "lat": 46.134074,
-            "lng": 6.46878,
-            "info": "50  allée de la Géode 74490 Saint-Jeoire"
-        },
-        {
-            "name": "Alain Sahut Funéraire",
-            "lat": 45.77584,
-            "lng": 3.083336,
-            "info": "55 rue Saint Robert 63000 Clermont-Ferrand"
-        },
-        {
-            "name": "BS Pompes Funèbres",
-            "lat": 45.145197,
-            "lng": 4.126819,
-            "info": "6 Bis Avenue Maréchal de Vaux 43200 Yssingeaux"
-        },
-        {
-            "name": "Gandy Pompes Funèbres Marbrerie",
-            "lat": 45.688907,
-            "lng": 5.909703,
-            "info": "180 Bd Président Wilson 73100 Aix-les-Bains"
-        },
-        {
-            "name": "Philae Services Funéraires",
-            "lat": 46.371452,
-            "lng": 6.47825,
-            "info": "16 Rue Vallon 74200 Thonon-les-Bains"
-        },
-        {
-            "name": "Pompes Funèbres Alpines",
-            "lat": 45.054006,
-            "lng": 6.033099,
-            "info": "167 Rue des Cristalliers 38520 Le Bourg-d'Oisans"
-        },
-        {
-            "name": "Pompes Funèbres Autem",
-            "lat": 46.144683,
-            "lng": 6.31829,
-            "info": "160 rue de la Courbe 74380 Nangy"
-        },
-        {
-            "name": "Pompes Funèbres Beauzacoise",
-            "lat": 45.27824,
-            "lng": 4.128532,
-            "info": "impasse du pré château 43590 Beauzac"
-        },
-        {
-            "name": "Pompes Funèbres Bories",
-            "lat": 44.711508,
-            "lng": 2.198144,
-            "info": "120 rue Tour de Ville 15600 Maurs"
-        },
-        {
-            "name": "Pompes funèbres Cairn",
-            "lat": 44.91827,
-            "lng": 4.916325,
-            "info": "26 Rue Barthélémy de Laffemas 26000 Valence"
-        },
-        {
-            "name": "Pompes Funèbres Cheynoux",
-            "lat": 45.54233,
-            "lng": 3.247401,
-            "info": "13 Bd de la Sous-Préfecture 63500 Issoire"
-        },
-        {
-            "name": "Pompes Funèbres COLOMB",
-            "lat": 45.070345,
-            "lng": 3.766266,
-            "info": "6 Rue De L'Aviation ZAC De L'Aerodrome 43320 Chaspuzac"
-        },
-        {
-            "name": "Pompes Funèbres Dabrigeon",
-            "lat": 45.757162,
-            "lng": 3.148472,
-            "info": "100 avenue Ernest Cristal 63170 Aubière"
-        },
-        {
-            "name": "Pompes Funèbres d'Auvergne",
-            "lat": 45.779623,
-            "lng": 3.096361,
-            "info": "42 Avenue Charras 63000 Clermont-Ferrand"
-        },
-        {
-            "name": "Pompes Funèbres de la Matheysine",
-            "lat": 44.919916,
-            "lng": 5.782681,
-            "info": "ZA du Villaret - Pont de la Fange 38350 La Mure"
-        },
-        {
-            "name": "Pompes Funèbres de Savoy",
-            "lat": 45.4841,
-            "lng": 6.534763,
-            "info": "175 Rue de la Sous-Préfecture 73600 Moutiers"
-        },
-        {
-            "name": "Pompes Funèbres Dolmazon",
-            "lat": 45.231274,
-            "lng": 4.400727,
-            "info": "12 Place de l'église 43220 Riotord"
-        },
-        {
-            "name": "Pompes Funèbres Du Livradois Forez",
-            "lat": 45.551199,
-            "lng": 3.739513,
-            "info": "12 Avenue Georges Clemenceau 63600 Ambert"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Funeralp",
-            "lat": 46.070295,
-            "lng": 6.562962,
-            "info": "104 Avenue Georges Clemenceau 74300 Cluses"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Savoisiennes Schaller",
-            "lat": 46.195589,
-            "lng": 6.239374,
-            "info": "18 avenue du Giffre 74100 Annemasse"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie TARDIF-PFG",
-            "lat": 45.414618,
-            "lng": 3.319509,
-            "info": "19 route de Charbonnier 63570 Brassac-les-Mines"
-        },
-        {
-            "name": "Pompes Funèbres Funeralp",
-            "lat": 46.195907,
-            "lng": 6.239003,
-            "info": "35 avenue Jules Ferry 74100 Annemasse"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.703351,
-            "lng": 5.756708,
-            "info": "120 chemin de ronde 73170 Yenne"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.899713,
-            "lng": 6.127858,
-            "info": "2 rue Camille Dunant 74000 Annecy"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.698798,
-            "lng": 5.912286,
-            "info": "42-44 avenue de Saint Simond 73100 Aix-les-Bains"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 46.189842,
-            "lng": 6.230969,
-            "info": "9-11 rue de la Paix 74100 Annemasse"
-        },
-        {
-            "name": "Pompes Funèbres Goliard",
-            "lat": 45.956468,
-            "lng": 3.471503,
-            "info": "46 rue Emile Zola 63290 Puy-Guillaume"
-        },
-        {
-            "name": "Pompes Funèbres Les Torrents",
-            "lat": 45.834192,
-            "lng": 3.494865,
-            "info": "ZI Les Torrents 63920 Peschadoires"
-        },
-        {
-            "name": "Pompes Funèbres Marbrerie A-Buttay",
-            "lat": 46.376395,
-            "lng": 6.492011,
-            "info": "11 avenue de Champagne 74200 Thonon-les-Bains"
-        },
-        {
-            "name": "Pompes Funèbres Marbrerie Ducron",
-            "lat": 45.831629,
-            "lng": 3.392453,
-            "info": "53 avenue de Verdun 63190 Lezoux"
-        },
-        {
-            "name": "Pompes Funèbres MAS - Marbrerie",
-            "lat": 45.946604,
-            "lng": 6.047449,
-            "info": "120 Rte de Clermont 74330 Sillingy"
-        },
-        {
-            "name": "Pompes Funèbres Mennuzo Funéraire",
-            "lat": 45.90015,
-            "lng": 3.117215,
-            "info": "Avenue de Paris-Zac Cap Nord 63200 Riom"
-        },
-        {
-            "name": "Pompes funèbres Musulmanes des Savoie",
-            "lat": 45.567784,
-            "lng": 5.923448,
-            "info": "6 Av. des Ducs de Savoie 73000 Chambery"
-        },
-        {
-            "name": "Pompes Funèbres Pascal et Fils",
-            "lat": 45.038701,
-            "lng": 3.065345,
-            "info": "14 Rue Léopold Chastang ZI Montplain 15100 Saint-Flour"
-        },
-        {
-            "name": "Pompes Funèbres Publiques",
-            "lat": 45.563829,
-            "lng": 5.914909,
-            "info": "315 Avenue de Lyon 73000 Chambery"
-        },
-        {
-            "name": "Pompes Funèbres Robert",
-            "lat": 45.366276,
-            "lng": 4.192116,
-            "info": "Route de Bas en Basset 43110 Aurec-sur-Loire"
-        },
-        {
-            "name": "Pompes funèbres Roc-Eclerc",
-            "lat": 45.588197,
-            "lng": 5.255062,
-            "info": "139 Rue Isaac Asimov 38300 Bourgoin-Jallieu"
-        },
-        {
-            "name": "Pompes Funèbres Rousset",
-            "lat": 45.868093,
-            "lng": 2.675566,
-            "info": "2 avenue du Marronnier 63380 Pontaumur"
-        },
-        {
-            "name": "Pompes Funèbres SERONDE - Le Choix Funéraire",
-            "lat": 45.575583,
-            "lng": 2.809089,
-            "info": "17 place Charles de Gaulle 63240 Mont-Dore"
-        },
-        {
-            "name": "Pompes Funèbres Suchier",
-            "lat": 45.059945,
-            "lng": 4.869124,
-            "info": "225 Chemin de la Gravière 26600 Mercurol"
-        },
-        {
-            "name": "Pompes Funèbres Vulliet",
-            "lat": 45.886169,
-            "lng": 6.329087,
-            "info": "55 Rue de la Saulne 74230 Thônes"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 44.937585,
-            "lng": 4.912345,
-            "info": "269  avenue de Romans 26000 Valence"
-        },
-        {
-            "name": "Pompes Funèbres Romanaises",
-            "lat": 45.04514,
-            "lng": 5.051168,
-            "info": "17  Place du 75ème Régiment d'Infanterie 26100 Romans-sur-Isère"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Didier Bouillanne",
-            "lat": 44.756395,
-            "lng": 5.367622,
-            "info": "73  avenue Sadi Carnot 26150 Die"
-        },
-        {
-            "name": "Pompes Funèbres Roc-Eclerc",
-            "lat": 44.538251,
-            "lng": 4.730891,
-            "info": "6  rue Hispano Suiza - Le Pôle provençal 26200 Montelimar"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Arole - PFG",
-            "lat": 44.73098,
-            "lng": 5.017453,
-            "info": "2  avenue Henri Grand 26400 Crest"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.19929,
-            "lng": 5.739158,
-            "info": "6 avenue Maréchal Randon 38000 Grenoble"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Pilot Bourdon - Dignité Funéraire",
-            "lat": 45.297787,
-            "lng": 5.484196,
-            "info": "16  avenue Beregovoy 38210 Tullins"
-        },
-        {
-            "name": "Pompes Funèbres Vitaloni",
-            "lat": 45.205149,
-            "lng": 5.402623,
-            "info": "346  Impasse de Vinay- ZAC Trery Sud 38470 Vinay"
-        },
-        {
-            "name": "Pompes Funèbres Baudrion",
-            "lat": 45.432309,
-            "lng": 6.023864,
-            "info": "50  place Pierre du Terrail 38530 Pontcharra"
-        },
-        {
-            "name": "Pompes Funèbres Bay Didier",
-            "lat": 45.012012,
-            "lng": 3.900802,
-            "info": "ZA de Taulhac  16 Rue Jean Brenas 43000 Le Puy-en-Velay"
-        },
-        {
-            "name": "Pompes funèbres Tence",
-            "lat": 45.11567,
-            "lng": 4.285072,
-            "info": "15  Grande Rue 43190 Tence"
-        },
-        {
-            "name": "Pompes Funèbres Mirmand Albert et Fils",
-            "lat": 45.332181,
-            "lng": 3.847984,
-            "info": "30  boulevard du Nord 43500 Craponne-sur-Arzon"
-        },
-        {
-            "name": "Gandy Pompes Funèbres Marbrerie",
-            "lat": 46.146183,
-            "lng": 6.319343,
-            "info": "30 chemin de la Courbe  Findrol 74150 Contamine-sur-Arve"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.932248,
-            "lng": 6.633228,
-            "info": "86  route du Fayet 74700 Sallanches"
-        },
-        {
-            "name": "Alain Sahut Funéraire",
-            "lat": 45.770623,
-            "lng": 3.128666,
-            "info": "78 rue Pierre Estienne 63000 Clermont-Ferrand"
-        },
-        {
-            "name": "Centre Funéraire POLLET",
-            "lat": 45.069975,
-            "lng": 4.838655,
-            "info": "90 av J Jaurès 26600 Tain-l'Hermitage"
-        },
-        {
-            "name": "Gandy Pompes Funèbres Marbrerie Annemasse",
-            "lat": 46.194002,
-            "lng": 6.240123,
-            "info": "2 Pl. de l'Étoile 74100 Annemasse"
-        },
-        {
-            "name": "Pompe Funèbres, Marbrerie de La Vanoise",
-            "lat": 45.199035,
-            "lng": 6.668164,
-            "info": "120 route de Bardonnèche 73500 Modane"
-        },
-        {
-            "name": "Pompes Funèbres Alpines",
-            "lat": 44.906685,
-            "lng": 5.785434,
-            "info": "4 Rue du Breuil 38350 La Mure"
-        },
-        {
-            "name": "Pompes funèbres Bachelerie",
-            "lat": 45.438998,
-            "lng": 3.774909,
-            "info": "Route de Beurrières 63220 Arlanc"
-        },
-        {
-            "name": "Pompes Funèbres Belle Étoile",
-            "lat": 45.676564,
-            "lng": 6.393035,
-            "info": "3 rue Gambetta 73200 Albertville"
-        },
-        {
-            "name": "Pompes Funèbres Boudrier Réquisition",
-            "lat": 45.753081,
-            "lng": 5.195576,
-            "info": "9 rue Jacqueline Auriol 38230 Tignieu-Jameyzieu"
-        },
-        {
-            "name": "Pompes Funèbres Cartier-Lange",
-            "lat": 45.345199,
-            "lng": 6.294098,
-            "info": "365 av de la Gare - BP 2 73130 Saint-Étienne-de-Cuines"
-        },
-        {
-            "name": "Pompes Funèbres Cheynoux",
-            "lat": 45.646082,
-            "lng": 3.229125,
-            "info": "15 impasse des Meuliers 63270 Vic-le-Comte"
-        },
-        {
-            "name": "Pompes Funèbres Colon Daniel",
-            "lat": 45.682005,
-            "lng": 2.799199,
-            "info": "14 route de Bordas 63210 Rochefort-Montagne"
-        },
-        {
-            "name": "Pompes Funèbres Dabrigeon",
-            "lat": 45.745263,
-            "lng": 3.087534,
-            "info": "15 rue Jules Verne 63110 Beaumont"
-        },
-        {
-            "name": "Pompes Funèbres de France",
-            "lat": 46.3708,
-            "lng": 6.482199,
-            "info": "1 boulevard georges Andrier 74200 Thonon-les-Bains"
-        },
-        {
-            "name": "Pompes Funèbres de la Matheysine",
-            "lat": 44.919916,
-            "lng": 5.782681,
-            "info": "ZA du Villaret - Pont de la Fange 38350 Susville"
-        },
-        {
-            "name": "Pompes Funèbres Del Papa Lucien & Fils",
-            "lat": 44.423224,
-            "lng": 4.891955,
-            "info": "ZA nord la Dagasse 26230 Grignan"
-        },
-        {
-            "name": "Pompes Funèbres Dolmazon",
-            "lat": 45.049045,
-            "lng": 4.246163,
-            "info": "21 route de Tence 43520 Mazet-Saint-Voy"
-        },
-        {
-            "name": "Pompes Funèbres du Velay",
-            "lat": 45.13241,
-            "lng": 3.810408,
-            "info": "4 place de La Prade 43350 Saint-Paulien"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Funeralp",
-            "lat": 46.104834,
-            "lng": 6.590627,
-            "info": "294 avenue de Thézières 74440 Taninges"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Sedran",
-            "lat": 45.687975,
-            "lng": 5.911162,
-            "info": "27 avenue du Général de Gaulle 73100 Aix-les-Bains"
-        },
-        {
-            "name": "Pompes Funèbres et Marbrerie Vallon",
-            "lat": 44.839907,
-            "lng": 4.96207,
-            "info": "158 Chemin de l'Oye 26120 Montmeyran"
-        },
-        {
-            "name": "Pompes Funèbres Genérales",
-            "lat": 45.774037,
-            "lng": 3.085301,
-            "info": "36 Rue du Maréchal De Lattre 63000 Clermont-Ferrand"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.855621,
-            "lng": 3.541095,
-            "info": "14 rue des Limandons 63300 Thiers"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 45.483275,
-            "lng": 6.533924,
-            "info": "28 rue du Pain de mai 73600 Moutiers"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 46.366458,
-            "lng": 6.469518,
-            "info": "56bis grande rue 74200 Thonon-les-Bains"
-        },
-        {
-            "name": "Pompes Funèbres Générales",
-            "lat": 48.315477,
-            "lng": 1.427541,
-            "info": "Chemin du Loup 74160 Saint-Julien-en-Genevois"
-        },
-        {
-            "name": "Pompes Funèbres Gramont",
-            "lat": 45.174641,
-            "lng": 2.319041,
-            "info": "Route de Mauriac 15700 Ally"
-        },
-        {
-            "name": "Pompes Funèbres JOUBERT",
-            "lat": 45.632712,
-            "lng": 3.56255,
-            "info": "Route d'Olliergues 63590 Cunlhat"
-        },
-        {
-            "name": "Pompes Funèbres Lezer",
-            "lat": 45.281517,
-            "lng": 2.659289,
-            "info": "8 Rue du Capitaine Chevalier 15400 Riom-ès-Montagnes"
-        },
-        {
-            "name": "Pompes Funèbres Marbrerie Anneciennes G.Golliet",
-            "lat": 45.904008,
-            "lng": 6.130755,
-            "info": "3 av du parmelan 74000 Annecy"
-        },
-        {
-            "name": "Pompes Funèbres Marbrerie Faure",
-            "lat": 45.272234,
-            "lng": 6.361452,
-            "info": "262 Rue du Parquet 73300 Saint-Jean-de-Maurienne"
-        },
-        {
-            "name": "Pompes Funèbres Mauriacoises",
-            "lat": 45.220468,
-            "lng": 2.343298,
-            "info": "6 Rue Longchamp 15200 Mauriac"
-        },
-        {
-            "name": "Pompes Funèbres MICHELON",
-            "lat": 45.046796,
-            "lng": 5.046796,
-            "info": "17 Bd de la Libération 26100 Romans-sur-Isère"
-        },
-        {
-            "name": "Pompes Funèbres Musulmanes El Ihsane",
-            "lat": 45.172208,
-            "lng": 5.756529,
-            "info": "28 Avenue Potie 38400 Saint-Martin-d'Hères"
-        },
-        {
-            "name": "Pompes Funèbres Péageoises - Groupe DUMOULIN - Le Choix Funéraire",
-            "lat": 45.02886,
-            "lng": 5.047449,
-            "info": "2 Rue Jacques Prévert 26300 Bourg-de-Péage"
-        },
-        {
-            "name": "Pompes Funèbres Publiques",
-            "lat": 45.694296,
-            "lng": 5.907389,
-            "info": "32 avenue Prés 73100 Aix-les-Bains"
-        },
-        {
-            "name": "Pompes Funèbres Robert Guimbaud",
-            "lat": 45.251316,
-            "lng": 5.01751,
-            "info": "ZA Les Gonnets Nord Lieu dit« La Fourmilière» 26390 Hauterives"
-        },
-        {
-            "name": "Pompes Funèbres Roc-Eclerc",
-            "lat": 45.690906,
-            "lng": 5.909652,
-            "info": "27 Boulevard Président Wilson 73100 Aix-les-Bains"
-        },
-        {
-            "name": "Pompes Funèbres Rousset",
-            "lat": 45.831652,
-            "lng": 2.851673,
-            "info": "Place de la République 63230 Pontgibaud"
-        },
-        {
-            "name": "Pompes Funèbres SERONDE - Le Choix Funéraire",
-            "lat": 45.759379,
-            "lng": 3.096185,
-            "info": "48 bis rue Montcalm 63000 Clermont-Ferrand"
-        },
-        {
-            "name": "Pompes Funèbres Theuil et Fils",
-            "lat": 45.879193,
-            "lng": 3.696912,
-            "info": "24 Rue de Lyon 63250 Chabreloche"
-        }
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.188942,
+"lng": 5.694216,
+"info": "1  rue Jean Bocq 38600 Fontaine"
+},
+{
+"name": "Pompes Funèbres Pascal Leclerc",
+"lat": 44.914149,
+"lng": 4.908136,
+"info": "51  avenue du Docteur Santy 26000 Valence"
+},
+{
+"name": "Pompes Funèbres Nyonsaises Navarre",
+"lat": 44.360859,
+"lng": 5.136933,
+"info": "2  place de la République 26110 Nyons"
+},
+{
+"name": "Pompes Funèbres et Marbrerie BRUN",
+"lat": 45.018292,
+"lng": 5.294735,
+"info": "155  Chemin du Balcon 26190 Saint-Jean-en-Royans"
+},
+{
+"name": "Pompes funèbres POLLET",
+"lat": 45.176835,
+"lng": 4.818237,
+"info": "4  rue de Picpus 26240 Saint-Vallier"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Vallon",
+"lat": 44.733684,
+"lng": 5.012723,
+"info": "194  avenue Henri Grand B.P. 219 26401 Crest"
+},
+{
+"name": "Service funéraire international (SFI)",
+"lat": 45.190125,
+"lng": 5.718976,
+"info": "10 Rue Etienne Forest  38000 Grenoble 38000 Grenoble"
+},
+{
+"name": "Pompes Funèbres et Marbrerie du Sud-Est",
+"lat": 45.084195,
+"lng": 5.763842,
+"info": "219  rue Ambroise Croizat ZI de Cornage 38220 Vizille"
+},
+{
+"name": "Pompes Funèbres Aoste",
+"lat": 45.587512,
+"lng": 5.60665,
+"info": "4 place du Musée 38490 Aoste"
+},
+{
+"name": "Pompes Funèbres Colombier Frères",
+"lat": 45.628749,
+"lng": 5.06386,
+"info": "12 place Paul Doumer 38540 Heyrieux"
+},
+{
+"name": "Pompes Funèbres Condemine",
+"lat": 45.044847,
+"lng": 3.890941,
+"info": "30  boulevard de la République 43000 Le Puy-en-Velay"
+},
+{
+"name": "Pompes Funèbres Celle",
+"lat": 45.213349,
+"lng": 4.346094,
+"info": "4  route du Fraisse 43220 Dunières"
+},
+{
+"name": "Pompes Funèbres Cornillon",
+"lat": 45.241518,
+"lng": 4.23442,
+"info": "6  avenue Lafayette 43600 Sainte-Sigolène"
+},
+{
+"name": "Pompes Funèbres BOUVIER - Le Choix funéraire",
+"lat": 45.87071,
+"lng": 5.94357,
+"info": "4  rue Joseph Béard 74150 Rumilly"
+},
+{
+"name": "Pompes Funèbres P. Laurent",
+"lat": 46.072837,
+"lng": 6.390959,
+"info": "3372  avenue du Mont-Blanc Toisinges 74800 Saint-Pierre-en-Faucigny"
+},
+{
+"name": "Aloma funéraire",
+"lat": 45.176052,
+"lng": 4.816079,
+"info": "19 avenue Désiré Valette 26240 Saint-Vallier"
+},
+{
+"name": "Centre Funéraire Rivière",
+"lat": 45.597526,
+"lng": 5.243167,
+"info": "30 avenue Alexandre Fleming 38300 Bourgoin-Jallieu"
+},
+{
+"name": "La Plume Funéraire - Pompes funèbres musulmanes Ã  Valence",
+"lat": 44.938296,
+"lng": 4.900717,
+"info": "44 Av. de Verdun 26000 Valence"
+},
+{
+"name": "Pompes Funèbres Alain Besset",
+"lat": 45.373994,
+"lng": 4.794266,
+"info": "14-16 rue du Stade 38550 Le Péage-de-Roussillon"
+},
+{
+"name": "Pompes Funèbres AMANA",
+"lat": 44.930773,
+"lng": 4.924681,
+"info": "8 rue d'Asti 26000 Valence"
+},
+{
+"name": "Pompes Funèbres Baldini Leclaire",
+"lat": 45.535806,
+"lng": 5.670122,
+"info": "14 Rue Professeur Trillat 38480 Le Pont-de-Beauvoisin"
+},
+{
+"name": "Pompes Funèbres Blachon Valon",
+"lat": 45.306172,
+"lng": 4.109355,
+"info": "3 Rue du Onze Novembre 43210 Bas-en-Basset"
+},
+{
+"name": "Pompes Funèbres Bouvier - Le Choix Funéraire",
+"lat": 45.544948,
+"lng": 5.987261,
+"info": "1827 Avenue de Chambéry 73190 Challes-les-Eaux"
+},
+{
+"name": "Pompes Funèbres Cassagne",
+"lat": 44.910442,
+"lng": 2.421348,
+"info": "137 Avenue de Conthe 15000 Aurillac"
+},
+{
+"name": "Pompes Funèbres Cheynoux",
+"lat": 45.413128,
+"lng": 3.330845,
+"info": "30 Rue du Dr Charles Souligoux 63570 Brassac-les-Mines"
+},
+{
+"name": "Pompes Funèbres Combrailles",
+"lat": 46.029463,
+"lng": 2.818501,
+"info": "Rue du Castel 63390 Saint-Gervais-d'Auvergne"
+},
+{
+"name": "Pompes Funèbres Dabrigeon",
+"lat": 45.745243,
+"lng": 3.208039,
+"info": "2 rue Georges Buffon 63800 Cournon-d'Auvergne"
+},
+{
+"name": "Pompes Funèbres de France",
+"lat": 45.914414,
+"lng": 6.134643,
+"info": "133 Av. de Genève 74000 Annecy"
+},
+{
+"name": "Pompes Funèbres de L'Agglomération Viennoise",
+"lat": 45.522025,
+"lng": 4.919999,
+"info": "9016 avenue George et Louis Frère jean 38780 Pont-Évèque"
+},
+{
+"name": "Pompes Funèbres des Baronnies",
+"lat": 44.277597,
+"lng": 5.277025,
+"info": "Zone Artisanale La Palun 26170 Buis-les-Baronnies"
+},
+{
+"name": "Pompes Funèbres Dombes de Villa",
+"lat": 45.815249,
+"lng": 5.400588,
+"info": "6 rue du 1er Août 38390 Montalieu-Vercieu"
+},
+{
+"name": "Pompes Funèbres Dumoulin - Le Choix Funéraire",
+"lat": 45.040463,
+"lng": 5.037044,
+"info": "rue Calixte Lafosse 26100 Romans-sur-Isère"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Les Granits d'Auvergne",
+"lat": 45.798557,
+"lng": 3.258885,
+"info": "99 avenue Docteur Besserve 63430 Pont-du-Château"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Soleilhac",
+"lat": 45.412906,
+"lng": 3.328344,
+"info": "5 Rue du Souvenir 63570 Brassac-les-Mines"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Vallon",
+"lat": 44.901563,
+"lng": 5.00735,
+"info": "5/7 rue Gauthier Lucet 26120 Chabeuil"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.835141,
+"lng": 3.096381,
+"info": "1 Impasse de Sibony 63118 Cébazat"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.779347,
+"lng": 3.064835,
+"info": "16 rue des Farges 63400 Chamalières"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.761692,
+"lng": 3.096143,
+"info": "29 boulevard Loucheur 63000 Clermont-Ferrand"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.564097,
+"lng": 5.910043,
+"info": "585 Faubourg Maché 73000 Chambery"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.507925,
+"lng": 6.055915,
+"info": "Place Albert Serraz 73800 Montmélian"
+},
+{
+"name": "Pompes Funèbres Gros",
+"lat": 45.916192,
+"lng": 6.705209,
+"info": "1 place du 11 novembre 74190 Passy"
+},
+{
+"name": "Pompes Funèbres Koehler Gérard",
+"lat": 46.107217,
+"lng": 2.692896,
+"info": "15 Grand Rue 63330 Pionsat"
+},
+{
+"name": "Pompes Funèbres Ludivine - Philae Services Funéraire",
+"lat": 45.569796,
+"lng": 5.934012,
+"info": "315 Av. de Turin 73000 Chambery"
+},
+{
+"name": "Pompes Funèbres Marbrerie Ardrome Funéraire",
+"lat": 44.940659,
+"lng": 4.910982,
+"info": "38 Boulevard Gustave André 26000 Valence"
+},
+{
+"name": "Pompes Funèbres Marbrerie Gandy",
+"lat": 45.84917,
+"lng": 5.95225,
+"info": "80 rue René Cassin 74150 Rumilly"
+},
+{
+"name": "Pompes Funèbres Mauriennaises",
+"lat": 45.27426,
+"lng": 6.347981,
+"info": "46 Avenue du Mont Cenis 73300 Saint-Jean-de-Maurienne"
+},
+{
+"name": "Pompes Funèbres Moneyron",
+"lat": 45.104226,
+"lng": 3.493898,
+"info": "Avenue du Cimetière 43300 Langeac"
+},
+{
+"name": "Pompes Funebres Musulmanes Rahma Auvergne",
+"lat": 45.787478,
+"lng": 3.093462,
+"info": "18 rue Barbier Daubrée 63000 Clermont-Ferrand"
+},
+{
+"name": "Pompes Funèbres PECH",
+"lat": 45.751811,
+"lng": 6.297911,
+"info": "260 Route de Thônes 74210 Faverges"
+},
+{
+"name": "Pompes Funèbres Publiques",
+"lat": 45.564141,
+"lng": 5.910819,
+"info": "519 Faubourg Mâché 73000 Chambery"
+},
+{
+"name": "Pompes Funèbres Roblot",
+"lat": 45.066727,
+"lng": 4.866578,
+"info": "Parking de la République 26600 Tain-l'Hermitage"
+},
+{
+"name": "Pompes Funèbres ROC-ECLERC",
+"lat": 45.524462,
+"lng": 4.871896,
+"info": "3 Place Saint-Maurice 38200 Vienne"
+},
+{
+"name": "Pompes Funèbres Sahut - SIOULE et VOLCANS",
+"lat": 45.964291,
+"lng": 2.929712,
+"info": "22 rue des Combrailles 63410 Manzat"
+},
+{
+"name": "Pompes Funèbres SERONDE - Le Choix Funéraire",
+"lat": 45.34242,
+"lng": 2.761854,
+"info": "6 D62 - Route d'Egliseneuve 15190 Condat"
+},
+{
+"name": "Pompes Funèbres Tixier-Chavaroux",
+"lat": 45.91977,
+"lng": 3.084994,
+"info": "ZA 7 Chem. de la Croix des Robert 63140 Châtel-Guyon"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 46.053745,
+"lng": 4.073453,
+"info": "1 route de Briennon 42300 Mably"
+},
+{
+"name": "Pompes Funèbres LOIRE FUNÉRAIRE",
+"lat": 45.440017,
+"lng": 4.391346,
+"info": "1 rue du Guizay 42000 Saint-Étienne"
+},
+{
+"name": "Pompes Funèbres et Marbrerie CRÉPET",
+"lat": 45.818707,
+"lng": 4.18493,
+"info": "10 Pl. de la Libération 42510 Balbigny"
+},
+{
+"name": "Pompes Funèbres Loire Funéraire",
+"lat": 45.479786,
+"lng": 4.356271,
+"info": "105 Avenue Albert Raimond 42270 Saint-Priest-en-Jarez"
+},
+{
+"name": "Pompes Funèbres Musulmanes QIBLA",
+"lat": 45.435748,
+"lng": 4.385944,
+"info": "12 rue du Théatre 42000 Saint-Étienne"
+},
+{
+"name": "Pompes Funèbres Garnodon",
+"lat": 45.296201,
+"lng": 4.559934,
+"info": "15 place de la Cité 42220 Bourg-Argental"
+},
+{
+"name": "Pompes Funèbres Jullien Forest",
+"lat": 45.520868,
+"lng": 4.265401,
+"info": "2 Allée La Forezienne 42160 Andrézieux-Bouthéon"
+},
+{
+"name": "Pompes Funèbres Loire Funéraire",
+"lat": 48.389743,
+"lng": -4.478017,
+"info": "20 rue de la République 42350 La Talaudière"
+},
+{
+"name": "Pompes Funèbres BARAY",
+"lat": 45.892446,
+"lng": 4.238644,
+"info": "222 rue Grange Blanche 42540 Saint-Just-la-Pendue"
+},
+{
+"name": "Pompes Funèbres Mazet",
+"lat": 45.595987,
+"lng": 4.304528,
+"info": "31 route de Cuzieu 42330 Saint-Galmier"
+},
+{
+"name": "Pompes Funèbres Breso",
+"lat": 45.527056,
+"lng": 4.372707,
+"info": "33 route de Saint-Etienne 42570 Saint-Héand"
+},
+{
+"name": "Pompes funèbres De Roche La Molière - Le Choix Funéraire",
+"lat": 45.432966,
+"lng": 4.322295,
+"info": "4 Rue Sadi Carnot 42230 Roche-la-Molière"
+},
+{
+"name": "Pompes funèbres Paire",
+"lat": 46.054394,
+"lng": 4.073597,
+"info": "5 Route de Briennon 42300 Mably"
+},
+{
+"name": "Pompes Funèbres du Pilat Alain Besset",
+"lat": 45.422217,
+"lng": 4.73891,
+"info": "57 Rd 1086, Lieu-Dit Chanson 42410 Chavanay"
+},
+{
+"name": "Pompes Funèbres D. Lièvre",
+"lat": 45.447822,
+"lng": 4.383532,
+"info": "68 Rue Marengo 42000 Saint-Étienne"
+},
+{
+"name": "Pompes Funèbres Mariani",
+"lat": 45.538774,
+"lng": 4.18356,
+"info": "9 rue Emile Reymond 42450 Sury-le-Comtal"
+},
+{
+"name": "Pompes Funèbres Alain Bonnepart et fils",
+"lat": 45.916472,
+"lng": 4.178884,
+"info": "ZA La Fayette 42470 Saint-Symphorien-de-Lay"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.698682,
+"lng": 4.807873,
+"info": "107 Rue Jules Guesde 69230 Saint-Genis-Laval"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.764195,
+"lng": 4.783388,
+"info": "14 Avenue de la Republique 69160 Tassin-la-Demi-Lune"
+},
+{
+"name": "Centre funéraire Rivière",
+"lat": 45.760631,
+"lng": 4.904829,
+"info": "157 Rue Léon Blum 69100 Villeurbanne"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.583443,
+"lng": 4.771055,
+"info": "17 Rue Marcel Paul 69700 Givors"
+},
+{
+"name": "Pompes Funèbres CHABOUD",
+"lat": 45.741354,
+"lng": 4.853613,
+"info": "184 Avenue Berthelot 69007 Lyon"
+},
+{
+"name": "Pompes Funèbres des Monts du Lyonnais",
+"lat": 45.747411,
+"lng": 4.735017,
+"info": "20 Rue Edouard Millaud 69290 Craponne"
+},
+{
+"name": "Pompes Funèbres Eurolys",
+"lat": 45.740697,
+"lng": 4.855666,
+"info": "210 Avenue Berthelot 69007 Lyon"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.692098,
+"lng": 4.946264,
+"info": "26 Rue de l'égalité 69800 Saint-Priest"
+},
+{
+"name": "Pompes Funèbres de France",
+"lat": 45.987305,
+"lng": 4.717203,
+"info": "33 Rue Victor Hugo 69400 Villefranche-sur-Saône"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.689889,
+"lng": 4.881269,
+"info": "45 Chemin de Feyzin 69200 Vénissieux"
+},
+{
+"name": "Pompes Funèbres des Monts du Lyonnais",
+"lat": 45.815556,
+"lng": 4.717042,
+"info": "5 Avenue de la Poterie 69890 La Tour-de-Salvagny"
+},
+{
+"name": "Pompes Funèbres du Rhône",
+"lat": 45.764736,
+"lng": 4.782182,
+"info": "54 Avenue Victor Hugo 69160 Tassin-la-Demi-Lune"
+},
+{
+"name": "Service Catholique Des Funérailles",
+"lat": 45.771116,
+"lng": 4.868537,
+"info": "63 cours Emile Zola 69100 Villeurbanne"
+},
+{
+"name": "Service Catholique des Funérailles",
+"lat": 45.758345,
+"lng": 4.829569,
+"info": "7 rue du plat 69002 Lyon"
+},
+{
+"name": "Pompes Funèbres Saint Nicolas",
+"lat": 45.632622,
+"lng": 4.45578,
+"info": "84 Grande Rue 69590 Saint-Symphorien-sur-Coise"
+},
+{
+"name": "Pompes funèbres Roc-Eclerc",
+"lat": 45.802944,
+"lng": 4.851107,
+"info": "95 Rue Jean Moulin 69300 Caluire-et-Cuire"
+},
+{
+"name": "Dazy Funéraire",
+"lat": 46.659784,
+"lng": 2.694016,
+"info": "6  place de l'Eglise 3360 Saint-Bonnet-Tronçais"
+},
+{
+"name": "Pompes Funèbres Auger",
+"lat": 46.728381,
+"lng": 2.941386,
+"info": "33 Rue du Dr Vinatier 3320 Lurcy-Lévis"
+},
+{
+"name": "Pompes Funèbres Cerilly Ambulance",
+"lat": 46.617773,
+"lng": 2.819754,
+"info": "57  avenue Jean Jaurès 3350 Cérilly"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Irlinger",
+"lat": 46.569814,
+"lng": 3.32503,
+"info": "9 Avenue du Général de Gaulle 3000 Moulins"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 46.57317,
+"lng": 3.326045,
+"info": "100  rue de Paris 3000 Moulins"
+},
+{
+"name": "Pompes Funèbres Krost Yzeure",
+"lat": 46.57035,
+"lng": 3.361119,
+"info": "20 Rue du Repos 3400 Yzeure"
+},
+{
+"name": "Pompes Funèbres Marbrerie Lascoux",
+"lat": 46.299615,
+"lng": 2.7418,
+"info": "13  rue du Progrès 3600 Commentry"
+},
+{
+"name": "Pompes Funèbres Roc-Eclerc",
+"lat": 46.365901,
+"lng": 2.567634,
+"info": "1 Rue des Ardillats 3410 Domérat"
+},
+{
+"name": "Roc-Eclerc Pompes Funèbres Faucheron",
+"lat": 46.138214,
+"lng": 3.436755,
+"info": "105  Avenue Gilbert Roux 3300 Cusset"
+},
+{
+"name": "La Maison des Obsèques - Ets Lefèvre",
+"lat": 46.180117,
+"lng": 4.811841,
+"info": "416 rue Joseph Berlioz 01140 Saint-Didier-sur-Chalaronne"
+},
+{
+"name": "Pompes Funèbres BOUVET",
+"lat": 45.946696,
+"lng": 4.754223,
+"info": "508 Allée des Filièristes 01600 Trévoux"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Comtet",
+"lat": 46.222039,
+"lng": 5.208916,
+"info": "1269 route de Paris 01440 Viriat"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Taton - PFG",
+"lat": 46.431057,
+"lng": 4.937495,
+"info": "46 rue Maréchal de Lattre 01190 Pont-de-Vaux"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.940985,
+"lng": 4.772832,
+"info": "9 rue du Port 01600 Trévoux"
+},
+{
+"name": "Pompes Funèbres Marbrerie Ain-Bugey",
+"lat": 45.94892,
+"lng": 5.441009,
+"info": "90 Rue Dr Temporal 01230 Saint-Rambert-en-Bugey"
+},
+{
+"name": "Pompes Funèbres METRAS",
+"lat": 46.007365,
+"lng": 5.038339,
+"info": "289 rue Pierre Poivre 01330 Villars-les-Dombes"
+},
+{
+"name": "Pompes funèbres Roc Eclerc",
+"lat": 46.214222,
+"lng": 5.234713,
+"info": "18 Rue Du Comté De Montrevel 01000 Bourg-en-Bresse"
+},
+{
+"name": "Pompes Funèbres Tonin-Coiffet",
+"lat": 45.760129,
+"lng": 5.686585,
+"info": "3 place des Terreaux 01300 Belley"
+},
+{
+"name": "Pompes Funèbres LAGANIER",
+"lat": 44.407325,
+"lng": 4.134454,
+"info": "11 Route du Vivarais 07140 Les Vans"
+},
+{
+"name": "Pompes Funèbres Marbrerie Alain Besset",
+"lat": 45.283955,
+"lng": 4.63199,
+"info": "150 avenue du Vivarais les Pés du Prince 07100 Saint-Marcel-lès-Annonay"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Chazel Martin - PFG",
+"lat": 44.81108,
+"lng": 4.787816,
+"info": "21  avenue du 11 novembre 07800 La Voulte-sur-Rhône"
+},
+{
+"name": "Pompes Funèbres Edmond Vabres",
+"lat": 44.930852,
+"lng": 4.861747,
+"info": "302 rue Marc Seguin 07500 Guilherand-Granges"
+},
+{
+"name": "Pompes Funèbres Blanc Eric",
+"lat": 44.936486,
+"lng": 4.368674,
+"info": "45 rue de la Poste 07310 Saint-Martin-de-Valamas"
+},
+{
+"name": "Pompes Funèbres et Marbrerie ARDROME Funéraire",
+"lat": 44.815961,
+"lng": 4.793028,
+"info": "6 route de Beauchastel 07800 La Voulte-sur-Rhône"
+},
+{
+"name": "Pompes Funèbres Roger Court et Fils",
+"lat": 44.907894,
+"lng": 4.427183,
+"info": "8  route de l'Eyrieux 07160 Le Cheylard"
+},
+{
+"name": "Pompes Funèbres ROUX et Fils",
+"lat": 44.799572,
+"lng": 3.978234,
+"info": "Le Village Route du Lac d'Issarles 07470 Coucouron"
+},
+{
+"name": "Pompes Funèbres Delage",
+"lat": 45.351242,
+"lng": 2.447489,
+"info": "rue Artisanat  8 Z.A. N 15210 Ydes"
+},
+{
+"name": "Pompes Funèbres Roblot",
+"lat": 44.933247,
+"lng": 4.891572,
+"info": "14  rue Dauphine 26000 Valence"
+},
+{
+"name": "Pompes Funèbres Mourier",
+"lat": 44.902936,
+"lng": 5.009552,
+"info": "1 Rue Victor Payonne  26120 Chabeuil"
+},
+{
+"name": "Pompes Funèbres de Provence",
+"lat": 44.571598,
+"lng": 4.784538,
+"info": "119 Route de Sauzet  qu la Chapellerie 26200 Montelimar"
+},
+{
+"name": "Pompes Funèbres et Marbrerie AROLE - PFG",
+"lat": 44.774086,
+"lng": 4.84583,
+"info": "35  avenue Léon Aubin 26250 Livron-sur-Drôme"
+},
+{
+"name": "Pompes Funèbres ROC ECLERC",
+"lat": 44.957946,
+"lng": 4.885118,
+"info": "370 rue des Chabanneries  Z.A.C. Les Chabanneries 26500 Bourg-lès-Valence"
+},
+{
+"name": "Pompes Funèbres Bayet",
+"lat": 45.564455,
+"lng": 5.446985,
+"info": "33  rue dela République 38110 La Tour-du-Pin"
+},
+{
+"name": "Pompes Funèbres Brun",
+"lat": 45.075666,
+"lng": 5.553172,
+"info": "570  Avenue du Général de Gaulle 38250 Villard-de-Lans"
+},
+{
+"name": "Pompes Funèbres Baldini Leclaire",
+"lat": 45.527219,
+"lng": 5.593238,
+"info": "45  route de Pré Noir 38490 Charancieu"
+},
+{
+"name": "Pompes Funèbres Vargas",
+"lat": 45.630189,
+"lng": 5.063934,
+"info": "45  avenue du Général Leclerc 38540 Heyrieux"
+},
+{
+"name": "Pompes Funèbres G. Coniasse",
+"lat": 45.048032,
+"lng": 3.890901,
+"info": "14  rue de Craponne 43000 Le Puy-en-Velay"
+},
+{
+"name": "Pompes Funèbres GARNIER",
+"lat": 45.21535,
+"lng": 4.344048,
+"info": "20  rue du 11 Novembre 43220 Dunières"
+},
+{
+"name": "Pompes Funèbres Bouchet",
+"lat": 45.051998,
+"lng": 3.897011,
+"info": "28  avenue des Champs-Elysées 43770 Chadrac"
+},
+{
+"name": "Pompes Funèbres Pech",
+"lat": 45.844448,
+"lng": 6.145902,
+"info": "PAC les Grands Vignobles  route d'Albertville 74320 Sévrier"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 46.135441,
+"lng": 6.26892,
+"info": "351  Grande rue 74930 Reignier-Ésery"
+},
+{
+"name": "Asphodèle Funéraire - Pompes funèbres et Marbrerie",
+"lat": 44.771066,
+"lng": 4.84172,
+"info": "24 Av. Joseph Combier 26250 Livron-sur-Drôme"
+},
+{
+"name": "Cimetière Communal",
+"lat": 44.946145,
+"lng": 3.989763,
+"info": "6 Avenue du Puy 43150 Le Monastier-sur-Gazeille"
+},
+{
+"name": "Mézenc Funéraires",
+"lat": 44.944464,
+"lng": 3.987881,
+"info": "Route de Chadron 43150 Le Monastier-sur-Gazeille"
+},
+{
+"name": "Pompes Funèbres Alain Besset",
+"lat": 45.334646,
+"lng": 5.056684,
+"info": "19 avenue Jean Jaurès 38270 Beaurepaire"
+},
+{
+"name": "Pompes Funèbres Ani",
+"lat": 45.750631,
+"lng": 5.172215,
+"info": "3 Rue de la République 38230 Pont-de-Chéruy"
+},
+{
+"name": "Pompes Funèbres Bastien",
+"lat": 45.036562,
+"lng": 5.046761,
+"info": "65bis Grand'Rue Jean Jaurès 26300 Bourg-de-Péage"
+},
+{
+"name": "Pompes Funèbres Blachon Valon",
+"lat": 45.286424,
+"lng": 4.159136,
+"info": "ZA Les Moletons 43120 Monistrol-sur-Loire"
+},
+{
+"name": "Pompes Funèbres BOUVIER - Le Choix funéraire",
+"lat": 45.695475,
+"lng": 5.908981,
+"info": "27 Avenue du Grand Port 73100 Aix-les-Bains"
+},
+{
+"name": "Pompes Funèbres CELLE",
+"lat": 45.15003,
+"lng": 4.134156,
+"info": "Z.A. de Chatimbarbe - avenue du 8 mai 43200 Yssingeaux"
+},
+{
+"name": "Pompes Funèbres Cheynoux",
+"lat": 45.73337,
+"lng": 3.337312,
+"info": "ZAC de l'Angaud - Route de Clermont 63160 Billom"
+},
+{
+"name": "Pompes Funèbres Constant",
+"lat": 44.377817,
+"lng": 4.695777,
+"info": "90 Grande Rue 26700 Pierrelatte"
+},
+{
+"name": "Pompes Funèbres Dabrigeon",
+"lat": 45.826645,
+"lng": 3.370719,
+"info": "58 rue Georges Clémenceau 63190 Lezoux"
+},
+{
+"name": "Pompes Funèbres de France",
+"lat": 44.919293,
+"lng": 4.885501,
+"info": "232 Avenue Victor Hugo 26000 Valence"
+},
+{
+"name": "Pompes Funèbres de l'Agglomération Viennoise - Le Choix Funéraire",
+"lat": 45.525953,
+"lng": 4.878221,
+"info": "1 et 3 rue Victor HUGO 38200 Vienne"
+},
+{
+"name": "Pompes Funèbres des Bords de Loire",
+"lat": 45.308785,
+"lng": 4.109181,
+"info": "18 avenue de Saint Julien 43210 Bas-en-Basset"
+},
+{
+"name": "Pompes Funèbres Dômes Funéraires",
+"lat": 45.778688,
+"lng": 3.062092,
+"info": "11 Av. Valéry Giscard d'Estaing 63400 Chamalières"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Debordes",
+"lat": 45.916544,
+"lng": 6.116079,
+"info": "25-27 bd du Fier 74000 Annecy"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Maitrias - PFG",
+"lat": 45.554625,
+"lng": 3.741569,
+"info": "Allée du Cimetière 63600 Ambert"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Tardif - PFG",
+"lat": 45.588277,
+"lng": 3.129665,
+"info": "7 Place de la Halle 63320 Champeix"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Vallon",
+"lat": 44.020347,
+"lng": 2.407132,
+"info": "Avenue de la Résistance 26800 Portes-lès-Valence"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.760923,
+"lng": 3.536838,
+"info": "1 rue de Vianoux 63120 Courpière"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.896143,
+"lng": 3.106665,
+"info": "17 Allée des Tilleuls 63200 Riom"
+},
+{
+"name": "Pompes funèbres Générales",
+"lat": 45.597451,
+"lng": 5.243678,
+"info": "29 rue du Médipôle 38300 Bourgoin-Jallieu"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.575672,
+"lng": 5.914726,
+"info": "615 Quai des Allobroges 73000 Chambery"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 46.400379,
+"lng": 6.583467,
+"info": "Place de l'église 74500 Évian-les-Bains"
+},
+{
+"name": "Pompes Funèbres GROS",
+"lat": 45.937658,
+"lng": 6.630865,
+"info": "118 avenue de Genève 74700 Sallanches"
+},
+{
+"name": "Pompes Funèbres LAVERGNAT",
+"lat": 46.132876,
+"lng": 6.271789,
+"info": "427 grande rue 74930 Reignier-Ésery"
+},
+{
+"name": "Pompes Funèbres Macheboeuf",
+"lat": 46.023227,
+"lng": 3.203187,
+"info": "211 Grande Rue 63260 Aigueperse"
+},
+{
+"name": "Pompes Funèbres Marbrerie Ausset Lafage",
+"lat": 44.994589,
+"lng": 2.423688,
+"info": "Route de Montplaisir 15250 Jussac"
+},
+{
+"name": "Pompes Funèbres Marbrerie Gandy",
+"lat": 45.952582,
+"lng": 5.840157,
+"info": "rue Montauban 74910 Seyssel"
+},
+{
+"name": "Pompes Funèbres Mauriennaises",
+"lat": 45.216156,
+"lng": 6.475333,
+"info": "8 Rue Saint-Laurent 73140 Saint-Michel-de-Maurienne"
+},
+{
+"name": "Pompes Funèbres Mouche",
+"lat": 45.538807,
+"lng": 6.223995,
+"info": "477 Route des Berres 73390 Chamoux-sur-Gelon"
+},
+{
+"name": "Pompes funèbres Nillia",
+"lat": 45.110084,
+"lng": 2.871646,
+"info": "1 avenue de l'Ermitage 15300 Murat"
+},
+{
+"name": "Pompes Funèbres Pech",
+"lat": 45.758776,
+"lng": 6.412996,
+"info": "277 rue du centenaire 73400 Ugine"
+},
+{
+"name": "Pompes Funèbres Publiques",
+"lat": 45.574061,
+"lng": 5.906629,
+"info": "86 square Louis Sève 73000 Chambery"
+},
+{
+"name": "Pompes Funèbres Roc'Eclerc",
+"lat": 44.941362,
+"lng": 4.913386,
+"info": "216 rue Barnave 26000 Valence"
+},
+{
+"name": "Pompes Funèbres Roc-Eclerc",
+"lat": 45.892689,
+"lng": 6.114323,
+"info": "5 av. de Zanaroli 74600 Seynod"
+},
+{
+"name": "Pompes Funèbres Saint Genix",
+"lat": 45.600297,
+"lng": 5.631566,
+"info": "53 Rue du Couvent 73240 Saint-Genix-sur-Guiers"
+},
+{
+"name": "Pompes Funèbres SERONDE - Le Choix Funéraire",
+"lat": 45.497801,
+"lng": 2.6351,
+"info": "Route de St-Donat 63810 Bagnols"
+},
+{
+"name": "Pompes Funèbres Vallon",
+"lat": 44.755873,
+"lng": 4.812433,
+"info": "169 chemin des Ventis 26270 Loriol-sur-Drôme"
+},
+{
+"name": "Pompes Funèbres et Marbrerie PAIRE -PFG",
+"lat": 46.061779,
+"lng": 4.073917,
+"info": "1 Route de Briennon 42300 Roanne"
+},
+{
+"name": "Pompes Funèbres D.Lièvre",
+"lat": 45.420475,
+"lng": 4.412979,
+"info": "1 Rue Eugène Joly 42000 Saint-Étienne"
+},
+{
+"name": "Pompes Funèbres Gouilloud-AFG",
+"lat": 45.464329,
+"lng": 4.503637,
+"info": "10 Place nationale 42400 Saint-Chamond"
+},
+{
+"name": "Pompes Funèbres de Saint Chamond - Le Choix Funéraire",
+"lat": 45.474993,
+"lng": 4.510356,
+"info": "11 place de la Liberté 42400 Saint-Chamond"
+},
+{
+"name": "Pompes funèbres Marbrerie Geay Giroud",
+"lat": 45.637868,
+"lng": 4.391106,
+"info": "13 Place Jean-Baptiste Galland 42140 Chazelles-sur-Lyon"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Lathuillière",
+"lat": 45.512592,
+"lng": 4.263117,
+"info": "154 Bis Bld Jean Jaurès 42170 Saint-Just-Saint-Rambert"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.606709,
+"lng": 4.097589,
+"info": "2 bis Rue de l'Artisanat 42600 Savigneux"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.523998,
+"lng": 4.601224,
+"info": "21 avenue Charles de Gaulle 42800 Rive-de-Gier"
+},
+{
+"name": "Pompes Funèbres Genérales",
+"lat": 45.396506,
+"lng": 4.327857,
+"info": "24 rue Gambetta 42500 Le Chambon-Feugerolles"
+},
+{
+"name": "Pompes Funèbres Prioux",
+"lat": 45.598803,
+"lng": 4.085627,
+"info": "31 Rue de Laplatte 42600 Montbrison"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Crépet",
+"lat": 45.649717,
+"lng": 4.2316,
+"info": "37 Chemin de Ravatey 42210 Montrond-les-Bains"
+},
+{
+"name": "Pompes funèbres Gillot",
+"lat": 45.792529,
+"lng": 4.338925,
+"info": "42 Rue Victor Hugo 42360 Panissières"
+},
+{
+"name": "Pompes Funèbres Crépet",
+"lat": 45.744184,
+"lng": 4.222343,
+"info": "5 rue Camille Pariat 42110 Feurs"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Goutaudier - PFG",
+"lat": 46.052291,
+"lng": 3.93426,
+"info": "571 rue Robert Barathon 42370 Renaison"
+},
+{
+"name": "Pompes Funèbres Garnodon Alain Besset",
+"lat": 45.418163,
+"lng": 4.682318,
+"info": "7 place Notre Dame 42410 Pélussin"
+},
+{
+"name": "Pompes Funèbres Miozzo",
+"lat": 45.560086,
+"lng": 4.288457,
+"info": "Avenue d'Andrézieux 4 Lotissement les places 42340 Veauche"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Colombat - PFG",
+"lat": 45.831822,
+"lng": 4.019288,
+"info": "ZA Pralong 42260 Saint-Germain-Laval"
+},
+{
+"name": "Pompes funèbres inmemori",
+"lat": 45.765926,
+"lng": 4.836099,
+"info": "11 Rue de la République 69001 Lyon"
+},
+{
+"name": "Pompes Funèbres Gillot",
+"lat": 45.775879,
+"lng": 4.553263,
+"info": "14 Place du Marché 69690 Bessenay"
+},
+{
+"name": "Confiance Obsèques",
+"lat": 45.583969,
+"lng": 4.771755,
+"info": "16 Rue Roger Salengro 69700 Givors"
+},
+{
+"name": "Centre funéraire Rivière",
+"lat": 45.741925,
+"lng": 4.852601,
+"info": "175 Avenue Berthelot 69007 Lyon"
+},
+{
+"name": "Pôle Funéraire Public - Métropole de Lyon",
+"lat": 45.713678,
+"lng": 4.80517,
+"info": "194 Grande Rue 69600 Oullins"
+},
+{
+"name": "Pôle Funéraire Public-Métropole de Lyon",
+"lat": 45.676613,
+"lng": 4.899954,
+"info": "201 Rue du Dauphiné 69960 Corbas"
+},
+{
+"name": "Pompes Funèbres de France",
+"lat": 45.761171,
+"lng": 4.906253,
+"info": "218 Rue Léon Blum 69100 Villeurbanne"
+},
+{
+"name": "Espace Funéraire Gillet",
+"lat": 45.882638,
+"lng": 4.848195,
+"info": "27 Avenue Auguste Wissel 69250 Neuville-sur-Saône"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.732307,
+"lng": 4.795648,
+"info": "37 Chemin de Montray 69110 Sainte-Foy-lès-Lyon"
+},
+{
+"name": "Pompes Funèbres Boudrier",
+"lat": 45.692844,
+"lng": 5.028951,
+"info": "45 Route Nationale 69720 Saint-Bonnet-de-Mure"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.749868,
+"lng": 4.899138,
+"info": "5 Avenue du Doyen Jean Lépine 69500 Bron"
+},
+{
+"name": "Pole Funéraire Public",
+"lat": 45.764736,
+"lng": 4.782182,
+"info": "54 Avenue Victor Hugo 69160 Tassin-la-Demi-Lune"
+},
+{
+"name": "Pompes Funèbres Remuet",
+"lat": 46.113427,
+"lng": 4.753647,
+"info": "64 Imp. des Pépinières 69220 Taponas"
+},
+{
+"name": "Centre Funéraire Rivière",
+"lat": 45.701945,
+"lng": 4.821911,
+"info": "71 Bd de l'Europe 69320 Pierre-Bénite"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.769148,
+"lng": 4.945153,
+"info": "87 Avenue Jean Jaures 69150 Décines-Charpieu"
+},
+{
+"name": "Pompes Funèbres Pallandre",
+"lat": 45.75072,
+"lng": 4.887932,
+"info": "97 cours du Dr Long 69003 Lyon"
+},
+{
+"name": "La Maison des Obsèques - Ets Boussel",
+"lat": 46.350701,
+"lng": 3.793534,
+"info": "2 Rue du Dr Bertheol 3130 Le Donjon"
+},
+{
+"name": "Pompes Funèbres Barret Chabuel",
+"lat": 46.408895,
+"lng": 3.053559,
+"info": "31  route nationale 945 3240 Le Montet"
+},
+{
+"name": "Pompes funèbres CHABUEL",
+"lat": 46.586135,
+"lng": 3.058281,
+"info": "1 Rue Achille Allier 3160 Bourbon-l'Archambault"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Provost",
+"lat": 46.363463,
+"lng": 2.528551,
+"info": "58 rue Marcel Cachin 3410 Domérat"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 46.127239,
+"lng": 3.434326,
+"info": "54  Boulevard Denière 3200 Vichy"
+},
+{
+"name": "Pompes Funèbres La Maison des Obsèques - Ets Boussel",
+"lat": 46.403408,
+"lng": 3.686336,
+"info": "3 Rue de la Liberté 3220 Saint-Léon"
+},
+{
+"name": "Pompes Funèbres Marbreries Genestier",
+"lat": 46.297706,
+"lng": 3.300545,
+"info": "30-32 Av. Georges Pompidou Z.A 3500 Saint-Pourçain-sur-Sioule"
+},
+{
+"name": "Pompes Funèbres Rocher",
+"lat": 46.100671,
+"lng": 3.197307,
+"info": "15  Grande Rue 3800 Gannat"
+},
+{
+"name": "9feetunder.com",
+"lat": 45.923088,
+"lng": 4.939406,
+"info": "842 Route de Neuville 01390 Saint-André-de-Corcy"
+},
+{
+"name": "La Maison des Obsèques Pompes Funèbres Lefèvre",
+"lat": 46.214547,
+"lng": 5.013309,
+"info": "691 route de Namary 01540 Vonnas"
+},
+{
+"name": "Pompes Funèbres BOUVIER - Le Choix Funéraire",
+"lat": 45.745501,
+"lng": 5.708548,
+"info": "ZI de Coron La Rivoire 01300 Virignin"
+},
+{
+"name": "Pompes Funèbres et Marbrerie de l'Ain",
+"lat": 46.261965,
+"lng": 4.883506,
+"info": "20 rue des Roselets 01290 Pont-de-Veyle"
+},
+{
+"name": "Pompes Funèbres Florian LECLERC Sublimatorium",
+"lat": 46.201839,
+"lng": 5.208755,
+"info": "84 Avenue du Mail 01000 Bourg-en-Bresse"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 46.319745,
+"lng": 6.059969,
+"info": "831 Route de Lyon 01170 Gex"
+},
+{
+"name": "Pompes Funèbres Marbrerie Ain-Bugey",
+"lat": 45.981523,
+"lng": 5.352703,
+"info": "ZA En Pragnat Nord Rue du Professeur Cabrol 01500 Ambérieu-en-Bugey"
+},
+{
+"name": "Pompes Funèbres METRAS",
+"lat": 45.931098,
+"lng": 4.954455,
+"info": "02 impasse de la Vernangère 01390 Saint-André-de-Corcy"
+},
+{
+"name": "Pompes Funèbres Rosset Alain",
+"lat": 45.848563,
+"lng": 5.062185,
+"info": "35 chemin Gillard 01120 Dagneux"
+},
+{
+"name": "Pompes Funèbres Tonin-Coiffet",
+"lat": 45.846655,
+"lng": 5.781322,
+"info": "56 Rue de la Gare 01350 Culoz"
+},
+{
+"name": "Pompes Funèbres Pailhès et Fils",
+"lat": 44.660439,
+"lng": 4.366076,
+"info": "112  rue Jean Jaurès 07600 Vals-les-Bains"
+},
+{
+"name": "Pompes Funèbres Vivaraises",
+"lat": 44.479944,
+"lng": 4.235898,
+"info": "159 route Nationale 07260 Joyeuse"
+},
+{
+"name": "Pompes Funèbres Marbrerie Denolf Stéphane",
+"lat": 44.752325,
+"lng": 4.748313,
+"info": "22 avenue Jean-Claude-Dupau 07250 Le Pouzin"
+},
+{
+"name": "Pompes Funèbres Les Fils de Louis Gay",
+"lat": 45.244228,
+"lng": 4.660653,
+"info": "31 Rue de la Croisette 07100 Annonay"
+},
+{
+"name": "Pompes Funèbres Court Roger et Fils",
+"lat": 45.006397,
+"lng": 4.402246,
+"info": "5 rue du Dr Tourasse 07320 Saint-Agrève"
+},
+{
+"name": "Pompes Funèbres Auzas Père et Fils",
+"lat": 44.648213,
+"lng": 4.367332,
+"info": "61 Route nationale 07200 Labégude"
+},
+{
+"name": "Pompes Funèbres Combet Pere Et Fils",
+"lat": 44.483735,
+"lng": 4.686399,
+"info": "9 faubourg Saint-Jacques 07220 Viviers"
+},
+{
+"name": "Pompes Funèbres Charre",
+"lat": 44.630038,
+"lng": 4.745036,
+"info": "Quartier Levaton 07400 Meysse"
+},
+{
+"name": "Pompes Funèbres Mallet",
+"lat": 45.134696,
+"lng": 2.223357,
+"info": "17 Avenue des Estourocs Za  15700 Pleaux"
+},
+{
+"name": "Pompes Funèbres Bastien",
+"lat": 45.045452,
+"lng": 5.04962,
+"info": "11  Place Ernest Gailly 26100 Romans-sur-Isère"
+},
+{
+"name": "Pompes Funèbres Del Papa",
+"lat": 44.347834,
+"lng": 4.767056,
+"info": "18  rue Notre Dame 26130 Saint-Paul-Trois-Châteaux"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 44.549189,
+"lng": 4.746998,
+"info": "72  Avenue Jean Jaurès 26200 Montelimar"
+},
+{
+"name": "Pompes Funèbres Robert Guimbaud",
+"lat": 45.12522,
+"lng": 4.982772,
+"info": "17  Avenue Gambetta 26260 Saint-Donat-sur-l'Herbasse"
+},
+{
+"name": "Pompes Funèbres Patricia Barthez",
+"lat": 44.286318,
+"lng": 4.937545,
+"info": "600  avenue des Alpes 26790 Tulette"
+},
+{
+"name": "Pompes Funèbres Boudrier",
+"lat": 45.567056,
+"lng": 5.443027,
+"info": "16 rue Jean ferrand 38110 La Tour-du-Pin"
+},
+{
+"name": "Pompes Funèbres Boudrier",
+"lat": 45.591592,
+"lng": 5.266817,
+"info": "31  rueLavoisier 38300 Bourgoin-Jallieu"
+},
+{
+"name": "JC Marbrerie/ Pompes funèbres AINAN Funéraire",
+"lat": 45.534505,
+"lng": 5.586332,
+"info": "46 Bis  Rue Gambetta 38490 Les Abrets"
+},
+{
+"name": "Pompes Funèbres et Marbrerie du Sud-Est",
+"lat": 45.346781,
+"lng": 5.979743,
+"info": "36 avenue desTirignons 38570 Goncelin"
+},
+{
+"name": "Pompes Funèbres Velay Funéraire",
+"lat": 45.045101,
+"lng": 3.894602,
+"info": "43  rue de la Gazelle 43000 Le Puy-en-Velay"
+},
+{
+"name": "Pompes Funèbres Allègre Funéraires",
+"lat": 45.203134,
+"lng": 3.71298,
+"info": "15  rue porte de Ravel 43270 Allègre"
+},
+{
+"name": "Pompes funèbres ALIX-LIOGIER",
+"lat": 45.130137,
+"lng": 3.988761,
+"info": "8  route des Granges 43800 Rosières"
+},
+{
+"name": "Pompes Funèbres Marbrerie Gandy",
+"lat": 45.929364,
+"lng": 6.08269,
+"info": "Gillon  653 Rte de Bellegarde 74330 Épagny"
+},
+{
+"name": "Pompes Funèbres Roc'Eclerc",
+"lat": 45.842119,
+"lng": 3.115151,
+"info": "7  Route De Chateaugay 63118 Cébazat"
+},
+{
+"name": "ATERNAM",
+"lat": 45.772509,
+"lng": 6.026683,
+"info": "323 CHEMIN DE MEURAT 74540 Cusy"
+},
+{
+"name": "GANDY Pompes Funèbres et Marbrerie",
+"lat": 46.127688,
+"lng": 6.030099,
+"info": "303 route des entrepreneurs 74580 Viry"
+},
+{
+"name": "PF Bonnevilloises - Fleurs Perce-neige - PFG",
+"lat": 46.078456,
+"lng": 6.407284,
+"info": "46/48 Rue du Décret 74130 Bonneville"
+},
+{
+"name": "Pompes Funèbres Alix Liogier",
+"lat": 45.151353,
+"lng": 3.920176,
+"info": "ZA La reculade 43800 Saint-Vincent"
+},
+{
+"name": "Pompes Funèbres Astor Dolmazon",
+"lat": 45.035594,
+"lng": 4.053666,
+"info": "Zone Artisanale 43260 Saint-Julien-Chapteuil"
+},
+{
+"name": "Pompes Funèbres Baudrion",
+"lat": 45.468442,
+"lng": 5.992296,
+"info": "259 rue de Longifan 38530 Chapareillan"
+},
+{
+"name": "Pompes funèbres BOITEUX",
+"lat": 45.90496,
+"lng": 3.298619,
+"info": "Espace Cial Bords de Morge 63350 Saint-Laure"
+},
+{
+"name": "Pompes Funèbres Boyer André",
+"lat": 45.035238,
+"lng": 3.084165,
+"info": "6 Avenue de Besserette 15100 Saint-Flour"
+},
+{
+"name": "Pompes Funèbres Chablaisiennes",
+"lat": 46.363452,
+"lng": 6.480604,
+"info": "2 rue Charles Buet 74200 Thonon-les-Bains"
+},
+{
+"name": "Pompes Funèbres CHOMETTE",
+"lat": 45.841936,
+"lng": 2.75927,
+"info": "Le Bourge 63230 La Goutelle"
+},
+{
+"name": "Pompes Funèbres Constant et Fils",
+"lat": 14.503409,
+"lng": -61.020605,
+"info": "2075 Quartier des Peyrauds - RN7 sud 26290 Donzère"
+},
+{
+"name": "Pompes Funèbres Dabrigeon",
+"lat": 45.841467,
+"lng": 3.510807,
+"info": "72 avenue Général de Gaulle 63300 Thiers"
+},
+{
+"name": "Pompes funèbres de La Balme de Sillingy",
+"lat": 45.975227,
+"lng": 6.030321,
+"info": "13 Chemin des vignes 74330 La Balme-de-sillingy"
+},
+{
+"name": "Pompes Funèbres de l'Aubrac",
+"lat": 44.82705,
+"lng": 2.986517,
+"info": "Parc d'Activités Economiques du Rouchar 15110 Chaudes-Aigues"
+},
+{
+"name": "Pompes Funèbres Des Compagnons",
+"lat": 44.521145,
+"lng": 5.05686,
+"info": "147 Route de Montélimar 26220 Dieulefit"
+},
+{
+"name": "Pompes funèbres du Dauphiné",
+"lat": 45.157345,
+"lng": 5.330187,
+"info": "23 Rue Condorce 38160 Grenoble"
+},
+{
+"name": "Pompes Funèbres et Marbrerie DUCRETTET - PFG",
+"lat": 46.103593,
+"lng": 6.590771,
+"info": "Av. des Thézières 74440 Taninges"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Pilot Bourdon - Dignité Funéraire",
+"lat": 45.366257,
+"lng": 5.581128,
+"info": "2 Rue de Termerieu 38500 Voiron"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Tardif - PFG",
+"lat": 45.542191,
+"lng": 3.247947,
+"info": "8 bd de la Sous-Préfecture 63500 Issoire"
+},
+{
+"name": "Pompes Funèbres FL - Marbrerie",
+"lat": 45.900061,
+"lng": 5.93484,
+"info": "1204 Route de Genève 74150 Vallières"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.723698,
+"lng": 3.340867,
+"info": "11 Place Alfred Thomas 63160 Billom"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.22565,
+"lng": 5.686427,
+"info": "19 Route de Grenoble 38120 Saint-Égrève"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 44.929725,
+"lng": 2.445593,
+"info": "3 Rue Hôtel de ville 15000 Aurillac"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.048454,
+"lng": 3.891862,
+"info": "7 Rue d'Alençon 43000 Le Puy-en-Velay"
+},
+{
+"name": "Pompes funèbres Gerphagnon",
+"lat": 45.358386,
+"lng": 3.957653,
+"info": "Rue de l'Étang 43500 Saint-Pal-de-Chalencon"
+},
+{
+"name": "Pompes Funebres Hebrard",
+"lat": 45.026069,
+"lng": 3.062976,
+"info": "13 Rue du Millepertuis 15100 Saint-Flour"
+},
+{
+"name": "Pompes Funèbres LAVERGNAT - Le Choix Funéraire",
+"lat": 46.184771,
+"lng": 6.236581,
+"info": "56 route de Bonneville 74100 Annemasse"
+},
+{
+"name": "Pompes Funèbres Manchon",
+"lat": 45.388921,
+"lng": 5.271215,
+"info": "76 avenue Maréchal Joffre 38260 La Côte-Saint-André"
+},
+{
+"name": "Pompes Funèbres Marbrerie des Bords de Loire",
+"lat": 45.30558,
+"lng": 4.111399,
+"info": "13 bd de la sabliere 43210 Bas-en-Basset"
+},
+{
+"name": "Pompes Funèbres Marc Habouzit",
+"lat": 44.970152,
+"lng": 4.0509,
+"info": "14 route du Puy 43150 Laussonne"
+},
+{
+"name": "Pompes Funèbres Mazal",
+"lat": 45.766124,
+"lng": 2.665759,
+"info": "La Cabane 63470 Prondines"
+},
+{
+"name": "Pompes Funèbres Musulman",
+"lat": 44.893385,
+"lng": 4.890376,
+"info": "105 rue des Mourettes 26000 Valence"
+},
+{
+"name": "Pompes funèbres Nillia",
+"lat": 45.252708,
+"lng": 3.197698,
+"info": "16 Av. du Général de Gaulle 15500 Massiac"
+},
+{
+"name": "Pompes Funèbres Pech Floret",
+"lat": 45.663009,
+"lng": 6.360048,
+"info": "295 Chemin du Chiriac 73200 Albertville"
+},
+{
+"name": "Pompes Funèbres Robert",
+"lat": 45.306913,
+"lng": 4.109806,
+"info": "13 Rue du Commerce 43210 Bas-en-Basset"
+},
+{
+"name": "Pompes Funèbres Roc'Eclerc",
+"lat": 45.755595,
+"lng": 3.096706,
+"info": "330 avenue du Parc 63110 Beaumont"
+},
+{
+"name": "Pompes Funèbres Roc-Eclerc",
+"lat": 45.045102,
+"lng": 5.065691,
+"info": "6 Avenue Du Maquis 26100 Romans-sur-Isère"
+},
+{
+"name": "Pompes Funèbres SALAVERT",
+"lat": 44.926348,
+"lng": 2.440037,
+"info": "36 Avenue de la République 15000 Aurillac"
+},
+{
+"name": "Pompes Funèbres Soleilhac",
+"lat": 45.310425,
+"lng": 3.375296,
+"info": "91 Avenue d'Auvergne 43100 Brioude"
+},
+{
+"name": "Pompes Funèbres Vercherin",
+"lat": 45.458162,
+"lng": 5.629059,
+"info": "470 rte de Saint-Sulpice - Le Boyet 38620 Saint-Geoire-en-Valdaine"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Laval - PFG",
+"lat": 45.482569,
+"lng": 4.441421,
+"info": "1 rue de la Vaure 42290 Sorbiers"
+},
+{
+"name": "Pompes Funèbres Joubert",
+"lat": 45.433339,
+"lng": 4.322982,
+"info": "1 rue Gambetta 42230 Roche-la-Molière"
+},
+{
+"name": "Pompes Funèbres Rivoire JL",
+"lat": 45.439809,
+"lng": 4.385686,
+"info": "10 rue de la Résistance 42000 Saint-Étienne"
+},
+{
+"name": "Pompes Funèbres Reverchon",
+"lat": 45.446234,
+"lng": 4.334823,
+"info": "11 rue Gambetta 42530 Saint-Genest-Lerpt"
+},
+{
+"name": "Pompes Funèbres Les Fils de Louis Gay",
+"lat": 45.296546,
+"lng": 4.561558,
+"info": "13 rue Cardinal Donnet 42220 Bourg-Argental"
+},
+{
+"name": "Service Funéraire Public",
+"lat": 46.049515,
+"lng": 4.070467,
+"info": "16 boulevard du Cimetière 42300 Roanne"
+},
+{
+"name": "Pompes Funèbres Bonnet Mialon",
+"lat": 45.388946,
+"lng": 3.940824,
+"info": "2 Pl. de l'Église 42550 Usson-en-Forez"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Paire",
+"lat": 46.042198,
+"lng": 4.031765,
+"info": "216 avenue Jean Reboul 42153 Riorges"
+},
+{
+"name": "Pompes Funèbres Combe-Freville",
+"lat": 45.474575,
+"lng": 4.516,
+"info": "24 rue Victor Hugo 42400 Saint-Chamond"
+},
+{
+"name": "Pompes Funèbres Santi",
+"lat": 46.15526,
+"lng": 4.164631,
+"info": "31 rue Dorian 42190 Charlieu"
+},
+{
+"name": "Pompes funèbres Baray",
+"lat": 45.817533,
+"lng": 4.188528,
+"info": "4 Boulevard de la Tuilerie 42510 Balbigny"
+},
+{
+"name": "Pompes Funèbres Argaud Paul",
+"lat": 45.444591,
+"lng": 4.425025,
+"info": "46 rue Emile Zola ZI du Pont de l'Ane 42650 Saint-Jean-Bonnefonds"
+},
+{
+"name": "Pompes Funebres Appelouses",
+"lat": 45.387651,
+"lng": 4.285852,
+"info": "5 rue du Marché 42700 Firminy"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Colombat - PFG",
+"lat": 45.915585,
+"lng": 3.841302,
+"info": "5734, Rue de Vichy 42430 Saint-Just-en-Chevalet"
+},
+{
+"name": "Pompes Funèbres des 3 Boulevards",
+"lat": 46.044898,
+"lng": 4.080137,
+"info": "72 rue de Charlieu 42300 Roanne"
+},
+{
+"name": "Pompes Funèbres de Saint Etienne - Le Choix Funéraire",
+"lat": 45.418797,
+"lng": 4.420208,
+"info": "92 Bd A. de Fraissinette 42100 Saint-Étienne"
+},
+{
+"name": "Pompes Funèbres Chaboud",
+"lat": 45.784346,
+"lng": 4.820863,
+"info": "1 Rue Hermann Sabran 69004 Lyon"
+},
+{
+"name": "Pompes Funèbres Poyet",
+"lat": 45.815319,
+"lng": 4.715936,
+"info": "11 Rue de Paris 69890 La Tour-de-Salvagny"
+},
+{
+"name": "Pôle Funéraire Public - Métropole de Lyon",
+"lat": 45.763707,
+"lng": 4.913106,
+"info": "15 Rue du Cimetière 69100 Villeurbanne"
+},
+{
+"name": "Pompes Funèbres Genérales",
+"lat": 45.743062,
+"lng": 4.878089,
+"info": "160 Cours Albert Thomas 69008 Lyon"
+},
+{
+"name": "Pompes Funèbres & Marbrerie CHABOUD",
+"lat": 45.760891,
+"lng": 4.907141,
+"info": "179 Rue Léon Blum 69100 Villeurbanne"
+},
+{
+"name": "Pompes Funèbres De L'ouest Lyonnais - Joubert",
+"lat": 45.672622,
+"lng": 4.758593,
+"info": "2 Place Hirsberg 69530 Brignais"
+},
+{
+"name": "Pompes Funèbres de France",
+"lat": 45.740915,
+"lng": 4.855761,
+"info": "209 Avenue Berthelot ou 112-114 Boulevard des Techecoslovaques 69007 Lyon"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.747427,
+"lng": 4.742129,
+"info": "22 Rue Edouard Millaud 69290 Craponne"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.766779,
+"lng": 4.998013,
+"info": "27 Avenue de la Republique 69330 Meyzieu"
+},
+{
+"name": "Pompes Funèbres Pallandre",
+"lat": 45.686965,
+"lng": 5.047131,
+"info": "4 rue du centre bourg 69720 Saint-Laurent-de-Mure"
+},
+{
+"name": "Pompes Funèbres Eden",
+"lat": 45.700697,
+"lng": 4.882223,
+"info": "47 Avenue Jean Jaures 69200 Vénissieux"
+},
+{
+"name": "Pôle Funéraire Public Métropole de Lyon",
+"lat": 45.733971,
+"lng": 4.908709,
+"info": "5 Rue de Verdun 69500 Bron"
+},
+{
+"name": "Pompes Funèbres Kaim",
+"lat": 45.764752,
+"lng": 4.879697,
+"info": "55 Rue du 4 Aout 1789 69100 Villeurbanne"
+},
+{
+"name": "Eco funéraire",
+"lat": 45.743623,
+"lng": 4.878561,
+"info": "66 Rue du Professeur Florence 69003 Lyon"
+},
+{
+"name": "Pompes funèbres Marbrerie Durin Pruvost",
+"lat": 45.738269,
+"lng": 4.917123,
+"info": "72 Avenue Ferdinand Buisson 69500 Bron"
+},
+{
+"name": "Tradition Funéraire Croix-Rousse",
+"lat": 45.781429,
+"lng": 4.820692,
+"info": "88 Rue Philippe de Lassalle 69004 Lyon"
+},
+{
+"name": "Pompes Funèbres & Marbrerie CHABOUD",
+"lat": 45.803054,
+"lng": 4.851206,
+"info": "97 rue Jean Moulin 69300 Caluire-et-Cuire"
+},
+{
+"name": "La Maison des Obsèques - Pompes Funèbres Boussel",
+"lat": 46.247977,
+"lng": 3.634277,
+"info": "37 Rue Président Roosevelt 3120 Lapalisse"
+},
+{
+"name": "Pompes Funèbres Beuze",
+"lat": 46.349373,
+"lng": 2.593892,
+"info": "178 avenue de la République 3100 Montluçon"
+},
+{
+"name": "Pompes Funèbres Chabuel",
+"lat": 46.586779,
+"lng": 3.057078,
+"info": "9  rue du Moulin 3160 Bourbon-l'Archambault"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Provost",
+"lat": 46.378434,
+"lng": 2.503243,
+"info": "23  Grande Rue 3380 Huriel"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 46.136656,
+"lng": 3.459949,
+"info": "19-21  rue du Champ Vincelet 3300 Cusset"
+},
+{
+"name": "Pompes Funèbres Lagarde",
+"lat": 46.474915,
+"lng": 2.830298,
+"info": "27  Avenue de la République et rue Larbaud 3430 Cosne-d'Allier"
+},
+{
+"name": "Pompes Funèbres Meunier - FUNERIS",
+"lat": 46.312103,
+"lng": 3.403778,
+"info": "1 et 3  rue Antoine Fayard 3150 Varennes-sur-Allier"
+},
+{
+"name": "Pompes funèbres Sophie Krost",
+"lat": 46.55403,
+"lng": 3.364211,
+"info": "1 Boulevard François Mitterrand 3400 Yzeure"
+},
+{
+"name": "Espace Funéraire Carrara",
+"lat": 46.385648,
+"lng": 4.914572,
+"info": "23 impasse en Chossagne 01190 Ozan"
+},
+{
+"name": "Pompes Funèbres BERTRAND - Le Choix Funéraire",
+"lat": 46.287659,
+"lng": 5.29198,
+"info": "125 rue de l'église 01370 Saint-étienne-du-Bois"
+},
+{
+"name": "Pompes Funèbres COMTET",
+"lat": 46.34231,
+"lng": 5.12682,
+"info": "29 route de Châlon 01340 Montrevel-en-Bresse"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Funeralp",
+"lat": 46.227327,
+"lng": 5.9958,
+"info": "263 Rue de l'Industrie 01710 Thoiry"
+},
+{
+"name": "Pompes Funèbres Florian LECLERC Sublimatorium",
+"lat": 46.093289,
+"lng": 5.311931,
+"info": "Rue de l Zone d'activité Sud 01160 Pont-d'Ain"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 46.153773,
+"lng": 5.606176,
+"info": "6 Rue du Collège 01130 Nantua"
+},
+{
+"name": "Pompes Funèbres Marbrerie Allardet",
+"lat": 46.036557,
+"lng": 5.401713,
+"info": "183 Route du Riez â€“ ZA Grand Champ 01640 Jujurieux"
+},
+{
+"name": "Pompes Funèbres METRAS",
+"lat": 46.115314,
+"lng": 4.942199,
+"info": "68 rue Christian Barnard 01400 Châtillon-sur-Chalaronne"
+},
+{
+"name": "Pompes Funèbres S.S.M",
+"lat": 46.195004,
+"lng": 5.229264,
+"info": "02 rue Saint-Roch 01000 Bourg-en-Bresse"
+},
+{
+"name": "Pompes Funèbres Marbrerie Basse Ardèche",
+"lat": 44.37166,
+"lng": 4.644772,
+"info": "1 Place Frédéric Mistral 07700 Bourg-Saint-Andeol"
+},
+{
+"name": "Pompes Funèbres Marbrerie Suchier",
+"lat": 45.062773,
+"lng": 4.833852,
+"info": "12 rue du Repos 07300 Tournon-sur-Rhône"
+},
+{
+"name": "Pompes Funèbres COMBEMALE - Le Choix Funéraire",
+"lat": 44.452649,
+"lng": 4.346123,
+"info": "17 Bd de l'Europe Unie 07120 Ruoms"
+},
+{
+"name": "Pompes Funèbres Vallier",
+"lat": 44.452838,
+"lng": 4.345963,
+"info": "26 boulevard de l'Europe Unie 07120 Ruoms"
+},
+{
+"name": "Pompes Funèbres Henocq",
+"lat": 44.338335,
+"lng": 4.153179,
+"info": "330 avenue Jean Radier 07460 Saint-Paul-le-Jeune"
+},
+{
+"name": "Pompes Funèbres Henocq",
+"lat": 44.406024,
+"lng": 4.131465,
+"info": "5  place Henri Thibon 07140 Les Vans"
+},
+{
+"name": "Pompes Funèbres Riffard",
+"lat": 44.60878,
+"lng": 4.39424,
+"info": "67 Avenue de Bellande 07200 Aubenas"
+},
+{
+"name": "Pompes Funèbres Les Fils de Louis Gay",
+"lat": 45.318307,
+"lng": 4.764793,
+"info": "99 quai Jules Roche 07340 Serrières"
+},
+{
+"name": "Pompes Funèbres Chareyre et Fils",
+"lat": 44.660895,
+"lng": 4.296704,
+"info": "775 route de la Plaine 07380 Pont-de-Labeaume"
+},
+{
+"name": "Pompes Funèbres Dumoulin",
+"lat": 44.93425,
+"lng": 4.905301,
+"info": "121  avenue de Romans 26000 Valence"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.040403,
+"lng": 5.037127,
+"info": "1  rue Calixte Lafosse 26100 Romans-sur-Isère"
+},
+{
+"name": "Pompes funèbres POLLET",
+"lat": 45.28761,
+"lng": 4.825404,
+"info": "1  impasse Lucien Chautant 26140 Saint-Rambert-d'Albon"
+},
+{
+"name": "Pompes Funèbres Marbrerie Ghisleri",
+"lat": 44.571598,
+"lng": 4.784538,
+"info": "113  Route de Sauzet« La Chapellerie» 26200 Montelimar"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Chazel Martin - PFG",
+"lat": 44.752321,
+"lng": 4.820783,
+"info": "87  avenue de la République 26270 Loriol-sur-Drôme"
+},
+{
+"name": "Pompes funèbres des Alpes - Le Choix Funéraire",
+"lat": 45.192793,
+"lng": 5.739339,
+"info": "6 Avenue de St-Roch 38000 Grenoble"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Carmona",
+"lat": 45.151894,
+"lng": 5.320883,
+"info": "8  rue Aymard Durivail 38160 Saint-Marcellin"
+},
+{
+"name": "Pompes Funèbres Boudrier",
+"lat": 45.637455,
+"lng": 5.142599,
+"info": "695  rue de la République 38390 La Verpillière"
+},
+{
+"name": "Centre Funéraire Municipal",
+"lat": 45.36513,
+"lng": 5.587737,
+"info": "11  rue Ernest lmbert 38500 Voiron"
+},
+{
+"name": "Pompes Funèbres Mercier",
+"lat": 45.634513,
+"lng": 5.560877,
+"info": "20  Rue Perriollat 38630 Les Avenières"
+},
+{
+"name": "Pompes Funèbres Bonnet",
+"lat": 45.294456,
+"lng": 3.380973,
+"info": "5  place de Paris 43100 Brioude"
+},
+{
+"name": "Pompes Funèbres Mirmand Albert et Fils",
+"lat": 45.197753,
+"lng": 3.707905,
+"info": "1 rue traversière des Potelleries 43270 Allègre"
+},
+{
+"name": "Pompes funèbres Dômes Funéraires",
+"lat": 45.850228,
+"lng": 3.08455,
+"info": " Rte de Malauzat 63119 Châteaugay"
+},
+{
+"name": "Pompes Funèbres Anneciennes G.GOLLIET",
+"lat": 45.93722,
+"lng": 6.12246,
+"info": "321  route d'Annecy 74370 Pringy"
+},
+{
+"name": "Alain Sahut Funéraire",
+"lat": 45.727719,
+"lng": 3.189771,
+"info": "49 avenue de la Libération 63800 Cournon-d'Auvergne"
+},
+{
+"name": "Baudrion Pompes Funèbres",
+"lat": 45.50033,
+"lng": 6.060145,
+"info": "27 B Rue Docteur Veyrat 73800 Montmélian"
+},
+{
+"name": "GANDY Pompes Funèbres Marbrerie",
+"lat": 46.060028,
+"lng": 6.576965,
+"info": "14 Av. de la Libération 74300 Cluses"
+},
+{
+"name": "Philae Clermont Ferrand Peyry Services Funéraires",
+"lat": 45.790387,
+"lng": 3.118238,
+"info": "17 Bd Ambroise Brugière 63000 Clermont-Ferrand"
+},
+{
+"name": "Pompes funèbres Alliance des 3 Vallées",
+"lat": 45.959107,
+"lng": 5.835013,
+"info": "3 Grande Rue 74910 Seyssel"
+},
+{
+"name": "Pompes Funèbres Astor JoÃ«l",
+"lat": 45.059946,
+"lng": 4.302432,
+"info": "3 Rte du Mazet 43400 Le Chambon-sur-Lignon"
+},
+{
+"name": "Pompes Funèbres Bay",
+"lat": 44.892929,
+"lng": 3.853919,
+"info": "4 Les Quairais 43490 Costaros"
+},
+{
+"name": "Pompes Funèbres Bonnet",
+"lat": 45.089593,
+"lng": 5.124847,
+"info": "40 Chemin de la Garenne 26750 Châtillon-Saint-Jean"
+},
+{
+"name": "Pompes Funèbres Brun",
+"lat": 45.158612,
+"lng": 5.339061,
+"info": "3 Rue Ampère 38160 Saint-Sauveur"
+},
+{
+"name": "Pompes Funèbres Chambon",
+"lat": 45.055862,
+"lng": 4.303374,
+"info": "Magnac 43400 Le Chambon-sur-Lignon"
+},
+{
+"name": "Pompes Funèbres Clerand",
+"lat": 44.360624,
+"lng": 5.130901,
+"info": "ZAC du Grand Tilleul 26110 Nyons"
+},
+{
+"name": "Pompes Funèbres Coudert",
+"lat": 45.765402,
+"lng": 3.539456,
+"info": "34 Route de Clermont 63120 Courpière"
+},
+{
+"name": "Pompes Funèbres Dabrigeon",
+"lat": 45.771114,
+"lng": 3.127643,
+"info": "74 rue Pierre Estienne 63000 Clermont-Ferrand"
+},
+{
+"name": "Pompes funèbres de la Balme de Sillingy",
+"lat": 45.951483,
+"lng": 6.042999,
+"info": "3018 route de Bellegarde 74330 Sillingy"
+},
+{
+"name": "Pompes Funèbres De Savoy",
+"lat": 45.616991,
+"lng": 6.768152,
+"info": "173 Rue Jean Moulin 73700 Bourg-Saint-Maurice"
+},
+{
+"name": "Pompes funèbres Djennah",
+"lat": 45.165865,
+"lng": 5.728954,
+"info": "13 Avenue Marie Reynoard 38100 Grenoble"
+},
+{
+"name": "Pompes funèbres du Dauphiné",
+"lat": 45.051971,
+"lng": 5.047825,
+"info": "34 Avenue Jean Moulin 26100 Romans-sur-Isère"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Faure",
+"lat": 45.192375,
+"lng": 6.653559,
+"info": "12 Rue de la Concorde 73500 Fourneaux"
+},
+{
+"name": "Pompes Funèbres et Marbrerie POMMAT",
+"lat": 45.658261,
+"lng": 6.375076,
+"info": "705 Chemin de la Cassine 73200 Albertville"
+},
+{
+"name": "Pompes Funèbres et Marbrerie TARDIF - PFG",
+"lat": 45.511764,
+"lng": 2.938654,
+"info": "9 bis route des Lacs 63610 Besse-et-Saint-Anastaise"
+},
+{
+"name": "Pompes Funèbres Florian Leclerc Funérama",
+"lat": 45.192254,
+"lng": 5.739302,
+"info": "4 avenue Saint Roch 38000 Grenoble"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 46.066393,
+"lng": 6.58007,
+"info": "12 avenue des alpes 74300 Cluses"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.795029,
+"lng": 3.229486,
+"info": "2 Rue Alice Ferrières 63430 Pont-du-Château"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.923454,
+"lng": 6.685785,
+"info": "39 place de la mairie 74190 Passy"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.617179,
+"lng": 6.768516,
+"info": "76 Route de Montrigon 73700 Bourg-Saint-Maurice"
+},
+{
+"name": "Pompes funèbres Geyssant",
+"lat": 45.302779,
+"lng": 4.274676,
+"info": "13 Rue nationale 43140 Saint-Didier-en-Velay"
+},
+{
+"name": "Pompes Funèbres Intercommunales",
+"lat": 45.195949,
+"lng": 5.747849,
+"info": "Avenue du Grand Sablon 38700 La Tronche"
+},
+{
+"name": "Pompes Funèbres Les Anges Du Lac",
+"lat": 45.776346,
+"lng": 6.23466,
+"info": "646 Route du Couardet 74210 Doussard"
+},
+{
+"name": "Pompes Funèbres Manchon",
+"lat": 45.15735274181041,
+"lng": 5.340389284798405,
+"info": "ZI la Maladière 38160 Saint-Sauveur"
+},
+{
+"name": "Pompes Funèbres Marbrerie DUCRON",
+"lat": 46.019455,
+"lng": 3.201302,
+"info": "36 Grande Rue 63260 Aigueperse"
+},
+{
+"name": "Pompes funèbres Martinez - Philae Services Funéraires",
+"lat": 45.182491,
+"lng": 5.792221,
+"info": "13 pl de la république 38610 Gières"
+},
+{
+"name": "Pompes Funèbres MEINDER PIOT - Le Choix Funéraire",
+"lat": 45.917154,
+"lng": 6.105054,
+"info": "41 avenue du Pont de Tasset MEYTHET 74960 Meythet"
+},
+{
+"name": "Pompes Funèbres Musulmanes des Savoie",
+"lat": 46.196213,
+"lng": 6.237502,
+"info": "2 Rue Adolphe Magnin 74100 Annemasse"
+},
+{
+"name": "Pompes Funèbres Pan Lopez",
+"lat": 45.21875,
+"lng": 2.332793,
+"info": "2 Rue de la République 15200 Mauriac"
+},
+{
+"name": "Pompes Funèbres Pena",
+"lat": 45.386863,
+"lng": 5.734783,
+"info": "12 Place Aristide Briand 38380 Saint-Laurent-du-Pont"
+},
+{
+"name": "Pompes Funèbres Robert",
+"lat": 45.292825,
+"lng": 4.171248,
+"info": "15 Rue du Général de Chabron 43120 Monistrol-sur-Loire"
+},
+{
+"name": "Pompes Funèbres Roc'Eclerc",
+"lat": 45.546605,
+"lng": 3.244703,
+"info": "5 boulevard Pasteur 63500 Issoire"
+},
+{
+"name": "Pompes Funèbres Rochoises - Fleurs Perce-neige - PFG",
+"lat": 46.066361,
+"lng": 6.308943,
+"info": "9 rue du Président carnot 74800 La Roche-sur-Foron"
+},
+{
+"name": "Pompes Funèbres SERONDE",
+"lat": 45.543215,
+"lng": 3.24692,
+"info": "22 Bd de la Manlière 63500 Issoire"
+},
+{
+"name": "Pompes Funèbres Soleilhac - Echaubard Croizet Eliane",
+"lat": 45.208305,
+"lng": 3.513195,
+"info": "8 Rue Notre Dame 43230 Paulhaguet"
+},
+{
+"name": "Pompes Funèbres Vincent BEAUDONNET",
+"lat": 46.167431,
+"lng": 2.84605,
+"info": "Rue du Puits du Manoir 63700 Saint-Éloy-les-Mines"
+},
+{
+"name": "Pompes Funèbres Mazet",
+"lat": 45.612637,
+"lng": 4.068004,
+"info": "1 rue des Jacquins 42600 Montbrison"
+},
+{
+"name": "Pompes Funèbres Confiance Obsèques",
+"lat": 45.474049,
+"lng": 4.512854,
+"info": "1 rue Gambetta 42400 Saint-Chamond"
+},
+{
+"name": "Pompes Funèbres Marbrerie Estieux",
+"lat": 45.385407,
+"lng": 4.290402,
+"info": "10 rue de l'Eternité 42700 Firminy"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.479544,
+"lng": 4.359986,
+"info": "118 Avenue Albert Raimond 42270 Saint-Priest-en-Jarez"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Gay - PFG",
+"lat": 45.473458,
+"lng": 4.510827,
+"info": "14 rue Gambetta 42400 Saint-Chamond"
+},
+{
+"name": "Pompes Funèbres Rabeyrin Sahuc",
+"lat": 45.438838,
+"lng": 4.391053,
+"info": "16 rue de la République 42000 Saint-Étienne"
+},
+{
+"name": "Pompes Funèbres Bresso",
+"lat": 45.637537,
+"lng": 4.392494,
+"info": "2 rue Jean Jaurès 42140 Chazelles-sur-Lyon"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Fernandez Satre",
+"lat": 45.444074,
+"lng": 4.368241,
+"info": "22 boulevard de Lattre de Tassigny 42000 Saint-Étienne"
+},
+{
+"name": "Pompes Funèbres Mondiales",
+"lat": 45.442185,
+"lng": 4.397006,
+"info": "26 rue Ferdinand 42000 Saint-Étienne"
+},
+{
+"name": "Pompes Funèbres Miozzo",
+"lat": 45.636827,
+"lng": 4.388664,
+"info": "31, rue Max Fléchet 42140 Chazelles-sur-Lyon"
+},
+{
+"name": "Pompes funèbres Crépet",
+"lat": 45.791101,
+"lng": 4.338922,
+"info": "4 rue Aristide Briand 42360 Panissières"
+},
+{
+"name": "Pompes Funèbres Argaud Paul",
+"lat": 45.446035,
+"lng": 4.385138,
+"info": "49 Rue Charles de Gaulle 42000 Saint-Étienne"
+},
+{
+"name": "Pompes Funèbres Ronzier",
+"lat": 45.813337,
+"lng": 3.762268,
+"info": "5 rue du Vimont 42440 Noirétable"
+},
+{
+"name": "Pompes Funèbres Villeneuve Funéraire",
+"lat": 45.530909,
+"lng": 4.620511,
+"info": "63 bis rue Jean Jaurès 42800 Rive-de-Gier"
+},
+{
+"name": "Confiance Obsèques",
+"lat": 45.527596,
+"lng": 4.615523,
+"info": "8 rue Waldeck Rousseau 42800 Rive-de-Gier"
+},
+{
+"name": "Pompes Funèbres Catteau - Marbrerie Chambon-Feugerolles",
+"lat": 45.394324,
+"lng": 4.332348,
+"info": "Chemin du Cimetière 42500 Le Chambon-Feugerolles"
+},
+{
+"name": "Pompes Funèbres ATL",
+"lat": 45.874589,
+"lng": 4.708314,
+"info": "1 rue Pasteur 69380 Chazay-d'Azergues"
+},
+{
+"name": "Pompes Funèbres Genérales",
+"lat": 45.748978,
+"lng": 4.793835,
+"info": "116 Rue du Cdt Charcot 69005 Lyon"
+},
+{
+"name": "Pompes Funèbres Rivière Lyon - Grange Blanche",
+"lat": 45.743627,
+"lng": 4.877175,
+"info": "153 Cours Albert Thomas 69003 Lyon"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.760718,
+"lng": 4.905784,
+"info": "167 Rue Léon Blum 69100 Villeurbanne"
+},
+{
+"name": "Pompes Funèbres des Monts de Tarare",
+"lat": 45.909875,
+"lng": 4.426957,
+"info": "18 Rue Joseph Kessel 69170 Tarare"
+},
+{
+"name": "Pompes Funèbres des Monts du Lyonnais",
+"lat": 45.81951,
+"lng": 4.663645,
+"info": "2 Rue Chatelard Dru 69210 Lentilly"
+},
+{
+"name": "Pompes Funèbres Viollet",
+"lat": 45.691789,
+"lng": 4.938625,
+"info": "21 bis Rue Henri Marechal 69800 Saint-Priest"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.771341,
+"lng": 4.864692,
+"info": "22 Rue Gabriel Peri 69100 Villeurbanne"
+},
+{
+"name": "Pompes Funèbres de Saint-Arnaud",
+"lat": 45.736721,
+"lng": 4.764042,
+"info": "3 Pl. du Bourg 69340 Francheville"
+},
+{
+"name": "Pompes funèbres Joubert",
+"lat": 45.731088,
+"lng": 4.749243,
+"info": "40 Grande Rue 69340 Francheville"
+},
+{
+"name": "Pompes Funèbres Musulmanes Veda",
+"lat": 45.753464,
+"lng": 4.925956,
+"info": "48 Rue Alexandre Dumas 69120 Vaulx-en-Velin"
+},
+{
+"name": "Pompes Funèbres Dupasquier",
+"lat": 46.058941,
+"lng": 4.491693,
+"info": "502 Avenue de la Gare 69870 Lamure-sur-Azergues"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 46.00462,
+"lng": 4.719712,
+"info": "561 Route Nationale 6 La Chartonnière 69400 Arnas"
+},
+{
+"name": "Pompes Funèbres de France",
+"lat": 45.696861,
+"lng": 4.812281,
+"info": "67 Rue Jules Guesde 69230 Saint-Genis-Laval"
+},
+{
+"name": "Pompes Funèbres du Val-de-Saône",
+"lat": 45.832758,
+"lng": 4.851612,
+"info": "8 Bis Rue Pierre Bouvier 69270 Fontaines-sur-Saône"
+},
+{
+"name": "Pompes Funèbres Rivière - Lyon Croix-Rousse",
+"lat": 45.778923,
+"lng": 4.83233,
+"info": "89-91 Grande Rue de la Croix Rousse 69004 Lyon"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.841799,
+"lng": 4.615351,
+"info": "Chemin du Ravatel 69210 L'Arbresle"
+},
+{
+"name": "La Maison des Obsèques - Pompes Funèbres Boussel",
+"lat": 46.1367,
+"lng": 3.423321,
+"info": "4 Rue des Bartins 3200 Vichy"
+},
+{
+"name": "Pompes Funèbres Bourbonnaises",
+"lat": 46.108985,
+"lng": 3.20116,
+"info": "16  cours des Clos Durs 3800 Gannat"
+},
+{
+"name": "Pompes Funèbres Dabrigeon - FUNERIS",
+"lat": 46.2482542198569,
+"lng": 3.6342366388280913,
+"info": "34  rue du président Roosevelt 3120 Lapalisse"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Provost",
+"lat": 46.34397,
+"lng": 2.613071,
+"info": "46  avenue du 8 mai 1945 3100 Montluçon"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 46.307704,
+"lng": 3.291041,
+"info": "15  rue Séguier 3500 Saint-Pourçain-sur-Sioule"
+},
+{
+"name": "Pompes Funèbres Lamarque",
+"lat": 46.317846,
+"lng": 2.953276,
+"info": "12 Pl. Robert Ferrandon 3390 Montmarault"
+},
+{
+"name": "Pompes Funèbres Moulinoises",
+"lat": 46.565275,
+"lng": 3.328238,
+"info": "15  rue Mathieu de Dombasle 3000 Moulins"
+},
+{
+"name": "Pompes Funèbres Viallet",
+"lat": 46.523528,
+"lng": 3.686026,
+"info": "361  rue de Sept Fons 3290 Dompierre-sur-Besbre"
+},
+{
+"name": "Espace Funéraire Marbrerie CARRARA",
+"lat": 46.28805,
+"lng": 4.910486,
+"info": "21 Rue des Essarts 01380 Saint-André-de-Bâgé"
+},
+{
+"name": "Pompes Funèbres BOUVET",
+"lat": 46.213831,
+"lng": 5.231305,
+"info": "17 avenue de l'Egalité 01000 Bourg-en-Bresse"
+},
+{
+"name": "Pompes Funèbres du Haut Bugey",
+"lat": 46.151039,
+"lng": 5.604569,
+"info": "Rue docteur Jacques TOuillon 01130 Nantua"
+},
+{
+"name": "Pompes Funèbres et Marbrerie J.P. Morel",
+"lat": 45.971093,
+"lng": 5.351964,
+"info": "7 Rue du Repos 01500 Ambérieu-en-Bugey"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 46.214126,
+"lng": 5.2335,
+"info": "15 avenue de l'Egalité 01000 Bourg-en-Bresse"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 46.118034,
+"lng": 5.821221,
+"info": "12 chemin du cimetière 01200 Bellegarde-sur-Valserine"
+},
+{
+"name": "Pompes Funèbres Marbrerie de la Côtière",
+"lat": 45.902617,
+"lng": 5.198339,
+"info": "14 rue des Verchères 01800 Meximieux"
+},
+{
+"name": "Pompes Funèbres Oyonnax Jollet",
+"lat": 46.258514,
+"lng": 5.653798,
+"info": "28 Av Jean Jaurès 01100 Oyonnax"
+},
+{
+"name": "Pompes Funèbres S.S.M.",
+"lat": 46.183288,
+"lng": 5.308156,
+"info": "zone Artisanale en Domagne 01250 Ceyzériat"
+},
+{
+"name": "Pompes Funèbres Alain Besset",
+"lat": 45.257122,
+"lng": 4.706494,
+"info": "100 Place Des Peupliers 07430 Davézieux"
+},
+{
+"name": "Pompes Funèbres Marbrerie Ardèche Funéraire",
+"lat": 44.734847,
+"lng": 4.597301,
+"info": "14 cours de l'Esplanade 07000 Privas"
+},
+{
+"name": "Pompes Funèbres Edmond Vabres",
+"lat": 45.083779,
+"lng": 4.816094,
+"info": "17 rue Centrale 07300 Saint-Jean-de-Muzols"
+},
+{
+"name": "Centre Funéraire Pollet-Juge",
+"lat": 45.053933,
+"lng": 4.836688,
+"info": "28 avenue Hélène de Tournon 07300 Tournon-sur-Rhône"
+},
+{
+"name": "Pompes Funèbres Marbrerie Alain Besset",
+"lat": 45.185965,
+"lng": 4.802624,
+"info": "38 avenue du Vivarais 07370 Sarras"
+},
+{
+"name": "Pompes Funèbres Les Fils de Louis Gay",
+"lat": 45.151248,
+"lng": 4.622984,
+"info": "561 rue Jean Moulin ZA du Faure 07290 Satillieu"
+},
+{
+"name": "Pompes Funèbres Valsoises",
+"lat": 44.665851,
+"lng": 4.364427,
+"info": "7 Quai Lieutenant-Colonel Tourre 07600 Vals-les-Bains"
+},
+{
+"name": "Pompes Funèbres Chièze",
+"lat": 44.894264,
+"lng": 4.641949,
+"info": "Avenue de Privas 07240 Vernoux-en-Vivarais"
+},
+{
+"name": "Pompes Funèbres Riffard",
+"lat": 44.541506,
+"lng": 4.293269,
+"info": "rue République 07110 Largentière"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Vallon",
+"lat": 44.941444,
+"lng": 4.914024,
+"info": "224  rue Barnave 26000 Valence"
+},
+{
+"name": "Pompes Funèbres Roblot",
+"lat": 45.046631,
+"lng": 5.049945,
+"info": "14  rue Pierre Sémard 26100 Romans-sur-Isère"
+},
+{
+"name": "Pompes funèbres Roc Eclerc",
+"lat": 45.286172,
+"lng": 4.82457,
+"info": "14 A Route D'anneyron  Lieu Dit Fouillouse Nord 26140 Saint-Rambert-d'Albon"
+},
+{
+"name": "Pompes Funèbres Roblot",
+"lat": 44.564903,
+"lng": 4.754729,
+"info": "9  avenue Saint-Lazare 26200 Montelimar"
+},
+{
+"name": "Pompes Funèbres Peageoises",
+"lat": 45.036562,
+"lng": 5.046761,
+"info": "64-66  Grande rue Jean Jaurès 26300 Bourg-de-Péage"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Billon",
+"lat": 45.197492,
+"lng": 5.73734,
+"info": "29 avenue Maréchal Randon 38000 Grenoble"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.525504,
+"lng": 4.875315,
+"info": "3  place François Mitterrand 38200 Vienne"
+},
+{
+"name": "Pompes Funèbres Réquiston Boudrier",
+"lat": 45.723048,
+"lng": 5.253172,
+"info": "16  faubourg des Moulins 38460 Crémieu"
+},
+{
+"name": "Pompes Funèbres Boudrier",
+"lat": 45.669962,
+"lng": 5.470278,
+"info": "184  route de Vezeronce 38510 Morestel"
+},
+{
+"name": "Pompes Funèbres Alain Besset",
+"lat": 45.526836,
+"lng": 4.923926,
+"info": "Rue Denis Capron  Le Plan Des Airs 38780 Pont-Évèque"
+},
+{
+"name": "Pompes Funèbres Celle",
+"lat": 45.204059,
+"lng": 4.039467,
+"info": "1  rue Neuve 43130 Retournac"
+},
+{
+"name": "Pompes Funèbres Grousson",
+"lat": 45.187186,
+"lng": 4.312786,
+"info": "24  Avenue du 19 Mars 1962 43290 Montfaucon-en-Velay"
+},
+{
+"name": "Pompes funèbres et Marbrerie POMMAT",
+"lat": 45.675768,
+"lng": 6.391126,
+"info": "8  rue Pargoud 73200 Albertville"
+},
+{
+"name": "Pompes Funebres - Marbrerie Funeralp",
+"lat": 46.134074,
+"lng": 6.46878,
+"info": "50  allée de la Géode 74490 Saint-Jeoire"
+},
+{
+"name": "Alain Sahut Funéraire",
+"lat": 45.77584,
+"lng": 3.083336,
+"info": "55 rue Saint Robert 63000 Clermont-Ferrand"
+},
+{
+"name": "BS Pompes Funèbres",
+"lat": 45.145197,
+"lng": 4.126819,
+"info": "6 Bis Avenue Maréchal de Vaux 43200 Yssingeaux"
+},
+{
+"name": "Gandy Pompes Funèbres Marbrerie",
+"lat": 45.688907,
+"lng": 5.909703,
+"info": "180 Bd Président Wilson 73100 Aix-les-Bains"
+},
+{
+"name": "Philae Services Funéraires",
+"lat": 46.371452,
+"lng": 6.47825,
+"info": "16 Rue Vallon 74200 Thonon-les-Bains"
+},
+{
+"name": "Pompes Funèbres Alpines",
+"lat": 45.054006,
+"lng": 6.033099,
+"info": "167 Rue des Cristalliers 38520 Le Bourg-d'Oisans"
+},
+{
+"name": "Pompes Funèbres Autem",
+"lat": 46.144683,
+"lng": 6.31829,
+"info": "160 rue de la Courbe 74380 Nangy"
+},
+{
+"name": "Pompes Funèbres Beauzacoise",
+"lat": 45.27824,
+"lng": 4.128532,
+"info": "impasse du pré château 43590 Beauzac"
+},
+{
+"name": "Pompes Funèbres Bories",
+"lat": 44.711508,
+"lng": 2.198144,
+"info": "120 rue Tour de Ville 15600 Maurs"
+},
+{
+"name": "Pompes funèbres Cairn",
+"lat": 44.91827,
+"lng": 4.916325,
+"info": "26 Rue Barthélémy de Laffemas 26000 Valence"
+},
+{
+"name": "Pompes Funèbres Cheynoux",
+"lat": 45.54233,
+"lng": 3.247401,
+"info": "13 Bd de la Sous-Préfecture 63500 Issoire"
+},
+{
+"name": "Pompes Funèbres COLOMB",
+"lat": 45.070345,
+"lng": 3.766266,
+"info": "6 Rue De L'Aviation ZAC De L'Aerodrome 43320 Chaspuzac"
+},
+{
+"name": "Pompes Funèbres Dabrigeon",
+"lat": 45.757162,
+"lng": 3.148472,
+"info": "100 avenue Ernest Cristal 63170 Aubière"
+},
+{
+"name": "Pompes Funèbres d'Auvergne",
+"lat": 45.779623,
+"lng": 3.096361,
+"info": "42 Avenue Charras 63000 Clermont-Ferrand"
+},
+{
+"name": "Pompes Funèbres de la Matheysine",
+"lat": 44.919916,
+"lng": 5.782681,
+"info": "ZA du Villaret - Pont de la Fange 38350 La Mure"
+},
+{
+"name": "Pompes Funèbres de Savoy",
+"lat": 45.4841,
+"lng": 6.534763,
+"info": "175 Rue de la Sous-Préfecture 73600 Moutiers"
+},
+{
+"name": "Pompes Funèbres Dolmazon",
+"lat": 45.231274,
+"lng": 4.400727,
+"info": "12 Place de l'église 43220 Riotord"
+},
+{
+"name": "Pompes Funèbres Du Livradois Forez",
+"lat": 45.551199,
+"lng": 3.739513,
+"info": "12 Avenue Georges Clemenceau 63600 Ambert"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Funeralp",
+"lat": 46.070295,
+"lng": 6.562962,
+"info": "104 Avenue Georges Clemenceau 74300 Cluses"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Savoisiennes Schaller",
+"lat": 46.195589,
+"lng": 6.239374,
+"info": "18 avenue du Giffre 74100 Annemasse"
+},
+{
+"name": "Pompes Funèbres et Marbrerie TARDIF-PFG",
+"lat": 45.414618,
+"lng": 3.319509,
+"info": "19 route de Charbonnier 63570 Brassac-les-Mines"
+},
+{
+"name": "Pompes Funèbres Funeralp",
+"lat": 46.195907,
+"lng": 6.239003,
+"info": "35 avenue Jules Ferry 74100 Annemasse"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.703351,
+"lng": 5.756708,
+"info": "120 chemin de ronde 73170 Yenne"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.899713,
+"lng": 6.127858,
+"info": "2 rue Camille Dunant 74000 Annecy"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.698798,
+"lng": 5.912286,
+"info": "42-44 avenue de Saint Simond 73100 Aix-les-Bains"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 46.189842,
+"lng": 6.230969,
+"info": "9-11 rue de la Paix 74100 Annemasse"
+},
+{
+"name": "Pompes Funèbres Goliard",
+"lat": 45.956468,
+"lng": 3.471503,
+"info": "46 rue Emile Zola 63290 Puy-Guillaume"
+},
+{
+"name": "Pompes Funèbres Intercommunales",
+"lat": 43.691648,
+"lng": 3.583817,
+"info": "Zone Artisanale de Pré Million 38600 La Terrasse"
+},
+{
+"name": "Pompes Funèbres Les Torrents",
+"lat": 45.834192,
+"lng": 3.494865,
+"info": "ZI Les Torrents 63920 Peschadoires"
+},
+{
+"name": "Pompes Funèbres Marbrerie A-Buttay",
+"lat": 46.376395,
+"lng": 6.492011,
+"info": "11 avenue de Champagne 74200 Thonon-les-Bains"
+},
+{
+"name": "Pompes Funèbres Marbrerie Ducron",
+"lat": 45.831629,
+"lng": 3.392453,
+"info": "53 avenue de Verdun 63190 Lezoux"
+},
+{
+"name": "Pompes Funèbres MAS - Marbrerie",
+"lat": 45.946604,
+"lng": 6.047449,
+"info": "120 Rte de Clermont 74330 Sillingy"
+},
+{
+"name": "Pompes Funèbres Mennuzo Funéraire",
+"lat": 45.90015,
+"lng": 3.117215,
+"info": "Avenue de Paris-Zac Cap Nord 63200 Riom"
+},
+{
+"name": "Pompes funèbres Musulmanes des Savoie",
+"lat": 45.567784,
+"lng": 5.923448,
+"info": "6 Av. des Ducs de Savoie 73000 Chambery"
+},
+{
+"name": "Pompes Funèbres Pascal et Fils",
+"lat": 45.038701,
+"lng": 3.065345,
+"info": "14 Rue Léopold Chastang ZI Montplain 15100 Saint-Flour"
+},
+{
+"name": "Pompes Funèbres Publiques",
+"lat": 45.563829,
+"lng": 5.914909,
+"info": "315 Avenue de Lyon 73000 Chambery"
+},
+{
+"name": "Pompes Funèbres Robert",
+"lat": 45.366276,
+"lng": 4.192116,
+"info": "Route de Bas en Basset 43110 Aurec-sur-Loire"
+},
+{
+"name": "Pompes funèbres Roc-Eclerc",
+"lat": 45.588197,
+"lng": 5.255062,
+"info": "139 Rue Isaac Asimov 38300 Bourgoin-Jallieu"
+},
+{
+"name": "Pompes Funèbres Rousset",
+"lat": 45.868093,
+"lng": 2.675566,
+"info": "2 avenue du Marronnier 63380 Pontaumur"
+},
+{
+"name": "Pompes Funèbres SERONDE - Le Choix Funéraire",
+"lat": 45.575583,
+"lng": 2.809089,
+"info": "17 place Charles de Gaulle 63240 Mont-Dore"
+},
+{
+"name": "Pompes Funèbres Suchier",
+"lat": 45.059945,
+"lng": 4.869124,
+"info": "225 Chemin de la Gravière 26600 Mercurol"
+},
+{
+"name": "Pompes Funèbres Vulliet",
+"lat": 45.886169,
+"lng": 6.329087,
+"info": "55 Rue de la Saulne 74230 Thônes"
+},
+{
+"name": "Pompes Funèbres PANSIER",
+"lat": 45.504326,
+"lng": 4.264264,
+"info": "1 rue du 11 Novembre 42170 Saint-Just-Saint-Rambert"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Fernandez Satre",
+"lat": 45.478875,
+"lng": 4.362929,
+"info": "1 rue Marthourey 42270 Saint-Priest-en-Jarez"
+},
+{
+"name": "Confiance Obsèques",
+"lat": 45.500957,
+"lng": 4.566861,
+"info": "10 rue LOuis Pasteur 42320 La Grand-Croix"
+},
+{
+"name": "Pompes Funèbres Mouleyre",
+"lat": 45.467826,
+"lng": 4.352297,
+"info": "12 -14 rue Danton 42390 Villars"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.512691,
+"lng": 4.263111,
+"info": "145 Boulevard Jean Jaurès 42170 Saint-Just-Saint-Rambert"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Lièvre - PFG",
+"lat": 46.020541,
+"lng": 4.089267,
+"info": "164-166, Avenue de la Libération,  42120 Le Coteau"
+},
+{
+"name": "Pompes Funèbres Roc-Eclerc",
+"lat": 45.472287,
+"lng": 4.371651,
+"info": "20 Avenue Pierre Mendès France 42270 Saint-Priest-en-Jarez"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Fernandez Satre",
+"lat": 45.44656,
+"lng": 4.362046,
+"info": "22 rue Noël Blacet 42000 Saint-Étienne"
+},
+{
+"name": "Pompes Funèbres du Centre Murat Martel",
+"lat": 45.397365,
+"lng": 4.327457,
+"info": "29 rue Thomas 42500 Le Chambon-Feugerolles"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.427888,
+"lng": 4.389195,
+"info": "32 rue Désiré Claude 42000 Saint-Étienne"
+},
+{
+"name": "Pompes Funèbres Rousset Colombet",
+"lat": 45.386722,
+"lng": 4.2899,
+"info": "4 Rue de l'Éternité 42700 Firminy"
+},
+{
+"name": "Pompes Funebres Musulmanes Chafchafi",
+"lat": 45.449073,
+"lng": 4.403158,
+"info": "5 boulevard Fauriat 42000 Saint-Étienne"
+},
+{
+"name": "Service Catholique des Funérailles",
+"lat": 45.440802,
+"lng": 4.384538,
+"info": "5 Rue Emile Combes 42000 Saint-Étienne"
+},
+{
+"name": "Ecoplus Funéraire Argaud",
+"lat": 45.419154,
+"lng": 4.392735,
+"info": "64 rue des Docteurs Charcot 42000 Saint-Étienne"
+},
+{
+"name": "Pompes Funèbres Santi-Ducarre",
+"lat": 46.138074,
+"lng": 4.108262,
+"info": "866 rue de la République 42720 Pouilly-sous-Charlieu"
+},
+{
+"name": "Pompes Funèbres Santi",
+"lat": 46.032082,
+"lng": 4.116931,
+"info": "Le Bourg 42120 Perreux"
+},
+{
+"name": "Pompes Funèbres Viollet",
+"lat": 45.758549,
+"lng": 5.023335,
+"info": "10 Avenue du Crottay 69780 Meyzieu"
+},
+{
+"name": "Pompes Funèbres Frétisse",
+"lat": 45.996629,
+"lng": 4.719009,
+"info": "127 Rue de Belleville 69400 Villefranche-sur-Saône"
+},
+{
+"name": "Pompes Funèbres CHABOUD",
+"lat": 45.743172,
+"lng": 4.877773,
+"info": "154/156/158 Cours Albert Thomas 69008 Lyon"
+},
+{
+"name": "Pompes Funèbres ROC-ECLERC",
+"lat": 45.760734,
+"lng": 4.905933,
+"info": "169 Rue Léon Blum 69100 Villeurbanne"
+},
+{
+"name": "Pôle Funéraire Public",
+"lat": 45.741544,
+"lng": 4.853789,
+"info": "181 Avenue Berthelot 69007 Lyon"
+},
+{
+"name": "Pompes Funèbres BONNEL",
+"lat": 45.692271,
+"lng": 4.871761,
+"info": "2 Rue Gabriel Bourdarias 69200 Vénissieux"
+},
+{
+"name": "Pompes Funèbres Gillot",
+"lat": 45.738545,
+"lng": 4.464377,
+"info": "21 Place du Platre 69930 Saint-Laurent-de-Chamousset"
+},
+{
+"name": "Pompes funèbres et Marbrerie BODRONE et Fils",
+"lat": 45.761171,
+"lng": 4.906253,
+"info": "221/223 rue Léon Blum 69100 Villeurbanne"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.879755,
+"lng": 4.835413,
+"info": "3 Quai Armand Barbes 69250 Neuville-sur-Saône"
+},
+{
+"name": "Pompes Funèbres des Monts d'Or",
+"lat": 45.810613,
+"lng": 4.813386,
+"info": "43 Avenue Gambetta 69450 Saint-Cyr-au-Mont-d'Or"
+},
+{
+"name": "Pompes Funèbres DELLI-COLLI",
+"lat": 45.693348,
+"lng": 5.028236,
+"info": "49 Av. Charles de Gaulle 69720 Saint-Bonnet-de-Mure"
+},
+{
+"name": "Centre funéraire Rivière",
+"lat": 45.736883,
+"lng": 4.898271,
+"info": "52 avenue Franklin Roosevelt 69500 Bron"
+},
+{
+"name": "Pompes Funèbres du Rhône",
+"lat": 45.764968,
+"lng": 4.8805,
+"info": "57 Rue Paul Verlaine 69100 Villeurbanne"
+},
+{
+"name": "Pôle Funéraire Public",
+"lat": 45.743535,
+"lng": 4.87852,
+"info": "68 Rue Professeur Florence 69003 Lyon"
+},
+{
+"name": "Pompes Funèbres Marbrerie Viollet",
+"lat": 45.765214,
+"lng": 4.965228,
+"info": "8 Rue du Repos 69150 Décines-Charpieu"
+},
+{
+"name": "Pompes funèbres marbrerie Francioli",
+"lat": 45.995376,
+"lng": 4.717803,
+"info": "92 Rue Roncevaux 69400 Villefranche-sur-Saône"
+},
+{
+"name": "confiance obseques",
+"lat": 45.542188,
+"lng": 4.647942,
+"info": "La Madeleine 69440 Chabanière"
+},
+{
+"name": "La Maison des Obsèques - Pompes Funèbres Boussel",
+"lat": 46.299416,
+"lng": 3.297478,
+"info": "10 Rue Louis Tellier 3500 Saint-Pourçain-sur-Sioule"
+},
+{
+"name": "Pompes Funèbres Boussel",
+"lat": 46.124935,
+"lng": 3.434927,
+"info": "1  Bd. Denière 3200 Vichy"
+},
+{
+"name": "Pompes Funèbres Dabrigeon -FUNERIS",
+"lat": 46.136719,
+"lng": 3.42516,
+"info": "19  rue des Bartins 3200 Vichy"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Vincent BEAUDONNET",
+"lat": 46.318586,
+"lng": 2.95329,
+"info": "10 Rue Dr Groslier 3390 Montmarault"
+},
+{
+"name": "Pompes Funèbres Krost",
+"lat": 46.569712,
+"lng": 3.325131,
+"info": "7  avenue du Gal. de Gaulle 3000 Moulins"
+},
+{
+"name": "Pompes Funèbres Lamarque Gaume Funéraires",
+"lat": 46.536908,
+"lng": 2.607195,
+"info": "28  rue Paul Constans 3190 Vallon-en-Sully"
+},
+{
+"name": "Pompes Funèbres Roc-Eclerc",
+"lat": 46.34588,
+"lng": 2.597394,
+"info": "43  Avenue de la République 3100 Montluçon"
+},
+{
+"name": "Pompes Funèbres Vigouroux",
+"lat": 46.213007,
+"lng": 3.439011,
+"info": "Z. I. Le Coquet 3260 Saint-Germain-des-Fossés"
+},
+{
+"name": "Espace Funéraire Michel Gardechaux",
+"lat": 46.431813,
+"lng": 4.937462,
+"info": "30 Rue Maréchal de Lattre De Tassigny 01190 Pont-de-Vaux"
+},
+{
+"name": "Pompes Funèbres BOUVET",
+"lat": 46.005394,
+"lng": 5.028971,
+"info": "219 rue de Bresse 01330 Villars-les-Dombes"
+},
+{
+"name": "Pompes Funèbres du plateau",
+"lat": 45.977739,
+"lng": 5.607127,
+"info": "265 avenue Félix Mangini 01110 Hauteville-Lompnes"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Pâtre - PFG",
+"lat": 46.400047,
+"lng": 5.113244,
+"info": "30 Route de Bourg 01560 Saint-Julien-sur-Reyssouze"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 46.263658,
+"lng": 5.632317,
+"info": "11 rue des Chérolles 01100 Oyonnax"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.975054,
+"lng": 5.599137,
+"info": "229 avenue de Lyon 01110 Hauteville-Lompnes"
+},
+{
+"name": "Pompes Funèbres Marbrerie Funeralp",
+"lat": 46.329463,
+"lng": 6.056491,
+"info": "243 avenue Francis Blanchard 01170 Gex"
+},
+{
+"name": "Pompes Funèbres Philia",
+"lat": 45.71248,
+"lng": 5.552102,
+"info": "536 Grande rue du Port 01300 Saint-BenoÃ®t"
+},
+{
+"name": "Pompes Funèbres SANCHEZ - Le Choix Funéraire",
+"lat": 46.005454,
+"lng": 4.755396,
+"info": "Zone Artisanale Le Chemin du Pardy 01480 Frans"
+},
+{
+"name": "Pompes Funèbres COLLOMB",
+"lat": 44.550646,
+"lng": 4.683022,
+"info": "104 rue de la République 07400 Le Teil"
+},
+{
+"name": "Pompes Funèbres Rochedieu",
+"lat": 44.983061,
+"lng": 4.571477,
+"info": "14 rue Conrad Killian 07270 Lamastre"
+},
+{
+"name": "Pompes Funèbres Pascal LECLERC",
+"lat": 44.933044,
+"lng": 4.879434,
+"info": "209 Avenue de la République 07500 Guilherand-Granges"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 43.430504,
+"lng": 3.735101,
+"info": "3 avenue Camille Claudel 07100 Annonay"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Baconnier - PFG",
+"lat": 44.735226,
+"lng": 4.595552,
+"info": "4 cours St-Louis 07000 Privas"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Chazel Martin - PFG",
+"lat": 44.756038,
+"lng": 4.749148,
+"info": "6 avenue Marcel Nicolas 07250 Le Pouzin"
+},
+{
+"name": "Pompes Funèbres ROBLOT",
+"lat": 44.734879,
+"lng": 4.598751,
+"info": "7 rue Albert Chambouleyron 07000 Privas"
+},
+{
+"name": "Pompes Funèbres Accassat",
+"lat": 44.799261,
+"lng": 3.983615,
+"info": "Le Pommier 07470 Coucouron"
+},
+{
+"name": "Pompes Funèbres Teilloise",
+"lat": 44.545132,
+"lng": 4.685265,
+"info": "Z.A Rhône Helvie 5 allée du Faisceau 07400 Le Teil"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 44.937585,
+"lng": 4.912345,
+"info": "269  avenue de Romans 26000 Valence"
+},
+{
+"name": "Pompes Funèbres Romanaises",
+"lat": 45.04514,
+"lng": 5.051168,
+"info": "17  Place du 75ème Régiment d'Infanterie 26100 Romans-sur-Isère"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Didier Bouillanne",
+"lat": 44.756395,
+"lng": 5.367622,
+"info": "73  avenue Sadi Carnot 26150 Die"
+},
+{
+"name": "Pompes Funèbres Roc-Eclerc",
+"lat": 44.538251,
+"lng": 4.730891,
+"info": "6  rue Hispano Suiza - Le Pôle provençal 26200 Montelimar"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Arole - PFG",
+"lat": 44.73098,
+"lng": 5.017453,
+"info": "2  avenue Henri Grand 26400 Crest"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.19929,
+"lng": 5.739158,
+"info": "6 avenue Maréchal Randon 38000 Grenoble"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Pilot Bourdon - Dignité Funéraire",
+"lat": 45.297787,
+"lng": 5.484196,
+"info": "16  avenue Beregovoy 38210 Tullins"
+},
+{
+"name": "Pompes Funèbres Vitaloni",
+"lat": 45.205149,
+"lng": 5.402623,
+"info": "346  Impasse de Vinay- ZAC Trery Sud 38470 Vinay"
+},
+{
+"name": "Pompes Funèbres Baudrion",
+"lat": 45.432309,
+"lng": 6.023864,
+"info": "50  place Pierre du Terrail 38530 Pontcharra"
+},
+{
+"name": "Pompes Funèbres Bay Didier",
+"lat": 45.012012,
+"lng": 3.900802,
+"info": "ZA de Taulhac  16 Rue Jean Brenas 43000 Le Puy-en-Velay"
+},
+{
+"name": "Pompes funèbres Tence",
+"lat": 45.11567,
+"lng": 4.285072,
+"info": "15  Grande Rue 43190 Tence"
+},
+{
+"name": "Pompes Funèbres Mirmand Albert et Fils",
+"lat": 45.332181,
+"lng": 3.847984,
+"info": "30  boulevard du Nord 43500 Craponne-sur-Arzon"
+},
+{
+"name": "Gandy Pompes Funèbres Marbrerie",
+"lat": 46.146183,
+"lng": 6.319343,
+"info": "30 chemin de la Courbe  Findrol 74150 Contamine-sur-Arve"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.932248,
+"lng": 6.633228,
+"info": "86  route du Fayet 74700 Sallanches"
+},
+{
+"name": "Alain Sahut Funéraire",
+"lat": 45.770623,
+"lng": 3.128666,
+"info": "78 rue Pierre Estienne 63000 Clermont-Ferrand"
+},
+{
+"name": "Centre Funéraire POLLET",
+"lat": 45.069975,
+"lng": 4.838655,
+"info": "90 av J Jaurès 26600 Tain-l'Hermitage"
+},
+{
+"name": "Gandy Pompes Funèbres Marbrerie Annemasse",
+"lat": 46.194002,
+"lng": 6.240123,
+"info": "2 Pl. de l'Étoile 74100 Annemasse"
+},
+{
+"name": "Pompe Funèbres, Marbrerie de La Vanoise",
+"lat": 45.199035,
+"lng": 6.668164,
+"info": "120 route de Bardonnèche 73500 Modane"
+},
+{
+"name": "Pompes Funèbres Alpines",
+"lat": 44.906685,
+"lng": 5.785434,
+"info": "4 Rue du Breuil 38350 La Mure"
+},
+{
+"name": "Pompes funèbres Bachelerie",
+"lat": 45.438998,
+"lng": 3.774909,
+"info": "Route de Beurrières 63220 Arlanc"
+},
+{
+"name": "Pompes Funèbres Belle Étoile",
+"lat": 45.676564,
+"lng": 6.393035,
+"info": "3 rue Gambetta 73200 Albertville"
+},
+{
+"name": "Pompes Funèbres Boudrier Réquisition",
+"lat": 45.753081,
+"lng": 5.195576,
+"info": "9 rue Jacqueline Auriol 38230 Tignieu-Jameyzieu"
+},
+{
+"name": "Pompes Funèbres Cartier-Lange",
+"lat": 45.345199,
+"lng": 6.294098,
+"info": "365 av de la Gare - BP 2 73130 Saint-Étienne-de-Cuines"
+},
+{
+"name": "Pompes Funèbres Cheynoux",
+"lat": 45.646082,
+"lng": 3.229125,
+"info": "15 impasse des Meuliers 63270 Vic-le-Comte"
+},
+{
+"name": "Pompes Funèbres Colon Daniel",
+"lat": 45.682005,
+"lng": 2.799199,
+"info": "14 route de Bordas 63210 Rochefort-Montagne"
+},
+{
+"name": "Pompes Funèbres Dabrigeon",
+"lat": 45.745263,
+"lng": 3.087534,
+"info": "15 rue Jules Verne 63110 Beaumont"
+},
+{
+"name": "Pompes Funèbres de France",
+"lat": 46.3708,
+"lng": 6.482199,
+"info": "1 boulevard georges Andrier 74200 Thonon-les-Bains"
+},
+{
+"name": "Pompes Funèbres de la Matheysine",
+"lat": 44.919916,
+"lng": 5.782681,
+"info": "ZA du Villaret - Pont de la Fange 38350 Susville"
+},
+{
+"name": "Pompes Funèbres Del Papa Lucien & Fils",
+"lat": 44.423224,
+"lng": 4.891955,
+"info": "ZA nord la Dagasse 26230 Grignan"
+},
+{
+"name": "Pompes Funèbres Dolmazon",
+"lat": 45.049045,
+"lng": 4.246163,
+"info": "21 route de Tence 43520 Mazet-Saint-Voy"
+},
+{
+"name": "Pompes Funèbres du Velay",
+"lat": 45.13241,
+"lng": 3.810408,
+"info": "4 place de La Prade 43350 Saint-Paulien"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Funeralp",
+"lat": 46.104834,
+"lng": 6.590627,
+"info": "294 avenue de Thézières 74440 Taninges"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Sedran",
+"lat": 45.687975,
+"lng": 5.911162,
+"info": "27 avenue du Général de Gaulle 73100 Aix-les-Bains"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Vallon",
+"lat": 44.839907,
+"lng": 4.96207,
+"info": "158 Chemin de l'Oye 26120 Montmeyran"
+},
+{
+"name": "Pompes Funèbres Genérales",
+"lat": 45.774037,
+"lng": 3.085301,
+"info": "36 Rue du Maréchal De Lattre 63000 Clermont-Ferrand"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.855621,
+"lng": 3.541095,
+"info": "14 rue des Limandons 63300 Thiers"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.483275,
+"lng": 6.533924,
+"info": "28 rue du Pain de mai 73600 Moutiers"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 46.366458,
+"lng": 6.469518,
+"info": "56bis grande rue 74200 Thonon-les-Bains"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 48.315477,
+"lng": 1.427541,
+"info": "Chemin du Loup 74160 Saint-Julien-en-Genevois"
+},
+{
+"name": "Pompes Funèbres Gramont",
+"lat": 45.174641,
+"lng": 2.319041,
+"info": "Route de Mauriac 15700 Ally"
+},
+{
+"name": "Pompes Funèbres JOUBERT",
+"lat": 45.632712,
+"lng": 3.56255,
+"info": "Route d'Olliergues 63590 Cunlhat"
+},
+{
+"name": "Pompes Funèbres Lezer",
+"lat": 45.281517,
+"lng": 2.659289,
+"info": "8 Rue du Capitaine Chevalier 15400 Riom-ès-Montagnes"
+},
+{
+"name": "Pompes Funèbres Marbrerie Anneciennes G.Golliet",
+"lat": 45.904008,
+"lng": 6.130755,
+"info": "3 av du parmelan 74000 Annecy"
+},
+{
+"name": "Pompes Funèbres Marbrerie Faure",
+"lat": 45.272234,
+"lng": 6.361452,
+"info": "262 Rue du Parquet 73300 Saint-Jean-de-Maurienne"
+},
+{
+"name": "Pompes Funèbres Mauriacoises",
+"lat": 45.220468,
+"lng": 2.343298,
+"info": "6 Rue Longchamp 15200 Mauriac"
+},
+{
+"name": "Pompes Funèbres MICHELON",
+"lat": 45.046796,
+"lng": 5.046796,
+"info": "17 Bd de la Libération 26100 Romans-sur-Isère"
+},
+{
+"name": "Pompes Funèbres Musulmanes El Ihsane",
+"lat": 45.172208,
+"lng": 5.756529,
+"info": "28 Avenue Potie 38400 Saint-Martin-d'Hères"
+},
+{
+"name": "Pompes Funèbres Péageoises - Groupe DUMOULIN - Le Choix Funéraire",
+"lat": 45.02886,
+"lng": 5.047449,
+"info": "2 Rue Jacques Prévert 26300 Bourg-de-Péage"
+},
+{
+"name": "Pompes Funèbres Publiques",
+"lat": 45.694296,
+"lng": 5.907389,
+"info": "32 avenue Prés 73100 Aix-les-Bains"
+},
+{
+"name": "Pompes Funèbres Robert Guimbaud",
+"lat": 45.251316,
+"lng": 5.01751,
+"info": "ZA Les Gonnets Nord Lieu dit« La Fourmilière» 26390 Hauterives"
+},
+{
+"name": "Pompes Funèbres Roc-Eclerc",
+"lat": 45.690906,
+"lng": 5.909652,
+"info": "27 Boulevard Président Wilson 73100 Aix-les-Bains"
+},
+{
+"name": "Pompes Funèbres Rousset",
+"lat": 45.831652,
+"lng": 2.851673,
+"info": "Place de la République 63230 Pontgibaud"
+},
+{
+"name": "Pompes Funèbres SERONDE - Le Choix Funéraire",
+"lat": 45.759379,
+"lng": 3.096185,
+"info": "48 bis rue Montcalm 63000 Clermont-Ferrand"
+},
+{
+"name": "Pompes Funèbres Theuil et Fils",
+"lat": 45.879193,
+"lng": 3.696912,
+"info": "24 Rue de Lyon 63250 Chabreloche"
+},
+{
+"name": "Pompes Funèbres Dolmazon",
+"lat": 45.283627,
+"lng": 4.390034,
+"info": "1 Bis rte Dunieres 42660 Marlhes"
+},
+{
+"name": "Pompes Funèbres Joasson-Ballot",
+"lat": 46.165496,
+"lng": 4.175538,
+"info": "1 rue du Brionnais 42190 Charlieu"
+},
+{
+"name": "Pompes Funèbres Marbrerie Murat Martel",
+"lat": 45.396929,
+"lng": 4.295464,
+"info": "1 rue Michel Rondet 42700 Firminy"
+},
+{
+"name": "Pompes Funèbres Nephtys",
+"lat": 45.497628,
+"lng": 4.570515,
+"info": "100 rue de Burlat 42320 La Grand-Croix"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Fernandez Satre",
+"lat": 45.443835,
+"lng": 4.367771,
+"info": "12 rue Danton 42000 Saint-Étienne"
+},
+{
+"name": "Pompes Funèbres des 3 Boulevards",
+"lat": 46.1588,
+"lng": 4.173514,
+"info": "15 boulevard Jacquard 42190 Charlieu"
+},
+{
+"name": "Pompes Funèbres Musulmanes Nabil",
+"lat": 45.434704,
+"lng": 4.382561,
+"info": "17 rue Beaubrun 42000 Saint-Étienne"
+},
+{
+"name": "Pompes Funèbres MAISON GEYSSANT - Un jour une fleur",
+"lat": 45.340068,
+"lng": 4.419533,
+"info": "20 place Maréchal Foch 42660 Saint-Genest-Malifaux"
+},
+{
+"name": "Pompes Funèbres Bonnet Mialon",
+"lat": 45.425511,
+"lng": 4.062314,
+"info": "22, Bd du Vernay 42380 Saint-Bonnet-le-Château"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.388535,
+"lng": 4.286907,
+"info": "3 place du Breuil 42700 Firminy"
+},
+{
+"name": "Pompes Funèbres et Marbrerie CRÉPET",
+"lat": 45.740761,
+"lng": 4.01955,
+"info": "327 avenue de la ZI 42130 Sainte-Agathe-la-Bouteresse"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Murat Martel",
+"lat": 45.403826,
+"lng": 4.367269,
+"info": "4 rue Paul Langevin 42150 La Ricamarie"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Murat Martel",
+"lat": 45.439925,
+"lng": 4.391643,
+"info": "5 place Jean Grivolat 42000 Saint-Étienne"
+},
+{
+"name": "Pompes Funèbres Marbrerie de la PLAINE",
+"lat": 45.50236,
+"lng": 4.240306,
+"info": "55 boulevard du Poyet 42170 Saint-Just-Saint-Rambert"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.418854,
+"lng": 4.39282,
+"info": "68 rue des Docteurs Charcot 42000 Saint-Étienne"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Paire",
+"lat": 46.053563,
+"lng": 3.93117,
+"info": "89 allée des étangs nord 42370 Renaison"
+},
+{
+"name": "Pompes Funèbres de l'Astrée",
+"lat": 45.746827,
+"lng": 4.011823,
+"info": "Z.A de Champbayard 42130 Boën-sur-Lignon"
+},
+{
+"name": "Pompes Funèbres Philippe Poyard",
+"lat": 45.662918,
+"lng": 4.561928,
+"info": "10 Route d'Yzeron 69850 Saint-Martin-en-Haut"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Poyet",
+"lat": 45.837406,
+"lng": 4.615147,
+"info": "13 Rue de Paris 69210 L'Arbresle"
+},
+{
+"name": "Pompes Funèbres Joubert - STEP",
+"lat": 45.763522,
+"lng": 4.796531,
+"info": "157 Avenue Barthelemy Buyer 69005 Lyon"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.463348,
+"lng": 4.76675,
+"info": "17 Rue de Belfort 69420 Condrieu"
+},
+{
+"name": "Pompes Funèbres Villeurbannaises Marbrerie PILOT",
+"lat": 45.76483,
+"lng": 4.911667,
+"info": "18-22 Rue du Cimetiere 69100 Villeurbanne"
+},
+{
+"name": "Centre funéraire Rivière",
+"lat": 45.766045,
+"lng": 4.936796,
+"info": "20 Avenue Franklin Roosevelt 69120 Vaulx-en-Velin"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.904985,
+"lng": 4.430925,
+"info": "21 Route de Thizy 69170 Tarare"
+},
+{
+"name": "Pompes Funèbres Générales - Quincieu Fleurs",
+"lat": 45.802864,
+"lng": 4.851363,
+"info": "24-26 Avenue Louis Dufour 69300 Caluire-et-Cuire"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.632578,
+"lng": 4.856779,
+"info": "3 Rue Burago Di Molgora 69360 Saint-Symphorien-d'Ozon"
+},
+{
+"name": "Pompes Funèbres Tarnaud - Philae Services Funéraires",
+"lat": 45.731591,
+"lng": 5.002977,
+"info": "43 Rue de la République 69740 Genas"
+},
+{
+"name": "Pompes funèbres Marbrerie Durin-Pruvost",
+"lat": 45.681581,
+"lng": 4.884112,
+"info": "49 Chemin de Feyzin 69200 Vénissieux"
+},
+{
+"name": "Pompes funèbres ATL - Ecofunéraire",
+"lat": 45.83673,
+"lng": 4.616721,
+"info": "52 Rue Charles de Gaulle 69210 L'Arbresle"
+},
+{
+"name": "Pompes Funèbres Une Vie Ailleurs",
+"lat": 45.97918,
+"lng": 4.712198,
+"info": "610 rue Jean Michel Savigny 69400 Villefranche-sur-Saône"
+},
+{
+"name": "Pompes Funèbres Pinault",
+"lat": 45.873733,
+"lng": 4.839129,
+"info": "7 Avenue Burdeau 69250 Neuville-sur-Saône"
+},
+{
+"name": "Pompes Funèbres ANI",
+"lat": 45.768775,
+"lng": 4.943703,
+"info": "80 Avenue Jean Jaures 69150 Décines-Charpieu"
+},
+{
+"name": "Pompes funèbres Roc Eclerc",
+"lat": 45.746861,
+"lng": 4.789379,
+"info": "95 rue du Commandant Charcot 69110 69110 Sainte-Foy-lès-Lyon"
+},
+{
+"name": "Ainay Funéraire",
+"lat": 46.711471,
+"lng": 2.694486,
+"info": "18  Av. V. Hugo 3360 Ainay-le-Château"
+},
+{
+"name": "La Maison des Obsèques-Pompes Funèbres Boussel",
+"lat": 46.295849,
+"lng": 3.422162,
+"info": "ZA de la Feuillouse 3150 Varennes-sur-Allier"
+},
+{
+"name": "Pompes Funèbres Boussel",
+"lat": 46.130303,
+"lng": 3.423532,
+"info": "53  rue J. Jaurès 3200 Vichy"
+},
+{
+"name": "Pompes Funèbres et Marbrerie COLOMBAT - PFG",
+"lat": 46.067716,
+"lng": 3.657761,
+"info": "La Boulaire 3250 Le Mayet-de-Montagne"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 46.34562,
+"lng": 2.608863,
+"info": "56-60 Avenue Général de Gaulle 3100 Montluçon"
+},
+{
+"name": "Pompes Funèbres Krost",
+"lat": 46.63136,
+"lng": 3.648414,
+"info": "ZA les Serins - Route de Moulins 3230 Garnat-sur-Engièvre"
+},
+{
+"name": "Pompes Funèbres Marbrerie Agnès Ocquidant",
+"lat": 46.731104,
+"lng": 2.939228,
+"info": "29 Boulevard Gambetta 3320 Lurcy-Lévis"
+},
+{
+"name": "Pompes Funèbres Roc-Eclerc",
+"lat": 46.290573,
+"lng": 2.740913,
+"info": "29  rue Jean Jaurès 3600 Commentry"
+},
+{
+"name": "Pompes Funèbres Viturat - ROC'ECLERC",
+"lat": 46.465107,
+"lng": 3.431869,
+"info": "4 et 5  place de la Mairie 3340 Neuilly-le-Réal"
+},
+{
+"name": "Espace Funéraire Michel Gardechaux",
+"lat": 46.459548,
+"lng": 5.080789,
+"info": "20 Grande Rue 01560 Saint-Trivier-de-Courtes"
+},
+{
+"name": "Pompes Funèbres BOUVET",
+"lat": 45.940393,
+"lng": 4.777893,
+"info": "1 rue du Bois 01600 Trévoux"
+},
+{
+"name": "Pompes Funèbres Enora-Philae services funéraires",
+"lat": 46.192665,
+"lng": 5.288374,
+"info": "536 Chemin du Petit Plan 01250 Saint-Just"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Sorgia",
+"lat": 46.105221,
+"lng": 5.819751,
+"info": "04 carrefour aux portes de l'Ain 01200 Bellegarde-sur-Valserine"
+},
+{
+"name": "Pompes Funèbres Générales",
+"lat": 45.971093,
+"lng": 5.351964,
+"info": "5 rue du Repos 01500 Ambérieu-en-Bugey"
+},
+{
+"name": "Pompes Funèbres LIMAT",
+"lat": 45.993587,
+"lng": 4.907463,
+"info": "338 Route du Gouverneur 01330 Ambérieux-en-Dombes"
+},
+{
+"name": "Pompes Funèbres Marbrerie Gandy",
+"lat": 46.282193,
+"lng": 6.051316,
+"info": "ZA les Grands Près 01170 Chevry"
+},
+{
+"name": "Pompes Funèbres PINAULT",
+"lat": 45.830019,
+"lng": 4.946984,
+"info": "1174 Grande Rue 01700 Miribel"
+},
+{
+"name": "Pompes funèbres Sublimatorium Florian Leclerc",
+"lat": 45.904169,
+"lng": 5.347763,
+"info": "5 Place de l'église 01150 Lagnieu"
+},
+{
+"name": "Pompes Funèbres Combet Père et Fils",
+"lat": 44.372871,
+"lng": 4.64212,
+"info": "11 Avenue Félix Chalamel 07700 Bourg-Saint-Andeol"
+},
+{
+"name": "Pompes Funèbres Marbrerie Alain Besset",
+"lat": 45.242923,
+"lng": 4.665652,
+"info": "14 rue prix baroux 07100 Annonay"
+},
+{
+"name": "Pompes Funèbres et Marbrerie Baconnier - PFG",
+"lat": 44.612079,
+"lng": 4.397813,
+"info": "21 bis avenue de Bellande 07200 Aubenas"
+},
+{
+"name": "Pompes Funèbres Roc-Eclerc",
+"lat": 44.60984,
+"lng": 4.391261,
+"info": "3 rue Ampère 07200 Aubenas"
+},
+{
+"name": "Pompes Funèbres Henocq",
+"lat": 44.479944,
+"lng": 4.235898,
+"info": "45 route Nationale 07260 Joyeuse"
+},
+{
+"name": "Pompes Funèbres Lionel Vallier",
+"lat": 44.413026,
+"lng": 4.373963,
+"info": "6 route de Ruoms 07150 Vallon-Pont-d'Arc"
+},
+{
+"name": "Pompes Funèbres Edmond Vabres",
+"lat": 44.944138,
+"lng": 4.841808,
+"info": "78 rue de la République 07130 Saint-Péray"
+},
+{
+"name": "Pompes funèbres LAGANIER",
+"lat": 44.491771,
+"lng": 4.229914,
+"info": "Le Pré du ChÃ¢teau 07260 Joyeuse"
+}
+
     ],
     "category2": [
         {
